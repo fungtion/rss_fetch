@@ -27,7 +27,8 @@ def get_feeds(file_path):
 
 def fetch_articles(feeds):
     print(f"Time: {datetime.now()}")
-    now = datetime.now()
+    # Use UTC for reliable comparison
+    now = datetime.now().astimezone() # Local time with timezone info
     yesterday = now - timedelta(hours=24)
     collected = []
 
@@ -43,7 +44,14 @@ def fetch_articles(feeds):
                     elif hasattr(entry, 'updated_parsed'): t = entry.updated_parsed
                     
                     if t:
-                        pub_time = datetime.fromtimestamp(mktime(t))
+                        # feedparser returns UTC struct_time
+                        # Create UTC aware datetime
+                        from datetime import timezone
+                        pub_time_utc = datetime(*t[:6], tzinfo=timezone.utc)
+                        
+                        # Convert to local time for comparison and storage
+                        pub_time = pub_time_utc.astimezone()
+                        
                         # 筛选过去 24 小时
                         if yesterday <= pub_time <= now:
                             collected.append({
@@ -52,7 +60,6 @@ def fetch_articles(feeds):
                                 'title': entry.get('title', 'No Title'),
                                 'link': entry.get('link', ''),
                                 'date': pub_time.strftime('%Y-%m-%d %H:%M'),
-                                # 既然是发给我分析，保留摘要很有用
                                 'summary': entry.get('summary', '')
                             })
                 except: continue
