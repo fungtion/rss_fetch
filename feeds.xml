@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Feeds of Jerry Vonda from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="IT" title="IT">
+      <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" xmlUrl="https://feeds.feedburner.com/ruanyifeng" htmlUrl="https://www.ruanyifeng.com/blog/"/>
+      <outline text="小众软件" title="小众软件" type="rss" xmlUrl="https://feed.appinn.com/" htmlUrl="https://www.appinn.com/"/>
+      <outline text="Product Hunt 热门" title="Product Hunt 热门" type="rss" xmlUrl="https://ph.buzzing.cc/feed.xml" htmlUrl="https://ph.buzzing.cc/feed.json"/>
+      <outline text="异次元软件世界" title="异次元软件世界" type="rss" xmlUrl="https://feed.iplaysoft.com/" htmlUrl="https://www.iplaysoft.com/"/>
+      <outline text="iOS | 反斗限免" title="iOS | 反斗限免" type="rss" xmlUrl="https://free.apprcn.com/category/ios/feed/" htmlUrl="https://free.apprcn.com/"/>
+      <outline text="IT之家" title="IT之家" type="rss" xmlUrl="https://www.ithome.com/rss/" htmlUrl="https://www.ithome.com/"/>
+      <outline text="少数派" title="少数派" type="rss" xmlUrl="https://sspai.me/feed" htmlUrl="https://sspai.com/feed"/>
+      <outline text="Release notes from logseq" title="Release notes from logseq" type="rss" xmlUrl="https://github.com/logseq/logseq/releases.atom" htmlUrl="https://github.com/logseq/logseq/releases"/>
+      <outline text="Mac | 反斗限免" title="Mac | 反斗限免" type="rss" xmlUrl="https://free.apprcn.com/category/mac/feed/" htmlUrl="https://free.apprcn.com/"/>
+      <outline text="美团技术团队" title="美团技术团队" type="rss" xmlUrl="https://tech.meituan.com/atom.xml" htmlUrl="https://tech.meituan.com/"/>
+      <outline text="Hacker News 热门" title="Hacker News 热门" type="rss" xmlUrl="https://hn.buzzing.cc/feed.xml" htmlUrl="https://hn.buzzing.cc/feed.json"/>
+    </outline>
+    <outline text="ML" title="ML">
+      <outline text="didi's GitHub repositories" title="didi's GitHub repositories" type="rss" xmlUrl="https://rsshub.app/github/repos/didi" htmlUrl="https://github.com/didi"/>
+      <outline text="NVlabs's GitHub repositories" title="NVlabs's GitHub repositories" type="rss" xmlUrl="https://rsshub.app/github/repos/NVlabs" htmlUrl="https://github.com/NVlabs"/>
+      <outline text="TencentYoutuResearch's GitHub repositories" title="TencentYoutuResearch's GitHub repositories" type="rss" xmlUrl="https://rsshub.app/github/repos/TencentYoutuResearch" htmlUrl="https://github.com/TencentYoutuResearch"/>
+      <outline text="Alibaba's GitHub repositories" title="Alibaba's GitHub repositories" type="rss" xmlUrl="https://rsshub.app/github/repos/Alibaba" htmlUrl="https://github.com/Alibaba"/>
+      <outline text="baidu's GitHub repositories" title="baidu's GitHub repositories" type="rss" xmlUrl="https://rsshub.app/github/repos/baidu" htmlUrl="https://github.com/baidu"/>
+      <outline text="genforce's GitHub repositories" title="genforce's GitHub repositories" type="rss" xmlUrl="https://rsshub.app/github/repos/genforce" htmlUrl="https://github.com/genforce"/>
+      <outline text="掘金 人工智能" title="掘金 人工智能" type="rss" xmlUrl="https://rsshub.app/juejin/category/ai" htmlUrl="https://juejin.im/welcome/ai"/>
+      <outline text="Tencent's GitHub repositories" title="Tencent's GitHub repositories" type="rss" xmlUrl="https://rsshub.app/github/repos/Tencent" htmlUrl="https://github.com/Tencent"/>
+      <outline text="GitHub Public Timeline Feed" title="GitHub Public Timeline Feed" type="rss" xmlUrl="https://github.com/facebookresearch.atom" htmlUrl="https://github.com/facebookresearch"/>
+    </outline>
+    <outline text="Life" title="Life">
+      <outline text="全球深度报道网" title="全球深度报道网" type="rss" xmlUrl="https://cn.gijn.org/feed/" htmlUrl="https://cn.gijn.org/"/>
+      <outline text="国内新闻_国家应急广播网" title="国内新闻_国家应急广播网" type="rss" xmlUrl="https://rsshub.app/cneb/guoneinews" htmlUrl="http://www.cneb.gov.cn/guoneinews/"/>
+      <outline text="最新政策 - 中国政府网" title="最新政策 - 中国政府网" type="rss" xmlUrl="https://rsshub.app/gov/zhengce/zuixin" htmlUrl="http://www.gov.cn/zhengce/zuixin.htm"/>
+    </outline>
+  </body>
+</opml>
