@@ -76,8 +76,27 @@ if __name__ == "__main__":
         date_str = datetime.now().strftime('%Y-%m-%d')
         filename = os.path.join(SAVE_DIR, f'{date_str}.json')
         
+        # 读取现有数据以追加（去重）
+        existing_articles = []
+        if os.path.exists(filename):
+            try:
+                with open(filename, 'r', encoding='utf-8') as f:
+                    existing_articles = json.load(f)
+            except Exception as e:
+                print(f"Error reading existing file: {e}")
+        
+        # 使用链接去重
+        existing_links = set(item.get('link') for item in existing_articles)
+        new_count = 0
+        
+        for article in articles:
+            if article.get('link') not in existing_links:
+                existing_articles.append(article)
+                existing_links.add(article.get('link'))
+                new_count += 1
+        
         with open(filename, 'w', encoding='utf-8') as f:
-            json.dump(articles, f, ensure_ascii=False, indent=2)
-        print(f"Saved {len(articles)} articles to {filename}")
+            json.dump(existing_articles, f, ensure_ascii=False, indent=2)
+        print(f"Saved {len(existing_articles)} articles ({new_count} new) to {filename}")
     else:
         print("No feeds found.")
