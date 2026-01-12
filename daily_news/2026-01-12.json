@@ -1,0 +1,802 @@
+[
+  {
+    "source": "小众软件",
+    "category": "小众软件",
+    "title": "Keep Alive Lite – 免费，安卓版「死了么」，继续证明自己活着",
+    "link": "https://www.appinn.com/keep-alive-lite/",
+    "date": "2026-01-11 04:34",
+    "summary": "昨天横空出世的 8 块钱 iPhone 应用「死了么」，可谓赚足了眼球，已经破圈。虽然证明自己活着这件事真的没什么用，但的确符合小众软件的气质。 感谢来自微信的 三一之人 同学就给小众软件推荐了一款安卓版「死了么」 Keep Alive Lite 如果您在指定时间内未使用设备，Keep Alive"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "Meme? Yes - 别再用AltTab切换了。这是找到梗图的最快方式。",
+    "link": "https://chromewebstore.google.com/detail/meme-yes/fobkoahjldaainfncmdfbkgcfbamkmei",
+    "date": "2026-01-11 15:57",
+    "summary": "Stop Alt-Tabbing. The fastest way to find memes."
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "MTV REWIND - 全天候音乐视频流媒体——当年MTV还真正播放音乐的时候",
+    "link": "https://wantmymtv.xyz/",
+    "date": "2026-01-11 13:44",
+    "summary": "24/7 music video streaming-MTV when it actually played music"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "Funding Goal - 计算你应该筹集多少资金以及原因",
+    "link": "https://angelmatch.io/resources/funding-goal-calculator",
+    "date": "2026-01-11 12:37",
+    "summary": "Calculate how much you should raise and why"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "Lexie - 一款将语言练习变成游戏的电子宠物",
+    "link": "https://apps.apple.com/us/app/lexie-french-numbers-trainer/id6748887471?at=1000l6eA",
+    "date": "2026-01-11 09:55",
+    "summary": "A Tamagotchi that turns language practice into a game"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "Elser AI - 只需一个提示词，几分钟内即可创作完整的动画短片",
+    "link": "https://www.elser.ai/",
+    "date": "2026-01-11 09:24",
+    "summary": "Create full anime shorts with just a prompt in minutes"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "Squair - 两分钟平息焦虑：海军海豹突击队呼吸法",
+    "link": "https://squair.app/",
+    "date": "2026-01-11 08:51",
+    "summary": "Calm anxiety in 2 minutes with Navy SEAL breathing"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "HtmlDrag - 自由形式的画布，适用于任何HTML（无网格，无线框图）",
+    "link": "https://htmldrag.com/",
+    "date": "2026-01-11 08:51",
+    "summary": "A freeform canvas for any HTML (no grids, no wireframes)"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "AI SmartTalk - 无需编码的AI助手，数分钟内即可部署于任何渠道",
+    "link": "https://aismarttalk.tech/en",
+    "date": "2026-01-11 08:50",
+    "summary": "No-code AI agents for any channel in minutes"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "Dabble me - 邮件提示栏，回复即成日记条目",
+    "link": "https://dabble.me/",
+    "date": "2026-01-11 08:50",
+    "summary": "Email prompts where replies become your journal entries"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "Sloggo - 基于DuckDB的轻量级系统日志收集器与查看器",
+    "link": "https://github.com/phare/sloggo",
+    "date": "2026-01-11 08:50",
+    "summary": "Minimal syslog collector and viewer based on DuckDB"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "P402.io - 路由、验证并结算已支付的API调用，附带清晰的追踪记录",
+    "link": "https://www.p402.io/",
+    "date": "2026-01-11 08:50",
+    "summary": "Route, verify, and settle paid API calls with clear traces"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "Shipper Visual Edit - 一键直观编辑应用，无需手动修复",
+    "link": "https://shipper.now/",
+    "date": "2026-01-11 08:50",
+    "summary": "Edit apps visually in 1 click without having to prompt fixes"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "SkreenPro - 截图编辑。开源。免费。强大。",
+    "link": "https://skreen.pro/",
+    "date": "2026-01-11 03:33",
+    "summary": "Screenshot Editing. Open Source. Free. Powerful."
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "消息称苹果 iOS 26.4 将对健康应用进行重大升级：全新类别布局、简化指标记录",
+    "link": "https://www.ithome.com/0/912/359.htm",
+    "date": "2026-01-12 00:39",
+    "summary": "<p>IT之家 1 月 12 日消息，据外媒 Macworld 报道，苹果将于 iOS 26.4 中对健康应用进行重大升级，引入“新的类别布局”和“简化的指标记录”。如果一切按计划进行，我们最早下个月（2 月）就能看到 iOS 26.4 的测试版，正式版预计将于春季发布。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/e16ed012-d7be-4193-9c93-24bd760ea777.png?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，此前彭博社记者马克・古尔曼也透露苹果将升级健康应用，引入膳食跟踪功能，旨在帮助用户跟踪卡路里摄入量并帮助他们减肥。</p><p>除此之外，此前还有消息称苹果计划推出另一项类似于 Apple Fitness+ 的视频服务，用户将能够观看来自专业医师的医疗介绍视频，从而获取健康建议信息。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "Epic 游戏商城过去 6 年用户量暴增 173%，但收入仅增 1.6%",
+    "link": "https://www.ithome.com/0/912/358.htm",
+    "date": "2026-01-12 00:30",
+    "summary": "<p>IT之家 1 月 12 日消息，Epic 游戏商城免费赠送了价值数千美元的游戏，但始终未能超越 Steam，后者每年都创下新的记录。</p><p>当地时间 1 月 9 日，据外媒 Tech4Gamers 报道，过去几年，PC 玩家的首选<strong>依旧是 Steam</strong> 而非 Epic，原因在于 Steam 始终将玩家放在最重要的位置。</p><p>数据显示，自本世纪 20 年代初以来，Epic 游戏商城的用户数量大幅增长，然而，这一增长并未带来相应的收入提升。</p><p>根据 Reddit 用户收集的数据，自 2019 年起，Epic 游戏商城<strong>用户增长了 173%</strong>。2019 年，平台拥有大约 1.08 亿用户，而到 2024 年 12 月，这一数字已增长至 2.95 亿。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/f3ce3326-e2fa-4eac-b84f-a3c4263e7f3e.png?x-bce-process=image/format,f_auto\" /></p><p>然而，第三方游戏的收入增长却不成比例，数据显示，<strong>第三方收入仅增长了 1.6%</strong>。</p><p>2024 年，Epic 从第三方收入中获得了 2.55 亿美元（IT之家注：现汇率约合 17.84 亿元人民币），比 2019 年增加了 400 万美元，尽管玩家数量增加了 1.9 亿。报道认为，预计有大量用户在领取了免费的游戏后，仍然选择回到 Steam。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "荣耀 Magic8 RSR 保时捷设计真机曝光：后置 2 亿潜望长焦、最高 24GB+1TB 规格",
+    "link": "https://www.ithome.com/0/912/357.htm",
+    "date": "2026-01-12 00:24",
+    "summary": "<p>IT之家 1 月 12 日消息，博主 @我是阿兴 昨日分享了<span class=\"hot-topic\">荣耀 Magic8</span> RSR 保时捷设计真机图，并透露新机部分配置信息。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/c5d6d4e4-c255-4ac7-aa15-924da9100fe7.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: left;\">博主分享的图片显示，荣耀 Magic8 RSR 保时捷设计后置三摄：5000 万像素广角摄像头 + 2 亿像素潜望长焦摄像头 + 5000 万像素超广角摄像头，<strong>前置 5000 万像素超广角摄像头 + 3D 深感摄像头</strong>。</p><p style=\"text-align: left;\">该机还<strong>内置 7200mAh 青海湖电池（典型值）</strong>，支持 120W 有线超级快充 +80W 无线超级快充。另外，荣耀 Magic8 RSR 保时捷设计提供 16GB+512GB 和 24GB+1TB 两种规格。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/86f468e2-7f93-4fc0-bc73-1e917b7743c8.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: left;\">参考IT之家此前报道，荣耀 Magic8 RSR 保时捷设计和 Pro Air 已正式官宣。其中，Magic8 RSR 保时捷设计被曝是春节前最后的骁龙 8 Elite Gen5 影像超大杯，<a href=\"https://www.ithome.com/0/910/973.htm\" target=\"_blank\">官方已公布拍摄样张</a>。</p><p style=\"text-align: left;\">消息称荣耀 Magic8 RSR 保时捷设计配备 6.71 英寸 1.5K LTPO 显示屏，内置 7200mAh± 电池，支持 120W 有线快充、满血无线充电，<a href=\"https://www.ithome.com/0/908/093.htm\" target=\"_blank\">主打 3D 超声波指纹 + 3D 人脸识别</a>，支持 IP68/IP69/IP69K 防尘防水。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/125d012a-cc66-4365-b6ac-fe0aa9faf3ea.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "被砍的小米 17 Air 手机工程机曝光：横向双摄设计、6.59 英寸面板、5.5mm 厚度机身",
+    "link": "https://www.ithome.com/0/912/356.htm",
+    "date": "2026-01-12 00:13",
+    "summary": "<p>IT之家 1 月 12 日消息，博主 @熊猫很禿然 引用抖音平台视频，透露相应视频中的手机实为“被砍掉的<span class=\"hot-topic\">小米 17</span> Air”工程机，视频显示该机背面采用横向双摄设计，中框使用抛光工艺，整体风格类似于苹果 iPhone Air。<strong>该博主同时称手机配备 6.59 英寸面板，厚度 5.5mm，提供“5 开头电池”</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/632d4b40-3a3f-4dea-9269-c7ce30fe7552.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/ad7430e5-65e8-472c-a576-7bcdfe416689.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" contenteditable=\"false\" href=\"https://weibo.com/tv/show/1034:5253458182209571?mid=5253458434982872\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/be41b688-f628-45ba-bb7d-4becb4e836ab.jpg?x-bce-process=image/format,f_auto\" /></a></p><p>IT之家注意到，去年 11 月时就有消息称<a href=\"https://www.ithome.com/0/896/736.htm\" target=\"_blank\">小米 17 Air 项目被暂停</a>，主要是因为“超轻薄旗舰手机的市场认可度不够”。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/10/294724c3-bd1e-4abb-9971-fca55f2b31ec.jpg?x-bce-process=image/format,f_auto\" /></p><p>值得注意的是，<a href=\"https://www.ithome.com/0/893/681.htm\" target=\"_blank\">苹果 CEO 蒂姆・库克在财报会议中被分析师问及“iPhone Air 减产”传闻</a>，库克仅以“公司不单独公布各机型销量”为由回避了问题。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/10/47f29f3e-709a-4fe6-922d-321b40cdec9d.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "微软确认文档扫描应用 Microsoft Lens 寿终正寝，2 月 9 日后告别应用商店",
+    "link": "https://www.ithome.com/0/912/355.htm",
+    "date": "2026-01-12 00:11",
+    "summary": "<p>IT之家 1 月 12 日消息，微软的文档扫描应用 Microsoft Lens 可说是“命运多舛”：2014 年以“Office Lens”之名在 Windows Phone 平台上线，之后逐步扩展到其他平台。2021 年，“Office Lens”更名为 Microsoft Lens，去年，微软为其“判了死刑”，时间来到 2026 年，微软正式确认了该应用“退役”的消息。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/ea9d6bf5-a939-420f-8d12-7cd354319f39.png?x-bce-process=image/format,f_auto\" /></p><p>根据微软发布的支持文档，Microsoft Lens 在 Android 和 iOS 平台的服务<strong>已自 2026 年 1 月 9 日起停止</strong>。自<strong> 2 月 9 日起</strong>，应用将不再得到支持，并将从谷歌的 GooglePlay Store 和苹果 App Store 中下架。用户仍可在 3 月 9 日之前<strong>继续扫描文档</strong>，在此之后将无法创建新的扫描请求，不过可以通过最后一次登录的微软账户访问旧有的扫描记录。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/07ca6a49-7ae6-4ca0-abf6-1c27bf2b6133.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p>据IT之家了解，在逐步停用 Microsoft Lens 的同时，微软<strong>建议用户转向 OneDrive 进行文档扫描</strong>。OneDrive 内置了扫描功能，用户只需点击应用界面底部的“+”图标即可访问。不过，OneDrive 不能将扫描结果保存在本地，而是将其存储在云端。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "科技昨夜今晨：0112：2025 年底新旗舰单品激活百万机型曝光；独居安全 App“死了么”引热议；引望回应 2026 下半年上市传闻 ...",
+    "link": "https://www.ithome.com/0/912/354.htm",
+    "date": "2026-01-12 00:07",
+    "summary": "<p>“科技昨夜今晨”时间，大家好，现在是 2026 年 1 月 12 日星期一，今天的重要科技资讯有：</p><h2>1、2025 年底新旗舰单品激活百万机型曝光，含<span class=\"hot-topic\">小米 17 Pro</span> 系列、华为 Mate 80</h2><p>博主 @数码闲聊站 1 月 10 日发文透露，年底这波新旗舰，目前达成单品激活百万仅 3 台，包括<span class=\"hot-topic\">小米 17 Pro Max</span>、小米 17 Pro 和华为 Mate 80。&gt;&gt; <a href=\"https://www.ithome.com/0/912/206.htm\" target=\"_blank\">查看详情</a></p><h2>2、印度拟要求智能手机制造商向政府共享源代码，遭苹果三星等反对</h2><p>印度拟出台新规，要求智能手机制造商向政府共享源代码、允许卸载预装应用、禁止后台调用摄像头等。苹果、三星、谷歌、小米等科技巨头私下反对，称全球尚无先例，存在泄露商业机密风险。印度政府表示将以开放态度处理行业关切。&gt;&gt; <a href=\"https://www.ithome.com/0/912/304.htm\" target=\"_blank\">查看详情</a></p><h2>3、超越人类：《英雄联盟》神秘账号两天 92% 胜率登顶韩服，被玩家质疑是马斯克 AI 训练</h2><p>《英雄联盟》韩服惊现神秘账号，两天内以 92% 胜率从钻石以下打上榜首，远超人类顶级玩家水平。其英雄池全面、游戏时间超长且只打中野，引发玩家猜测是否为马斯克旗下 xAI 的 AI 账号。马斯克曾宣布 Grok 5 将于 2026 年挑战顶级人类战队，Faker 则自信回应称队伍能赢。&gt;&gt; <a href=\"https://www.ithome.com/0/912/282.htm\" target=\"_blank\">查看详情</a></p><h2>4、今天不用“隐身”展示：我国首款隐身战机歼-20 首飞珍贵影像公开</h2><p>2011 年 1 月 11 日下午 1 时 11 分，中国首款隐身战机歼-20 首飞成功，结束了中国没有隐身战斗机的时代。1 月 11 日是歼-20 首飞成功 15 周年，央视军事公开了歼-20 首飞珍贵影像。&gt;&gt; <a href=\"https://www.ithome.com/0/912/217.htm\" target=\"_blank\">查看详情</a></p><h2>5、独居安全 App“死了么”引热议，开发者回应称“一二线城市年轻人是服务重点”</h2><p>一款名为“死了么”的独居安全 App 近日登顶 App Store 付费榜。其核心功能是用户每日签到，若连续未签到将自动通知紧急联系人。其直白名称引发热议，开发者称暂不考虑改名。&gt;&gt; <a href=\"https://www.ithome.com/0/912/214.htm\" target=\"_blank\">查看详情</a></p><h2>6、美的空界 M5 空调发布：开源鸿蒙系统、海思芯片，预售价 2949 元</h2><p>美的空界 M5 空调已在京东开启预售，新品支持开源鸿蒙生态互联、搭载海思芯片，预售价 2949 元，宣传海报显示补贴到手价 2499 元（1 月 20 日 20:00 开售）。&gt;&gt; <a href=\"https://www.ithome.com/0/912/225.htm\" target=\"_blank\">查看详情</a></p><h2>7、<span class=\"hot-topic\">小米 17</span> Max、vivo X300s、OPPO Find X9s 系列手机被曝 3-4 月发布</h2><p>据博主爆料，小米 17 Max、vivo X300s、OPPO Find X9s 等多款国产旗舰新机预计将于今年 3-4 月集中发布。它们将搭载高通骁龙 8E5 或联发科天玑 9500 等旗舰平台，主打大屏、大电池、顶级影像等卖点，新一轮旗舰大战即将开启！&gt;&gt; <a href=\"https://www.ithome.com/0/912/229.htm\" target=\"_blank\">查看详情</a></p><h2>8、我国“南天门计划”正照进现实，军事专家指出前沿技术“实现只是时间问题”</h2><p>央视军事 1 月 10 日发布视频，分享了我国“南天门计划”进度，并表示该计划正照进现实。军事专家指出，计划中的前沿技术“实现只是时间问题”。&gt;&gt; <a href=\"https://www.ithome.com/0/912/235.htm\" target=\"_blank\">查看详情</a></p><h2>9、雷军：会坚持辟谣，让更多人了解小米</h2><p>雷军在直播中辟谣“1300 公里只充一次电”等传言，舆论风向随之反转。博主分析称，此前沉默的真实声音正开始爆发。网友认为对“瞬间刹停”等主观表述的苛责是“故意挑刺”。&gt;&gt; <a href=\"https://www.ithome.com/0/912/288.htm\" target=\"_blank\">查看详情</a></p><h2>10、鸿蒙智行尚界 Z7 轿跑“惊喜”曝光，消息称新车拥有 Z7 / Z7T 双版本</h2><p>鸿蒙智行尚界汽车在 1 月 7 日官宣了一款新车 —— 尚界 Z7。据博主 @未来的学习笔记 分享，尚界 Z7 新车“惊喜可能还挺大”，其微博配图显示尚界 Z7 将拥有 Z7 和 Z7T 两款车型。&gt;&gt; <a href=\"https://www.ithome.com/0/912/279.htm\" target=\"_blank\">查看详情</a></p><h2>11、三星 Galaxy S26 Ultra 国行版现身工信部，支持 eSIM</h2><p>三星 Galaxy S26 Ultra 国行版（型号 SM-S9480）现身工信部，认证信息显示其支持 eSIM 和天通卫星通信，并确认支持 60W 有线快充。这意味着三星旗舰有望加入国内 eSIM 和卫星通信手机阵营。&gt;&gt; <a href=\"https://www.ithome.com/0/912/298.htm\" target=\"_blank\">查看详情</a></p><h2>12、2026 款奇瑞冰淇淋 / 小蚂蚁纯电小车上市，指导价 4.39 万元起</h2><p>2026 款奇瑞冰淇淋和小蚂蚁纯电小车上市。冰淇淋 4 款车型，指导价 4.39 万元起，续航 220 公里，支持快充。小蚂蚁 2 款车型，指导价 5.49 万元起，续航 271 公里。&gt;&gt; <a href=\"https://www.ithome.com/0/912/195.htm\" target=\"_blank\">查看详情</a></p><h2>13、日本显卡库存告急：秋叶原商铺已普遍限购，RTX 5060 Ti 16GB 以上型号成“重灾区”</h2><p>日本东京秋叶原多家 PC 零售店显卡库存告急，尤其是 RTX 5060 Ti 16GB 及以上高端型号，几乎到货即被抢光。零售商普遍采取限购措施，且上游补货时间不明，供货压力持续加剧。&gt;&gt; <a href=\"https://www.ithome.com/0/912/208.htm\" target=\"_blank\">查看详情</a></p><h2>14、引望回应“今年下半年上市”传闻：假消息</h2><p>1 月 11 日，深圳引望回应“2026 下半年上市”传闻，称是假消息。引望成立于 2024 年 1 月，华为持股 80%。2025 年 6 月引望位列《2025 全球独角兽榜》第 29 位，估值 1150 亿。&gt;&gt; <a href=\"https://www.ithome.com/0/912/292.htm\" target=\"_blank\">查看详情</a></p><p>今天就先聊到这里，科技昨夜今晨，咱们明天见。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "取代 LCD：消息称索尼将为 PlayStation Portal 串流掌机引入 120Hz OLED 面板",
+    "link": "https://www.ithome.com/0/912/353.htm",
+    "date": "2026-01-11 23:58",
+    "summary": "<p>IT之家 1 月 12 日消息，消息源 Zuby_Tech 发文，透露索尼正计划为 PlayStation Portal 串流掌机引入 120Hz OLED 面板。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/6e05a958-c7aa-437c-b5d1-dd4172c5165a.jpg?x-bce-process=image/format,f_auto\" /></p><p>如果相应消息属实，新款掌机相比目前的 LCD 屏幕将是一次重大升级，可以显著提升 PS5 游戏串流的画质，但也存在烧屏风险。作为比较，索尼 PSV1000（PlayStation Vita）曾使用 OLED 面板，但在 PSV2000 型号中则出于成本等原因换用了 LCD 屏。</p><p>公开信息显示，索尼现款 PlayStation Portal 串流掌机搭载了一块 8 英寸的 LCD 触摸屏，能够以 60 fps 的速度提供 1080p 分辨率画面，美版售价 199.9 美元（IT之家注：现汇率约合 1399 元人民币）、日版售价 29980 日元（现汇率约合 1329 元人民币）。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "英特尔前 CEO 基辛格谈“前东家”18A 工艺：是重要里程碑，路走对了",
+    "link": "https://www.ithome.com/0/912/352.htm",
+    "date": "2026-01-11 23:47",
+    "summary": "<p>IT之家 1 月 12 日消息，据外媒 Wccftech 今日报道，英特尔前 CEO 帕特・基辛格近日谈到了前东家在先进制造工艺方面的最新成果：基于 18A 工艺的 Panther Lake 芯片是重要里程碑，现在必须保持进展节奏。</p><p>在本届 CES 展会上，英特尔推出了首批基于 18A 制程的 Panther Lake 芯片。基辛格认为，完成这一目标尤为关键，因为英特尔需要赢得英伟达等“无晶圆厂公司”的信任，而 Panther Lake 的发布，正表明晶圆代工部门正在朝着正确方向发展。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" id=\"1768175112867_1\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/80f22ab4-5eb6-4aef-ae3c-76bba50739e8.png?x-bce-process=image/format,f_auto\" /></p><p>基辛格强调，18A 和 Panther Lake 是重要的里程碑，而这些技术的基础正是<strong>在他任内打下的</strong>。自己为英特尔团队完成 18A 和 Panther Lake 的工作感到自豪，样片也是自己在离任前亲自交付给联想的。因此，这次成功也意味着这款芯片在其领导下“已经成熟成型”。</p><p>关于如何吸引客户承诺使用英特尔的代工服务，基辛格认为，真正的推动力不仅来自《芯片与科学法案》等激励措施，还包括关税政策等更广泛的政府政策支持。</p><p>基辛格认为，未来在晶圆代工业务方面，争取 18A-P 和 14A 等先进工艺的客户将是关键。据IT之家了解，英特尔现任 CEO 陈立武也对 14A 工艺的进展颇具信心。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "LiberLive U1 无弦吉他上架：可折叠设计、提供“拍拍键”氛围音功能，1449 元",
+    "link": "https://www.ithome.com/0/912/351.htm",
+    "date": "2026-01-11 23:34",
+    "summary": "<p>IT之家 1 月 12 日消息，LiberLive 现已在京东上架 U1 无弦吉他，该产品提供四种配色可选，使用可折叠设计，<strong>定价为 1599 元，首发价 1449 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://jingfen.jd.com/detail/BNrq7k8ayIXv7jSP1x6ZnhrQ_3DFaM336YzkRRqBNgd.html\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/379084/21/20085/66778/695ccb35F6ef32583/326d4b4d52f3573b.png\" /></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> LiverLive U1 吉他</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 1449 元</span><span class=\"card-btn-deep\">首发价</span></span></span></span></a></dir><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/7b88e155-364c-4065-9ac8-4263c9775f47.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/922e8b7a-e850-437a-8444-be8f0f19d6c9.jpg?x-bce-process=image/format,f_auto\" /></p><p>据介绍，该产品整体重量 1.5 千克，内置 App 交互图谱功能，能够实时生成和弦乐段。产品同时提供了“拍拍键”功能，可提供环境 / 节奏 / 宠物等多种音效。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/5a13b68e-54d1-4691-b9d9-fe3d38ccc89c.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/a5d58cdd-8815-49bf-90fa-9c411c9f5a78.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家附产品参数如下：</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/8440f3c7-fd92-4bad-b990-a29babc19ebc.jpg?x-bce-process=image/format,f_auto\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "消息称鸿蒙智行问界 M8 和 M9 车型三连副驾屏将支持享界 S9T 同款开门车外视角提醒功能",
+    "link": "https://www.ithome.com/0/912/350.htm",
+    "date": "2026-01-11 23:34",
+    "summary": "<p>IT之家 1 月 12 日消息，据博主 @爱叨叨的Steven 分享，鸿蒙智行问界 M8 和 M9 的三连屏副驾屏马上也会支持问界 M7 和享界 S9T 同款开门车外视角提醒功能。博主表示，<strong>因为三连屏副驾屏幕更大效果非常好</strong>，一目了然。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/c07d501f-3308-4c65-8ffc-e63b60d125f4.jpg?x-bce-process=image/format,f_auto\" /></p><p>有网友希望熄屏下也能自动启动显示，博主在评论区回复称，下个版本还将支持上车以后过一会自动熄灭副驾屏幕，然后开门亮屏的特性。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/9aa61f7c-d866-4520-8c8f-86200b931bc2.jpg?x-bce-process=image/format,f_auto\" /></p><p>据IT之家此前报道，<a href=\"https://www.ithome.com/0/839/381.htm\" target=\"_blank\">鸿蒙智行 2025 款问界 M9 旗舰 SUV 已于 2025 年 3 月正式发布</a>，定位为“全景智慧旗舰 SUV”，搭载华为星河通信功能，分大五座车型和享六座车型（后续还推出了尊四座版），售价区间在 46.98 万-56.98 万元。</p><p>据IT之家此前报道，<a href=\"https://www.ithome.com/0/845/682.htm\" target=\"_blank\">2025 年 4 月 16 日，问界 M8 增程版正式上市</a>，提供增程 Max、增程 Max+、增程 Ultra 三种不同配置，售价 35.98 万-44.98 万元起；<a href=\"https://www.ithome.com/0/877/887.htm\" target=\"_blank\">同年 8 月 25 日，问界 M8 纯电版上市</a>，搭载华为高压七合一电驱，标配宁德时代 100kWh 电池，售价 35.98 万-44.98 万元起。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2025/8/9b0752d4-2870-428e-a3b0-f18da429fdc0.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><figcaption>▲ IT之家实拍：鸿蒙智行问界 M8 EV</figcaption>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "前《刺客信条》系列导演阿曼西奥：游戏开发的未来在于更小规模的团队",
+    "link": "https://www.ithome.com/0/912/349.htm",
+    "date": "2026-01-11 23:24",
+    "summary": "<p>IT之家 1 月 12 日消息，当地时间 1 月 11 日，据外媒 Eurogamer 报道，前《刺客信条》系列导演亚历山大・阿曼西奥近日分享了对 3A 游戏开发的看法，认为未来应当<strong>依赖“更小的团队”</strong>，并指出大预算开发商不能单纯通过“增员”来“解决问题”。</p><p style=\"text-align: center;\"><img id=\"1768173780491_1\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/51f1d9f3-954b-40c1-bf14-12165b7304b2.png?x-bce-process=image/format,f_auto\" /></p><p>阿曼西奥说，在育碧的经历使自己认为，继续打造规模越来越大、团队人数也越来越多的游戏已经变得“不可持续”。</p><blockquote><p>有个理论认为，一旦项目的团队<strong>超过 100 人</strong>，整个动态就会发生剧变。超过这个人数后，管理层与实际工作者之间的比例会急剧增加，最终形成<strong>过于偏重管理的结构</strong>：你得为协调管理者提供更多的管理者。</p><p>很多 AAA 工作室曾经犯过一个错误，或者说过去常常认为，增加人手就能解决问题。但往问题中加人，往往会导致<strong>原本高效的团队停滞不前</strong>，反而带来更多的混乱。</p><p>所以我认为，未来的方向应该是小型团队。</p></blockquote><p>IT之家从报道中获悉，阿曼西奥还谈到电影行业如何逐渐形成以小型核心团队为基础的制作方式，每个剧组<strong>都是“专门为某个项目组建的临时团队”</strong>。游戏行业不同于电影，游戏项目是不断演变的，而电影则是在剧本定稿后按部就班地拍摄。</p><p>他补充道：“从一开始，游戏行业就把自己视作软件行业的一部分，但实则是一个相当特殊的混合体。我认为，未来的趋势是<strong>借鉴电影行业的做法</strong>，依靠核心团队，并通过外包或联合开发补充特定需求。你要为每个项目配备最合适的团队，确保合适的时间完成合适的工作。”</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "荣耀 Magic 8 Pro Air 真机曝光：天玑 9500 处理器、5500mAh 电池，1 月 19 日发布",
+    "link": "https://www.ithome.com/0/912/348.htm",
+    "date": "2026-01-11 23:15",
+    "summary": "<p>IT之家 1 月 12 日消息，博主 @i冰宇宙 昨日分享了<span class=\"hot-topic\">荣耀 Magic8 Pro</span> Air 真机图片，并曝光了新机部分参数信息。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/b0c2032a-7875-425c-8a71-c883f9d59f72.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家整理该机已曝光 / 公布的参数信息如下：</p><ul class=\"medium-size list-paddingleft-2\"><li><p>型号：LDY-AN00</p></li><li><p>性能：<strong>天玑 9500 处理器</strong></p></li><li><p>规格：提供 16GB+512GB 版本（京东预约活动显示，该机提供 256GB / 512GB / 1TB 规格）| 支持 16GB 智慧运存</p></li><li><p>电池：<strong>5500mAh 青海湖电池</strong></p></li><li><p>屏幕：分辨率 2640×1216</p></li><li><p>增益：自研能效增强芯片 HONOR E2</p></li><li><p>配色：拥有黑、白、紫、橙四款配色</p></li><li><p>影像：搭载旗舰级潜望长焦</p></li><li><p>其他：<strong>超声波指纹</strong> | 满级防水 | 2D 人脸</p></li></ul><p>据荣耀终端股份有限公司产品线总裁方飞介绍，iPhone Air 市场遇冷，行业对 Air 品类不乏疑虑，很多同类产品被叫停甚至取消，荣耀做好 Air 的决心从没动摇，期待交出一份 Air 的新答卷。把 Pro 塞进 Air，是荣耀从底层架构到材料科学，一次系统性的创新表达。<a href=\"https://www.ithome.com/0/911/205.htm\" target=\"_blank\">Pro in the Air 是荣耀 Air 的产品理念</a>，也是对用户期待的回应。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://qimg.ithome.com/newfiles/2026/1/846b798e-cf5a-4dfb-9800-ca357bcfee5c.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\"></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "Linux Mint 22.3“Zena”发布，引入全新 Cinnamon 6.6 桌面环境",
+    "link": "https://www.ithome.com/0/912/347.htm",
+    "date": "2026-01-11 23:13",
+    "summary": "<p>IT之家 1 月 12 日消息，Linux Mint 22.3“Zena”现已正式发布, 其采用 Linux 6.14 内核，基于 Ubuntu 24.04.3 LTS 构建，可获安全更新和维护直至 2029 年 4 月，IT之家附项目地址如下（<a href=\"https://community.linuxmint.com/iso\" target=\"_blank\"><span class=\"link-text-start-with-http\">https://community.linuxmint.com/iso</span></a>）。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/60183e5e-cbb4-43c7-b363-5f166aed5ca4.png?x-bce-process=image/format,f_auto\" /></p><p>据介绍，Linux Mint 22.3 集成了全新的 Cinnamon 6.6 桌面环境。主要对应用菜单进行了重新设计，引入可自定义的侧边栏，用户可以在其中放置头像、常用位置、书签和收藏项。新菜单在布局上更加灵活，支持搜索栏位置调整和系统按钮自定义，同时全面采用 XApp 符号化图标，使分类图标风格更加统一、简洁。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/3f2db570-bdaa-4e6f-92a6-2c66601e3372.png?x-bce-process=image/format,f_auto\" /></p><p>在输入方面，Cinnamon 6.6 针对 Wayland 进行了全面适配。传统的 XKB 键盘布局和 IBus 输入法如今可以无缝显示和切换，屏幕键盘也被重写为原生 Cinnamon 组件，在视觉效果和输入法切换体验上都有明显提升。</p><p>文件管理器 Nemo 也迎来多项实用改进，新增了文件操作的暂停与继续功能，搜索功能支持正则表达式，同时模板管理器也被直接整合进右键菜单中，进一步优化日常工作流。</p><p>系统工具方面同样有所升级，系统集成的 Timeshift 系统快照工具现支持暂停和继续备份，Warpinator 局域网传输工具新增 IPv6 支持，并允许在传输过程中发送文本消息。</p><p>此外，系统还引入了全新改版的“系统信息”工具，用于集中展示硬件和驱动信息，并新增“系统管理”应用，方便用户配置引导加载器等系统级选项。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "回答被指存在误导性，谷歌下线部分健康类“AI 概览”",
+    "link": "https://www.ithome.com/0/912/346.htm",
+    "date": "2026-01-11 23:10",
+    "summary": "<p>IT之家 1 月 12 日消息，在遭到《卫报》调查后，谷歌针对部分健康相关查询移除了“AI 概览”。</p><p>此前，这项调查发现，谷歌 AI 系统在<strong>处理某些健康问题时提供了误导性的信息</strong>。例如，当用户询问“正常的肝脏血液检测范围”时，谷歌显示的数字<strong>并未考虑国籍、性别、种族或年龄等因素</strong>，或导致用户<strong>误认为自己的检测结果正常</strong>。</p><p>《卫报》今日最新的报道提到，在“正常的肝脏血液检测范围”和“正常的肝功能检测范围”的查询中，谷歌已经移除了 AI 概览。然而，在“lft 参考范围”或“lft 测试参考范围”等类似的查询中，仍会生成 AI 摘要。</p><p>谷歌发言人告诉《卫报》，公司不对单个搜索结果的移除发表评论，不过将进行更广泛的改进。发言人还提到，谷歌的内部临床团队对《卫报》提出的查询进行了审查，并表示在许多情况下，信息本身“并非不准确”，且有高质量网站的支持。</p><p>在刚刚过去的 2025 年，谷歌带来了增强的概览和专门的健康 AI 模型等一系列新功能，旨在改善谷歌搜索在医疗健康领域的应用。</p><p>英国肝脏信托基金的传播与政策总监范妮莎・赫比奇在接受采访时表示，移除 AI 概览是“好消息”。“我们更大的关注点是，谷歌只是针对某一搜索结果做了微调，这项功能可以简单地一关了之，但 AI 概览在健康领域的更大问题还没有解决。”</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "Steam 在线人数峰值突破 4200 万，平台用户规模再创新高",
+    "link": "https://www.ithome.com/0/912/345.htm",
+    "date": "2026-01-11 22:55",
+    "summary": "<p>IT之家 1 月 12 日消息，SteamDB 数据显示，2026 年伊始，继此前突破 4181 万人后，Steam 在线玩家峰值数昨日迎来新纪录，该平台近 24 小时用户在线峰值达到了 42,042,778 （约 4200 万人）。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/4e992d53-0a12-423d-94c4-ceeda9c72c4c.jpg?x-bce-process=image/format,f_auto\" /></p><p>从玩家数量来看，Steam 展现出了稳健的增长势头。2023 年 1 月，Steam 的同时在线用户首次突破 3300 万。到 2024 年 3 月，这一数字增长至 3600 万。此后，该平台持续稳步增长，最终突破 4000 万大关，如今已超过 4200 万。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/8e2ba47b-2d5e-4e9b-a014-fc7a98b05682.png?x-bce-process=image/format,f_auto\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "Meta 回应 1750 万 Instagram 账号数据泄露传闻：系统未被入侵，用户账号安全",
+    "link": "https://www.ithome.com/0/912/344.htm",
+    "date": "2026-01-11 22:49",
+    "summary": "<p>IT之家 1 月 12 日消息，近期有消息称 Meta 旗下超过 1750 万个 Instagram 账号的数据泄露，引发业界广泛关注。</p><p>对此，Meta 发言人在回应外媒 BleepingComputer 时表示相应消息不实，“我们已经修复了一个问题，该问题曾允许外部人员为部分 Instagram 用户发起密码重置邮件请求。”</p><p>他同时强调，<strong>Instagram 的系统并未遭到入侵，用户账号依然是安全的</strong>。“大家可以忽略这些邮件，对由此造成的困扰我们深表歉意。”</p><p>IT之家获悉，这场关于 Instagram 数据泄露的舆论风波，起因于网络安全公司 Malwarebytes 向客户发出警告，称有黑客窃取了多达 1750 万个 Instagram 账号的数据。随后，这批所谓的 Instagram 数据被免费发布在多个黑客论坛上，发布者声称数据来源于一次尚未得到官方确认的 2024 年 Instagram API 泄露事件。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/d678273b-6d9e-408c-bef5-451c58f2f4e2.png?x-bce-process=image/format,f_auto\" /></p><p>Meta 发言人称，如果用户收到了 Instagram 的密码重置邮件，或是手机验证码短信，直接忽略并删除即可。此外，如果用户的账号尚未开启双重验证（2FA），强烈建议尽快开启，以提升账号安全性。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "乘联分会崔东树：2025 年 1-12 月乘用车均价 17 万元，较前年下降 1.4 万元",
+    "link": "https://www.ithome.com/0/912/343.htm",
+    "date": "2026-01-11 22:37",
+    "summary": "<p>IT之家 1 月 12 日消息，乘联分会崔东树发文，透露 2025 年 1-12 月乘用车均价是 17.0 万元，<strong>较 2024 年均价下降 1.4 万元</strong>。</p><p>崔东树表示，前期常规燃油车价格持续上升，市场萎缩在中低端很明显，而高端萎缩慢，因此从 2019 年的 15 万元上升到 2023 年的 18.3 万元。2025 年随着高端燃油车的较快萎缩，2025 年 1-12 月的均价降低到 18.2 万元，12 月 19.2 万元，燃油车购买群体买车逐步稳定。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/b10663c2-e70b-43f4-a2fb-d7c575088e82.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/4d5c6a56-e967-4daf-99e0-da63ff034b88.png?x-bce-process=image/format,f_auto\" /></p><p>而新能源车的均价近期逐步下降，从 2023 年的均价 18.4 万元，下降到 2024 年的均价 18.0 万元，2025 年的均价 16.1 万元，价格下降明显。2025 年 12 月是 17.9 万元，量跌价升，体现新能源车消费的结构性变化。</p><p>崔东树表示，目前随着车购税免税政策的退出临近，新能源车市场火爆。随着新能源车免税技术指标的升级，部分短续航和高耗电车型面临改款压力。12 月的 A00 级电动车剧烈萎缩带来均价的上升，2026 年销量增长压力较大。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "实体游戏零售寒冬已至：经销商 GameStop 计划关闭旗下 400 家门店",
+    "link": "https://www.ithome.com/0/912/342.htm",
+    "date": "2026-01-11 22:34",
+    "summary": "<p>IT之家 1 月 12 日消息，由于实体游戏销售持续下滑、经营压力不断加大，游戏零售商 GameStop 宣布计划在 2025 财年内关闭最多约 400 家门店，涉及美国、加拿大以及欧洲市场，从而进一步削减成本、优化运营结构。</p><p>IT之家参考美国证券交易委员会（SEC）的文件，目前 GameStop 已正式将大规模关店纳入规划。文件同时显示，如果现任 CEO 瑞安・科恩（Ryan Cohen）能够将公司市值提升至 1000 亿美元（IT之家注：现汇率约合 6996.73 亿元人民币），他最高可获得价值高达 350 亿美元（现汇率约合 2448.85 亿元人民币）的股票期权激励。</p><p>自 2021 年股价因散户炒作大幅飙升之后，GameStop 在业务转型方面一直进展不顺。随着数字化游戏购买方式迅速普及，<strong>越来越多玩家选择通过 Steam、Xbox Store 以及 PlayStation Store 等线上平台直接购买和下载游戏，而不再前往线下门店购买实体游戏</strong>。</p><p>在这种背景下，实体 GameStop 门店的存在感和必要性被不断削弱。尽管公司曾试图在上一轮加密货币热潮中寻找新增长点，涉足 NFT 业务并推出加密资产相关服务，但这些尝试并未取得预期效果，最终未能为公司带来实质性的增长动力。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "马斯克：三年内特斯拉 Optimus 人形机器人将超越顶尖人类外科医生",
+    "link": "https://www.ithome.com/0/912/341.htm",
+    "date": "2026-01-11 15:20",
+    "summary": "<p>IT之家 1 月 11 日消息，埃隆・马斯克声称，特斯拉的擎天柱（Optimus）人形机器人将在短短三年内，超越全球最顶尖的人类外科医生。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2025/11/6f00548f-e2a7-4b0f-ac52-fb9162fbf10f.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p>这位特斯拉首席执行官是在接受美国医生兼工程师彼得・戴曼迪斯采访时作出这一表态的，后者主持着播客节目《大胆构想》。</p><p>马斯克表示：“目前全球正面临医生和优秀外科医生短缺的问题。”</p><p>他还说：“培养一名优秀医生需要耗费极其漫长的时间，即便学成之后，医学知识仍在不断更新迭代，医生很难做到面面俱到。他们的时间有限，难免会出现失误。你想想，世界上能有多少顶尖外科医生？其实并不多。”</p><p>戴曼迪斯随即发问：“你认为擎天柱机器人多久能超越最顶尖的外科医生，成为更出色的手术执行者？”</p><p>马斯克回应道：“三年。顺带一提，三年后它将实现规模化应用。届时，具备顶尖外科手术水平的擎天柱机器人数量，或许会超过全球人类外科医生的总和。”</p><p>据IT之家了解，这位 SpaceX 创始人于 2022 年首次公开了擎天柱机器人的原型机，并表示首款量产机型有望在次年推出。</p><p>两年后的 2024 年，马斯克将该机器人的上市目标时间定为 2026 年。</p><p>一位卫生政策领域专家向 The Independent 表示，马斯克的想法“过于乐观”，机器人广泛应用于大型外科手术“在未来很长一段时间内都不现实”。</p><p>纽约大学格罗斯曼医学院的生物伦理学家阿瑟・卡普兰教授，针对马斯克“三年内让擎天柱超越全球顶尖外科医生”的言论评价道：“这一说法完全不可信。”他指出：“机器人手术的发展进程一直十分缓慢，前列腺手术就是典型例子。”</p><p>卡普兰补充道：“在未来三年内，机器人几乎不可能在所有外科领域 —— 心脏外科、脑外科、骨科、整形外科、儿科等，全面超越人类医生。”</p><p>他认为，这是因为“人类个体差异极大，难以通过精准编程实现适配”，同时“要通过对比临床效果来证明机器人与人类医生能力相当，还需要数年时间”。</p><p>“部分外科手术近乎艺术创作 —— 比如整形外科、烧伤修复和创伤治疗，这类手术的编程技术，或许在未来很长一段时间内都无法实现。”卡普兰说。</p><p>不过他也承认，机器人技术的应用确实正在改变医疗行业的格局，随着医疗水平的进步，人们理应期待更多技术突破。</p><p>例如，放射科和病理科中，部分用于扫描分析检测结果的环节已经实现自动化。</p><p>“但机器人主刀手术还为时尚早。要知道，我们至今都无法让自动驾驶机器人安全操控出租车或配送卡车在城市道路行驶，而外科手术的难度与之相比有过之而无不及。”卡普兰进一步强调：“在我看来，马斯克过于乐观了。机器人医生的时代终会到来，但要实现大规模应用，还需要漫长的时间。”</p><p>此外，马斯克关于人形机器人的部署计划也引发了公众担忧。尤其值得注意的是，去年 10 月，在特斯拉董事会就其颇具争议的万亿美元薪酬方案及公司控制权问题展开讨论时，马斯克曾多次将擎天柱机器人的研发称为打造“机器人军团”。</p><p>据《连线》杂志报道，马斯克当时表示：“我之所以如此在意自己在特斯拉的投票控制权，核心顾虑在于：如果我牵头打造出这支庞大的机器人军团，未来某天会不会被一脚踢开？”</p><p>“要是我们真的建成了这支机器人军团，我能否至少对其拥有强大的影响力？”他还坦言：“一想到自己在这儿打造出机器人军团，之后却被扫地出门，我就感到不安。”</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "数字人民币 App 上线“碳普惠”服务，碳积分可换钱",
+    "link": "https://www.ithome.com/0/912/340.htm",
+    "date": "2026-01-11 15:14",
+    "summary": "<p>IT之家 1 月 11 日消息，1 月 8 日，数字人民币 App 内推出“碳普惠”小程序服务并率先在上海地区上线。</p><p>用户开通该服务后，日常绿色低碳行为产生的碳积分将自动归集至“碳普惠”账户，<strong>并可以兑换数字人民币</strong>。下一步，数字人民币运营管理中心将协同业务运营机构，持续引入更多低碳场景；同时加快拓展参与地区，构建多城市协同的碳普惠服务网络。</p><p>官方介绍称，数字人民币“碳普惠”服务是鼓励公众践行低碳行为的一项服务。简单来说 —— 你做的每一件环保小事，<strong>比如骑共享单车、乘坐地铁公交</strong>，都能被量化成“碳积分”。这些碳积分不仅可以记录你的绿色足迹，还能兑换为实实在在的数字人民币。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/af7f8261-3a47-4aa8-86b6-59777cf18ba8.jpg?x-bce-process=image/format,f_auto\" /></p><p>“碳普惠”小程序首批接入<strong><span> Metro 大都会</span>（上海地铁）、哈啰出行和 T3 出行</strong>三大平台：只要你在数字人民币 App 内登录了“碳普惠”小程序，并关联上述平台的账号，以后你使用公共交通或共享出行服务时，系统会自动记录你的低碳行为，并将对应的碳积分归集到你的“碳普惠”账户中。<strong>每有 1250g 碳积分可兑换 0.01 元数字人民币</strong>。</p><h3>IT之家附开通路径：</h3><ul class=\" list-paddingleft-2\"><li><p>打开数字人民币 App → 进入服务页 → 找到“碳普惠”小程序；</p></li><li><p>开通功能并完成场景绑定；</p></li><li><p>后续在合作平台的低碳出行行为将自动计入碳积分；</p></li><li><p>碳积分可兑换数字人民币，兑换前需开通数字人民币钱包，并升级为实名钱包，兑换成功后数字人民币实时到账。</p></li></ul><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/f42ca773-b7f4-406a-896b-0aae3eaaf9bd.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/0ab171a8-d876-4b07-90e4-1ce4dab7a7a7.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/6321fdea-82f2-4046-857f-984787d38ea6.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/b9078665-49ab-4be2-b35d-f8f44e30006a.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/846f706b-5663-4431-b5ce-19d8cac40204.jpg?x-bce-process=image/format,f_auto\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "元戎启行宣布与国际头部车企达成 L3 合作，累计融资金额已超 7 亿美元",
+    "link": "https://www.ithome.com/0/912/339.htm",
+    "date": "2026-01-11 14:45",
+    "summary": "<p>IT之家 1 月 11 日消息，元戎启行今日宣布与国际头部主机厂达成 L3 合作，具体品牌暂未公布。</p><p>据官方介绍，元戎启行由 CEO 周光带领团队于 2019 年创立，总部位于深圳，在全球多地有业务落地。元戎启行已完成 6 轮融资，<strong>累计融资金额超 7 亿美元</strong>（IT之家注：现汇率约合 48.98 亿元人民币）。</p><p>元戎启行推出最新一代搭载 VLA 模型的辅助驾驶系统，该模型集成思维链能力，可打造具备“防御性驾驶”意识的高可靠 AI 司机。公司已与多家车企建立深度量产合作，<strong>目前已有 20 万辆搭载其城市领航辅助驾驶方案</strong>的车辆进入消费者市场。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/ede48f4e-6ab7-4450-aa53-ef6d52f3fe8e.png?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，元戎启行去年 12 月与黑芝麻智能正式签署合作协议。双方在此次合作中将基于黑芝麻智能下一代车规级高性能计算芯片平台，联合打造高阶辅助驾驶解决方案。其中提到，<strong>重点推进 L2+/L3 级辅助驾驶方案在头部车企的量产应用</strong>，同时探索该方案在 Robotaxi 等新兴领域的落地场景。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "存储芯片价格飙升，消息称谷歌、微软等美科技巨头派团队赴韩抢购 DRAM",
+    "link": "https://www.ithome.com/0/912/338.htm",
+    "date": "2026-01-11 14:21",
+    "summary": "<p>IT之家 1 月 11 日消息，近几个月来，存储芯片的价格一路飙升。据 Chosun 报道，谷歌、微软等美国企业正紧急派遣采购人员飞往首尔，不计成本地争夺日益紧缺的 DRAM 货源，业内人士戏称这些采购团队为“DRAM 乞丐团”。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/c76b5baa-1586-4d5a-82f2-56856a0bc1ac.png?x-bce-process=image/format,f_auto\" /></p><p>报道还称，位于韩国板桥和平泽地区的酒店已被挤得满满当当，各大企业的采购团队扎堆于此，争相从三星和 SK 海力士的总部抢购 DRAM 货源。毕竟，这两家韩国巨头合计掌控着全球绝大部分的 DRAM 供应链。</p><p>得益于 DRAM 销量的激增，三星电子也创下了季度营业利润的历史新高，突破 20 万亿韩元（IT之家注：现汇率约合 962 亿元人民币）。</p><p>报道称，以 8GB 容量的 DDR4 内存为例，其平均固定交易价格已从去年 1 月的 1.40 美元，飙升至去年 12 月的 9.30 美元。</p><p>科技巨头们眼下的核心目标，是抢在存储芯片价格进一步上涨前锁定更多货源。与此同时，为了满足全球不断增长的需求，包括 SK 海力士、美光以及三星在内的多家 DRAM 制造商也在扩大产能。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "AOC 推出 AG276QSG2 显示器：27 英寸 2K 360Hz 屏，4999 元",
+    "link": "https://www.ithome.com/0/912/337.htm",
+    "date": "2026-01-11 14:09",
+    "summary": "<p>IT之家 1 月 11 日消息，AOC 今日在京东上架 AG276QSG2 显示器，配备 27 英寸 2K 360Hz FastIPS 显示屏，售价 4999 元。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/78fb20d2-e577-4ca7-aa99-c90222a77238.png?x-bce-process=image/format,f_auto\" /></p><p>据介绍，这款新品搭载 G-SYNC Pulsar 技术，通过变频背光频闪，<strong>实现至高 4 倍有效动态清晰度</strong>，并配合流畅的 G-SYNC 可变刷新率技术，可以获得更精确的瞄准与更锐利、清晰的游戏画面。G-SYNC 智能环境光技术利用内置的光线传感器，来自动调整屏幕色温和亮度。</p><p>6 种色调 x6 种饱和度，无限色彩组合随心调节。显示器设定轻松调试、<strong>可通过 G-MENU 软件设定灯光效果</strong>、游戏画质、自定义宏设定、可通过人机控制器一键快速切换自定义及 G-SYNC Esports 模式。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/1bca2954-4707-48be-b1d1-f270043b5cc6.jpg?x-bce-process=image/format,f_auto\" /></p><p>外观方面，该产品搭载 Light FX 灯光系统，配备支架便携提手、折叠耳机挂架，提供 HDMI 2.1 TMDS （HDR）X2、DP 1.4 （HDR）、USB 3.2x3（黄色快充）、USB 上行、micro USB（固件升级）音频输出接口等。</p><p>IT之家附产品参数如下：</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/02dbd27b-cef3-4f3c-8443-98db5f894b58.png?x-bce-process=image/format,f_auto\" /></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/EaGnY7U\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/383104/36/17768/103810/69606d49Faece569e/2b6483a08e908429.jpg\" /></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> AOC AG276QSG2 显示器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 4999 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "华住会回应“AI 照片在摄影比赛夺冠”：不符合原创性规则，已取消成绩",
+    "link": "https://www.ithome.com/0/912/336.htm",
+    "date": "2026-01-11 13:56",
+    "summary": "<p>IT之家 1 月 11 日消息，1 月 9 日，网传“一幅 AI 图竟骗过 5 位评委，拿到华住会摄影大赛第一”一事引发广泛关注。</p><p>今天下午，封面新闻记者致电华住会客服，了解取消原因及后续处理情况。客服回应称：“经过内部多方核查，<strong>作品不符合原创性规则，经和投稿人沟通后取消了成绩</strong>。最终结果以公示为准。”</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/349a5e07-0f5c-4407-81d8-94c0babff91f.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家查询获悉，该摄影大赛还请了 5 位专业评委给作品打分，评委中还不乏华住集团首席设计师、协会副会长等大咖。这项名为“艺术 MaxX・城市记忆摄影大赛”比赛，在华住会旗下上海东方美仑美奂酒店和华住美好家族官方公众号均有宣传。</p><p>官方介绍称，<strong>本次大赛邀请了五位资深专家组成评审团</strong>，从主题契合度、作品构图布局合理、光影运用和色彩搭配富有艺术创作理念等多个维度进行严格筛选。最终评选出综合奖一二三名、单项奖最佳色彩奖、最佳光影奖、最佳构图奖各一名，最佳城市奖各五名。</p><p>目前，该大赛已经将第一名颁发给<strong>原来的第二名作品《陆家嘴》</strong>，将获得价值 8888 元上海外滩东方美仑美奂酒店靓东方江景总统套房 1 晚。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/41870640-a363-480f-a097-1b4a26671aeb.jpg?x-bce-process=image/format,f_auto\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "《剑星》大卖，开发商 Shift Up 赠送员工苹果设备与 500 万韩元",
+    "link": "https://www.ithome.com/0/912/335.htm",
+    "date": "2026-01-11 13:41",
+    "summary": "<p>IT之家 1 月 11 日消息，《剑星》最初于 2024 年作为 PlayStation 5 独占游戏发售，一经推出便收获大量好评。这款游戏不仅跻身年度首发表现最佳作品之列，更让韩国游戏工作室 Shift Up 站到了聚光灯下。此后该游戏登陆 PC 平台，同样反响热烈。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/45ce6b44-ae32-4b01-b2d5-b54eabd1466f.jpg?x-bce-process=image/format,f_auto\" /></p><p>Shift Up 工作室向来以优待员工著称。此前，为庆祝游戏首发大捷，工作室曾向员工赠送 PlayStation 5 Pro 主机；如今，为庆贺又一个丰收之年，工作室再度为开发者们送上 Apple Watch、AirPods 以及 500 万韩元（IT之家注：现汇率约合 24050 元人民币）的丰厚福利。</p><p>据 Sedaily 报道，Shift Up 近期举办表彰典礼，为公司 300 余名全体员工发放苹果系列产品与 500 万韩元奖金，以此庆贺 2025 年的辉煌业绩。每位员工获得的福利总价值超过 3000 美元（现汇率约合 20990 元人民币）。</p><p>2025 年对 Shift Up 而言，无疑是再攀高峰的一年，《剑星》PC 版的正式发售成为年度高光时刻。该版本热度空前，销量破百万的速度较 PS5 版提升了 19 倍，更助力工作室创下第二季度利润纪录。</p><p>事实上，就在今年早些时候，为庆祝游戏销量突破 300 万份，工作室就曾向全体员工赠送任天堂 Switch 2 主机。而《剑星》的成功不仅限于商业层面，更掀起了一股韩国游戏工作室的创作新浪潮，其行业影响力可见一斑。</p><p>目前，Shift Up 工作室已全力投入《剑星》续作的开发工作。工作室正为该项目大规模招募人才，力求打造出品质更上一层楼的作品。此外，与初代作品不同，这款续作将不再是索尼 PlayStation 平台的限时独占游戏。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "零跑 A10 欧洲市场命名为 B03X，已现身布鲁塞尔车展",
+    "link": "https://www.ithome.com/0/912/334.htm",
+    "date": "2026-01-11 13:22",
+    "summary": "<p>IT之家 1 月 11 日消息，博主 @德卤爱开车 今日发文称，零跑 A10 在欧洲市场命名为 B03X，目前已在布鲁塞尔车展完成欧洲首秀，此前传闻欧洲市场命名调整与商标有关。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/0c74f58e-77c4-4b09-97b2-d48226c5dcb5.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，这款新车已经现身工信部 1 月 8 日发布的第 403 批《道路机动车辆生产企业及产品公告》，该车长宽高为 4270mm*1810mm*1635mm，轴距为 2605mm，整备质量 1360kg-1460kg、五座座椅布局，可选激光雷达、全景天幕、摄像头、雷达等。</p><p style=\"text-align: center;\"><img class=\"lazy no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/0388c019-4c5a-450f-9555-40bc0fea4fb0.jpg?x-bce-process=image/format,f_auto\" title=\"零跑 A10 纯电小型 SUV 完成申报，搭载激光雷达 + 高通 8650 芯片\" /></p><p style=\"text-align: center;\"><img class=\"lazy no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/17bc40fd-c13a-46f5-bc57-c67dce79e129.jpg?x-bce-process=image/format,f_auto\" title=\"零跑 A10 纯电小型 SUV 完成申报，搭载激光雷达 + 高通 8650 芯片\" /></p><p>这款纯电小型 SUV 于 2025 广州车展首秀，定位“智能精品长续航 SUV”，搭载激光雷达 + 高通 8650 芯片，以及高通 8295P 芯片，支持车位到车位功能；<strong>标称纯电续航超 500km</strong>，“同级唯一”油冷电驱总成，拥有同级领先的 88.1 % 的得房率。</p><p>零跑 A10 还配备了 6 处辅助驾驶小蓝灯，配有 18 英寸轮毂，可选六款车色。零跑 A10 此前已开启盲订，将于 2026 年上半年开启批量交付。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "2025 年双十一电商综合退货率达 61.5%，服装直播领域超 8 成",
+    "link": "https://www.ithome.com/0/912/332.htm",
+    "date": "2026-01-11 13:03",
+    "summary": "<p>IT之家 1 月 11 日消息，据央视新闻今日报道，2025 年双十一期间，电商综合退货率为 61.5%，仍处于高位水平。<strong>其中服装直播领域退货率超 80%</strong>，部分消费者高频退货行为较为突出，不断上升的退货率让商家头疼不已，物流、人工和商品损耗成本随之大幅度增加。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" contenteditable=\"false\" href=\"https://weibo.com/tv/show/1034:5253928900558875?mid=5253930986769591\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/66f86a8a-3b26-4216-a095-6354594217bc.jpg?x-bce-process=image/format,f_auto\" /></a></p><p>以一件定价 150 元的服装为例，单件毛利率为 60 元，这其中还要支出 20 至 30 元的运营成本、十余元的物流费用以及少量平台补偿金、代金券，<strong>最终单件净利润仅在 15 元左右</strong>。一旦遭遇退货，多次销售产生的重复运费会抵消剩余利润。</p><p>记者调查发现，电商平台也都设置了退货条件，比如剪标或使用洗涤后不支持七天无理由退货。但在实际操作中却<strong>缺乏这些情况的鉴定机制和手段</strong>，导致处理简单。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/d9ad1549-4910-4f33-8901-06a9e23719b8.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto\" /></p><p>IT之家注意到，“七天无理由退货”本来是为保障消费者的合法权益制定的规则，然而有人却恶意利用这一规则给电商平台及商家造成损失甚至借此获利。</p><p>2025 年 11 月有报道称，为防“蹭穿”，<a href=\"https://www.ithome.com/0/899/530.htm\" target=\"_blank\">部分商家无奈加装“巨型吊牌”</a>。这种新吊牌不仅面积巨大，上面还写满警告：“试穿请保留，拆除不退不换”。</p><p>据商家反馈，这种巨型吊牌背后原因也有些无奈，因为经常有一些消费者，<strong>利用平台“七天无理由退货”规则免费“蹭穿”新衣服</strong>。电商商家沈女士表示，以前用这种小吊牌，但是只要一藏就藏起来了。她穿出去也不觉得难看、丢脸。所以现在应对的措施就是用很大的吊牌，A4 纸那么大。</p><p>一位来自四川的吊牌生产商透露，定制巨型吊牌的原因就是商家经常遭遇“蹭穿”后的恶意退货。2025 年“双十一”前三个月，找这位生产商咨询的商家就有上千个，巨型吊牌的订单量达七八十万套。目前，吊牌生产商们还在继续改进产品，<strong>比如推出丝带式吊牌、一次性锁扣甚至还有密码锁等</strong>。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "两种外观，一汽-大众探岳 L PHEV 插混中型 SUV 申报",
+    "link": "https://www.ithome.com/0/912/331.htm",
+    "date": "2026-01-11 12:42",
+    "summary": "<p>IT之家 1 月 11 日消息，工信部公布了一汽 - 大众探岳 L PHEV 的申报图和相关信息，新车定位插混中型 SUV，搭载 1.5T 发动机 + 电动机组成的插电混动系统。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/1e1c972b-4e04-4dba-b6b7-7964940eae10.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>一汽-大众探岳 L PHEV 常规版申报图</figcaption><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/04d0dc69-5c4b-450b-a208-b151a97deac7.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>一汽-大众探岳 L PHEV R-Line 版申报图</figcaption><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/d76bd343-04ac-49f3-98b1-40d277e416ef.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>左：常规版；右：R-Line 版</figcaption><p>探岳 L PHEV 搭载了一套由 1.5T 发动机与电动机组成的插电混动系统，其中发动机的最大净功率达到 95 千瓦，电动机的最大功率则为 145 千瓦。该车型配备了 22 千瓦时的电池组，工信部纯电续航里程最高可达 115 公里。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/e4b1171c-f691-4e5b-a35a-dc0dc12e80cc.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>一汽-大众探岳 L PHEV 常规版申报图</figcaption><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/73ca4110-5693-4d54-9f07-e1c0e18ea709.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>一汽-大众探岳 L PHEV R-Line 版申报图</figcaption><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/474341c4-e5af-496d-9bf7-a714f6275654.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>一汽-大众探岳 L PHEV 常规版申报信息</figcaption><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/b1952969-604d-4e5a-bbc7-b6b56cf0eeb3.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>一汽-大众探岳 L PHEV R-Line 版申报信息</figcaption><p>IT之家注意到，外观设计方面，探岳 L PHEV 提供了两种不同的风格选择。常规版本的前脸配有醒目的“PHEV”标识，前格栅内部采用黑色横向饰条，整体风格简洁大气。而 R-Line 版本则展现出更为运动的外观风格，其前格栅采用独特的菱形饰条，并在两侧配有横向“风刃”饰条，车门下方的装饰条样式也与常规版本有所不同，进一步凸显运动属性。</p><p>两款车型在尾部装饰条上也存在细微差别，但均在车尾门右下角配备了蓝色“PHEV”标识，以彰显其插电混动的身份，并且采用了隐藏式排气布局。在车身尺寸方面，常规版的长宽高分别为 4684/1853/1677 毫米，R-Line 版则为 4695/1866/1678 毫米，两者的轴距均为 2791 毫米。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/e13fc9a1-81dd-4754-9422-09b5b2515c35.jpg?x-bce-process=image/format,f_auto\" /></p><p>此外，探岳 L PHEV 还为消费者提供了丰富的选装配置，包括不同样式的前照灯、下格栅、前格栅、前摄像头、前标识、前保险杠、前保险杠下导流板、后保险杠以及尾标等。同时，新车还提供了 4 种样式的轮辋可供选择。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/23a79e35-29f1-470f-9c7b-d78ab0ad9b32.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/31842a79-7650-4ed0-894e-8bcaebfe9f59.jpg?x-bce-process=image/format,f_auto\" /></p><p>动力系统方面，除了上述的发动机和电动机参数外，该车型的动力电池由欣旺达提供，依据不同版本，工信部纯电续航里程分别为 113 公里和 115 公里。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "同济大学成立机械工程与机器人学院、汽车与能源学院",
+    "link": "https://www.ithome.com/0/912/329.htm",
+    "date": "2026-01-11 12:08",
+    "summary": "<p>IT之家 1 月 11 日消息，1 月 10 日，同济大学机械工程与机器人学院、汽车与能源学院成立暨学科发展研讨会在嘉定校区举行。经重组，原机械与能源工程学院更名为“机械工程与机器人学院”，原汽车学院更名为“汽车与能源学院”。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/1b68ad0c-33b3-4e49-94a5-ac7ae99cbc44.jpg?x-bce-process=image/format,f_auto\" /></p><p>在汽车与能源学院学科发展研讨会上，汽车与能源学院作学科发展报告，提出了“十五五”学科发展目标与总体思路，表示学院将以<strong>“智能”和“氢能”</strong>双能赋能，深化数智化、绿色化、融合化、国际化，强化基础研究与应用转化牵引，为推动科技进步和产业变革提供更加有力的智力支撑。</p><p>在机械工程与机器人学院学科发展研讨会上，颁发了同济大学机械工程与机器人学院学科发展战略咨询委员会聘书。机械工程与机器人学院作学科发展报告，表示学院将以<strong>“智能化”与“机器人化”</strong>双轮驱动，以数智化、绿色化、融合化、国际化为引领，以基础科学技术为底座，以极端建造、智能制造、医工交叉为核心的三大支柱，以工程场景为牵引，推动学科跨越式发展。</p><p>IT之家注意到，在此次学科重组中，原机械与能源工程学院的<strong>暖通学科调整至建筑与城市规划学院</strong>，建筑与城市规划学院新增“建筑技术科学系”；土木工程学院水利工程系更名为“地质与水利工程系”。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "新款极狐阿尔法 S5 申报：新增增程版，外观细节调整",
+    "link": "https://www.ithome.com/0/912/328.htm",
+    "date": "2026-01-11 12:02",
+    "summary": "<p>IT之家 1 月 11 日消息，工信部公布了新款极狐阿尔法 S5 的申报图片及相关信息，此次新款车型在外观设计、动力配置等方面均进行了显著调整。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/20016e75-8f27-46da-ad90-30c7aad8e47f.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>新款极狐阿尔法 S5 纯电版申报图</figcaption><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/7d78fe60-f18c-4d9b-9a9b-64a8e84f6e11.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>新款极狐阿尔法 S5 增程版申报图</figcaption><p>IT之家注意到，新款极狐阿尔法 S5 在外观上进行了多项调整，新车前包围取消了与前灯组相连的黑色饰板，改为类似字母“C”的造型，这一改变使前脸更具辨识度。车尾部分，新款车型依旧搭载贯穿式灯组，但后包围样式经过重新设计，视觉效果更加运动。尽管外观有所调整，但新款车型仍保留了与现款车型相同的前后包围样式作为选装配置。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/6ff64751-2f7f-4ee2-aab5-70f189754744.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>新款极狐阿尔法 S5 纯电版申报图</figcaption><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/9e68ebd9-daae-4a4b-b765-c6589e122d54.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>新款极狐阿尔法 S5 增程版申报图</figcaption><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/acae6bf4-4a00-4d37-893e-9af7b294ba84.jpg?x-bce-process=image/format,f_auto\" /></p><p>车身尺寸方面，新款极狐阿尔法 S5 的长宽高分别为 4886 毫米、1930 毫米和 1480 毫米，轴距为 2900 毫米。与现款车型相比，车长小幅增加，而其他尺寸数据保持不变。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/ee881d58-58d1-44f2-82d9-2f6d2860000b.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>新款极狐阿尔法 S5 纯电版部分参数信息</figcaption><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/7ce3f83f-59f6-4443-bc18-8171e9d3ba22.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>新款极狐阿尔法 S5 纯电版低功率车型部分动力信息</figcaption><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/9edee09c-17e1-40a5-8c33-f8947b69fc7f.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>新款极狐阿尔法 S5 纯电版高功率车型部分动力信息</figcaption><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/bdbf25a9-635d-4a06-af1e-89b7ea6dea6a.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>新款极狐阿尔法 S5 增程版部分动力信息</figcaption><p>动力系统方面，新款极狐阿尔法 S5 除了继续提供高、低功率两种纯电动力版本外，新车还新增了增程动力版本。纯电车型的最大功率分别为 185 千瓦和 200 千瓦，与现款车型保持一致。而新增的增程动力车型搭载了一台 1.5 升增程器，其最大功率为 77 千瓦，驱动电机则与纯电车型的高功率版相同，最大功率为 200 千瓦。</p><p>目前，极狐阿尔法 S5 仅提供纯电版车型，官方指导价为 12.78 万至 17.78 万元。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "香港运输署今年将推动自动驾驶车辆无人化测试，累计安全行驶逾八万公里",
+    "link": "https://www.ithome.com/0/912/326.htm",
+    "date": "2026-01-11 11:48",
+    "summary": "<p>IT之家 1 月 11 日消息，香港特区政府新闻网今日发文介绍了自动驾驶技术在香港的发展状况，运输署自 2024 年起发出六个自动驾驶车辆先导牌照，允许在指定地区展开道路测试。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/4ccd9174-45de-4f1d-83f6-72698a1eaf63.png?x-bce-process=image/format,f_auto\" /></p><p>IT之家从官方介绍获悉，首家获批牌照公司 2024 年年底率先在北大屿山展开测试，其后逐步扩展应用场景至数码港和启德发展区，透过车身的感应器收集数据，<strong>累计安全行驶逾八万公里</strong>。</p><p>公司上月起在观塘和九龙城进行跨区测试。即使市区人车密集，自动车仍能凭借先进算法稳速行驶，在适当时候亮起指示灯、避开障碍物，并完成换线和掉头等标准驾驶动作，全程运作流畅。测试期间，司机以后备操作员的身份坐在车厢，双手离开方向盘，仅在必要时才接管车辆。</p><p>运输署机电工程师（自动驾驶车辆）邓健梁透露，自动驾驶车辆的测试范围已由机场岛扩展至更复杂的公路和小区。随着自动驾驶系统不断改善，自动车的车速已可根据相关测试路段的车速上限，<strong>提升至每小时 50 公里</strong>。</p><p style=\"text-align: start;\">运输署至今发出六个自动驾驶车辆先导牌照，供 62 辆自动驾驶私家车和小巴在多个地区测试。邓健梁表示，<strong>署方今年会逐步推动自动驾驶车辆无人化</strong>，即只有远程后备操作员。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "新款日产 Z 亮相：前脸微调、新增云龙绿车色",
+    "link": "https://www.ithome.com/0/912/325.htm",
+    "date": "2026-01-11 11:45",
+    "summary": "<p>IT之家 1 月 11 日消息，在 2025 年东京改装展上，中期改款的日产 Z 车型正式亮相。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/d30890e8-0213-48c2-8263-de4b0ee28cc8.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，外观方面，新款日产 Z 的前脸细节经过微调，采用了更简洁的分体式格栅设计，上方的纤细横向饰条与下方开阔的进气格栅相结合，中间以与车身同色的面板分隔，整体视觉效果更为清爽。新车还配备了一款造型灵动的头灯组，内部采用类似“眼睛”造型的灯组布局，赋予车辆拟人化的特征。此外，新款日产 Z 新增了一款名为 Unryu Green（译为“云龙绿”）的全新车漆颜色，搭配全新的 19 英寸轮圈，整车造型更具锋芒。车身腰线设计凌厉，展现出更强的力量感，与尾部熟悉的复古风格尾灯组形成鲜明对比。尾灯组内部采用规整的光源布局，下方粗壮的双边共两出式排气则凸显了车辆的运动能力。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/d2ae4767-3d97-43e1-b550-3833d21010b8.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/2b4cb639-552d-429f-8a2c-d071ce14a535.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/5d7c680f-0cba-4ed8-93ac-81c29dba448e.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/80314e4b-4d35-4b5a-9b33-751fb3193964.jpg?x-bce-process=image/format,f_auto\" /></p><p>在内饰方面，新款日产 Z 的升级相对低调，主要新增了浅棕色皮革材质选项，其余设计基本保持不变。而日产 Z Nismo 版新增的手动变速箱无疑是此次改款的一大亮点，为驾驶爱好者带来了更多的操控乐趣。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/8444bae6-5659-4bc9-b964-6820505bfe7e.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/eedef866-d391-434c-a824-4818acea9098.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/465f8cbf-f97a-4e03-9803-2f235501f7e4.jpg?x-bce-process=image/format,f_auto\" /></p><p>动力性能方面，改款后的日产 Z 搭载了经过重新调校的减振器，活塞尺寸更大，可显著提升车辆的操控性和响应速度。同时，更大尺寸的刹车系统增强了制动性能，尤其在 Nismo 版车型上表现更为突出。</p><p>新款日产 Z 将率先登陆日本市场，预计 2026 年夏季正式上市。此前，日产曾表示将在 2026 年通过官方渠道将日产 Z Nismo 引入中国市场。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "全新外观、新增大电池版本，新款比亚迪海狮 05DM 申报",
+    "link": "https://www.ithome.com/0/912/324.htm",
+    "date": "2026-01-11 11:33",
+    "summary": "<p>IT之家 1 月 11 日消息，新款比亚迪海狮 05DM 的申报信息已现身工信部，新车采用全新外观设计，新增大电池版本。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/8de35ee5-dc97-4af9-b13f-33ee43008b69.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，外观方面，新款比亚迪海狮 05DM 采用了全新设计语言，与海狮 05EV 的外观设计保持同步。新车换装了新样式的贯穿式 LED 灯带，前包围中央配备主动闭合式进气格栅，车身侧面采用半隐藏式门把手，整体造型更加时尚动感。尾部设计也进行了调整，尾灯样式、后包围装饰条以及车顶后扰流板的造型均有所更新。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/5c97cd8a-3784-45aa-8a31-442ee2bf5692.jpg?x-bce-process=image/format,f_auto\" /></p><p>尺寸方面，新款比亚迪海狮 05DM 的长宽高分别为 4620/1860/1630 毫米，轴距为 2770 毫米。相比现款海狮 05EV，新车的长度增加了 100 毫米，轴距增加了 50 毫米。而与现款海狮 05DM 相比，尺寸变化较为明显，现款海狮 05DM 智驾版的长宽高分别为 4726/1880/1720 毫米，轴距为 2712 毫米。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/06f2141c-ac52-4135-ba60-07e9639fb8c7.jpg?x-bce-process=image/format,f_auto\" /></p><p>配置方面，新款比亚迪海狮 05DM 提供了丰富的选装项目，包括内后视镜安装底座、翼子板装饰件、激光雷达、前保雷达、外后视镜、车窗银色装饰条、车身同色侧面装饰条、全景天幕带行李架等，同时还提供黑色五辐轮辋供消费者选择，满足不同用户的个性化需求。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/78990b55-793e-4f01-995c-6bbc900f136e.jpg?x-bce-process=image/format,f_auto\" /></p><p>动力系统方面，新款比亚迪海狮 05DM 搭载了 1.5 升插电式混合动力系统，其中发动机最大功率为 74 千瓦，电动机最大功率为 120 千瓦。动力电池采用弗迪的磷酸铁锂电池，容量提供 18.3 千瓦时和 26.6 千瓦时两种版本，对应的工信部纯电续航里程分别为 102 公里和 151/155 公里。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/853a4706-ff53-44b3-a7a4-c31e79b75471.jpg?x-bce-process=image/format,f_auto\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "极越汽车母公司集度明日召开预重整第一次债权人会议",
+    "link": "https://www.ithome.com/0/912/323.htm",
+    "date": "2026-01-11 11:20",
+    "summary": "<p>IT之家 1 月 11 日消息，极越官方公众号昨日发布《关于集度及相关主体预重整第一次债权人会议操作指引的公告》，具体安排如下：</p><ul class=\" list-paddingleft-2\"><li><p>上海集度汽车有限公司预重整案第一次债权人会议：定于 2026 年 01 月 12 日 10 时 00 分召开；</p></li><li><p>集度科技 (武汉) 有限公司庭外重组第一次债权人会议：定于 2026 年 01 月 12 日 13 时 30 分召开；</p></li><li><p>武汉集度汽车服务有限公司庭外重组第一次债权人会议：定于 2026 年 01 月 12 日 13 时 30 分召开；</p></li><li><p>北京集度科技有限公司庭外重组第一次债权人会议：定于 2026 年 01 月 12 日 15 时 30 分召开；</p></li><li><p>北京集度汽车零部件有限公司庭外重组第一次债权人会议：定于 2026 年 01 月 12 日 15 时 30 分召开。</p></li></ul><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/26913264-4a14-4634-94a0-18993c30f38b.png?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，极越微信公众号于 2025 年 11 月 25 日发布《上海集度汽车有限公司关于启动预重整程序的公告》，公告称，上海集度汽车有限公司（品牌：极越汽车）于日前向上海市第三中级人民法院提交预重整申请，该申请已于 2025 年 11 月 21 日获正式受理。上海市第三中级人民法院同步指定北京市中伦 (上海) 律师事务所担任临时管理人，依法推进后续预重整相关工作。</p><p>公告还称，<strong>公司启动预重整程序，旨在引入新的战略投资人，盘活现有资产与资源，维护资产价值，并保障用户售后权益</strong>。公司将在临时管理人的监督下，维持核心业务平稳运转，依法保障用户合法权益。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "蔚来乐道换电站电池翻倍计划 1 月中旬完成，增投超 8000 块",
+    "link": "https://www.ithome.com/0/912/322.htm",
+    "date": "2026-01-11 11:13",
+    "summary": "<p>IT之家 1 月 11 日消息，蔚来乐道汽车今日发文，截至 1 月 11 日，乐道已增投超 6150 块全新电池，全国换电站电池翻倍计划整体进度<strong>达成 76.88%</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/4e24dfdf-3341-48ec-bc7b-d8025f06e3ec.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，乐道汽车 2025 年 12 月 5 日发布全国换电站电池翻倍计划，将向换电网络增投超 8000 块全新电池包，<strong>预计于 2026 年 1 月中旬完成</strong>。</p><p>官方称，届时全国换电网络中乐道电池数量将达到计划前的 2 倍以上，可满足春运高峰的换电需求，并为后续快速增长的用户规模长期提供领先、便捷的补能体验。电池的增投已于 2025 年 11 月启动。</p><p><span class=\"text_rxnHx J-lemma-content-lemma-text\">IT之家注：乐道汽车是</span><span class=\"text_rxnHx J-lemma-content-lemma-text\">蔚来</span><span class=\"text_rxnHx J-lemma-content-lemma-text\">旗下第二汽车品牌，成立于 2024 年 5 月 15 日。2025 年 10 月 18 日，乐道品牌迎来第 10 万台新车交付。</span></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "纯电续航 175 公里，吉利银河 A7 长续航版申报",
+    "link": "https://www.ithome.com/0/912/321.htm",
+    "date": "2026-01-11 11:04",
+    "summary": "<p>IT之家 1 月 11 日消息，吉利银河 A7 长续航版的申报图及相关信息已现身工信部，该车型搭载 28.3 千瓦时磷酸铁锂电池组，工信部纯电续航里程可达 175 公里，预计上市后将与比亚迪秦 L DM 等车型展开竞争。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/bf3ceeb2-8041-4795-8385-51a4a01e1cef.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，在外观设计上，吉利银河 A7 长续航版延续了现款车型的风格，采用封闭式前脸搭配贯穿式日间行车灯，车尾同样配备贯穿式尾灯与车头呼应，且继续使用隐藏式排气布局，整体造型保持了品牌的家族化设计语言。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/d7408a28-4d0b-49b6-be21-62a4d182c364.jpg?x-bce-process=image/format,f_auto\" /></p><p>尺寸方面，新车长宽高分别为 4918 毫米、1905 毫米、1495 毫米，轴距为 2845 毫米，与现款车型保持一致。不过，由于搭载了更大容量的电池组，新车整备质量达到 1775 公斤，相比现款车型的 1599 公斤（70 公里续航版本）和 1735 公斤（150 公里续航版本）有所增加。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/aa94db4e-c3c8-419d-8e87-c27dc7d83958.jpg?x-bce-process=image/format,f_auto\" /></p><p>配置方面，吉利银河 A7 长续航版提供了丰富的选装件，包括窗框饰条、前雷达、后雷达、前风窗摄像头、天窗，以及不同样式的门把手、前格栅、雾灯装饰罩和轮辋等，能够满足不同消费者的个性化需求。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/7dfe8053-2601-4021-aca6-dd92afc00835.jpg?x-bce-process=image/format,f_auto\" /></p><p>动力系统上，该车型继续搭载 1.5 升插电混合动力系统，发动机最大功率为 82 千瓦，电动机的具体参数尚未曝光。参考在售的 2025 款吉利银河 A7，其电动机最大功率为 175 千瓦。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/025c64aa-a5cd-4e09-ba94-62c3c89b2eaf.jpg?x-bce-process=image/format,f_auto\" /></p><p>从续航数据来看，吉利银河 A7 长续航版的工信部纯电续航里程为 175 公里。而 2025 款吉利银河 A7 提供两种容量电池组，CLTC 纯电续航里程分别为 70 公里和 150 公里，WLTC 纯电续航里程分别为 55 公里和 120 公里。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "气场拉满：泰国改装厂让长城坦克 300“变身”Brabus G63",
+    "link": "https://www.ithome.com/0/912/319.htm",
+    "date": "2026-01-11 10:30",
+    "summary": "<p>IT之家 1 月 11 日消息，梅赛德斯-AMG G63 长期以来都是越野界张扬不羁风格的代名词，经 Brabus 或 Mansory 等改装厂操刀后，在视觉效果上锋芒更盛。但对于那些既想拥有同款气场，又不愿支付超跑级购车费用的消费者而言，选择余地寥寥无几。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/92405038-9c25-423d-b125-44a6c5e358fb.png?x-bce-process=image/format,f_auto\" /></p><p>一款改装得恰到好处的铃木吉姆尼或许能满足部分人的需求，但对于追求更接近 G 级尺寸与姿态的消费者来说，还是稍显逊色。如今，一个全新的替代方案应运而生。</p><p>泰国一家名为 Shana E-Sport 的定制改装厂，摸索出了一套方法，能让一款亲民得多的车型也拥有 Brabus 同款气场。这款车就是长城汽车的坦克 300，该车本身就具备硬朗方正的车身比例和挺拔的车身姿态，这让改装后的效果足以以假乱真。</p><p>外观的全面改造始于前脸的彻底焕新。原厂坦克 300 的车头被全新设计的前脸取代，新前脸配备了全新格栅、圆形 LED 大灯、带通风口的引擎盖，以及一款运动化保险杠，保险杠上还设有 AMG 风格的进气口和前唇。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/049d755b-d076-4a7f-aca5-e6cc799bbf03.png?x-bce-process=image/format,f_auto\" /></p><p>复古造型转向灯搭配方正轮眉，进一步凸显了经典车身轮廓；而 Brabus 风格的轮眉加宽件与装饰性通风口，则让整车的运动感更上一层楼。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/61f63496-b231-4894-9d56-8f2468b5bf15.png?x-bce-process=image/format,f_auto\" /></p><p>车尾部分，改装厂加装了带一体式扩散器的运动化后保险杠、车顶扰流板和定制备胎罩。根据客户偏好，车辆还可配备四出排气管，或模仿原版 G63 的侧置排气管。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/121c77d9-e4bf-4f71-830d-9dab63efd672.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/237df0cc-d732-4fa5-b30d-ba7880094b9a.png?x-bce-process=image/format,f_auto\" /></p><p>整车搭载 22 英寸改装合金轮毂，匹配厚实的全地形轮胎。买家还可选择升级悬挂系统和更大尺寸的刹车套件。</p><p>坦克 300 的内饰本就大量借鉴了奔驰的设计元素。其内饰布局包含辨识度极高的双联屏数字座舱、涡轮造型空调出风口，整体设计风格只需换个车标，俨然就是一台“斯图加特出品”。即便如此，Shana E-Sport 仍进行了深度升级。该厂的一款展车内饰采用青绿色皮革材质，辅以锻造碳纤维饰条点缀，同时配备电动伸缩发光侧踏板、电动吸合门和感应式电动尾门。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/26f0f3f2-83ff-45dd-bbac-c90fab9afa9c.png?x-bce-process=image/format,f_auto\" /></p><p>该车的动力系统保留了坦克 300 原厂混动配置，搭载 2.0 升涡轮增压四缸发动机，匹配单电机，综合最大功率约 350 马力，动力通过 9 速手自一体变速箱传递至四轮。显然，这套动力组合远不及 Brabus G63 的双涡轮增压 V8 发动机强劲，但这并非此次改装的核心卖点。</p><p>对大多数买家而言，成本才是关键。Shana E-Sport 表示，一套完整的 G63 风格坦克 300 改装方案（含原车）售价约 250 万泰铢（IT之家注：现汇率约合 55.7 万元人民币）。其中，坦克 300 裸车价约 180 万泰铢（现汇率约合 40.1 万元人民币）。另有估算显示，若仅计算改装费用，根据定制化程度不同，费用约为 108 万泰铢（现汇率约合 24 万元人民币）。</p><p>尽管对于一款复刻车型而言，这样的价格依然不菲，但与原版 G63 动辄百万美元起步的售价相比，已是天壤之别。</p><p>从 Shana E-Sport 社交媒体发布的视频和最新动态来看，这款改装车型的概念已在泰国市场收获不少关注，越来越多的消费者对其表现出浓厚兴趣。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/0af35249-09dd-412d-8c25-2856134f06da.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/ca5ed731-cb43-4d4e-92e2-85c775aca7d6.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/656dfece-c9ea-4799-a474-e62f3a4d1bef.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/27858a53-ad64-4f6e-ac6b-5632f024b6ea.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/7789ad95-8750-4021-92f8-f459c630a160.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/e3dcd114-d855-436f-a57a-c4cf9b749f0f.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/0557f62f-db65-45f8-9484-28d7649385d3.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/52082299-6bdd-41bf-81f2-284285860266.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/7c5085e6-8741-4617-9d2c-6a4e3319dfbc.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/fba9f244-219f-4cf6-88ea-f94393a3933a.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/a1153e53-d2b3-48ee-a927-eb23bf36ec05.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/959a7bed-a250-49a4-a9cc-86eef7f512c0.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/c37c2e22-bab7-469f-915f-8c0deb7c85b5.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/a91a209a-1f13-4a34-9340-a8a717bc53df.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/eb255002-8572-496f-af99-0f043cd931a7.png?x-bce-process=image/format,f_auto\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "没人提问了但 Stack Overflow 赚钱更多！AI 没有赶尽杀绝",
+    "link": "https://www.ithome.com/0/912/318.htm",
+    "date": "2026-01-11 10:10",
+    "summary": "<p style=\"text-align: left;\">Stack Overflow「真」凉透了吗？</p><p style=\"text-align: left;\">某种层面上是的 —— 那个曾作为公共论坛的它，确实快死了。</p><p style=\"text-align: left;\">在被 ChatGPT 为首的 AI 连续冲击下，Stack Overflow 社区流量一路下滑。</p><p style=\"text-align: left;\">就上个月来说，全站仅 <strong>6866 个</strong>新提问…… 啥概念呢，也就是和 08 年刚上线时差不多。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/6631587d-f3e9-4e7b-bb90-a8aa856b261e.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: left;\">然而有趣的是另外一项数据：同期，Stack Overflow 的<strong>年营收不降反增</strong>，翻了一番，达到新高 1.15 亿美元。</p><p style=\"text-align: left;\">公司亏损也在连年下降，从原先的 8400 万美元下降到 2200 万美元。</p><p style=\"text-align: left;\">它赚钱的逻辑也很简单：<strong>“我们不生产知识，我们只是知识的搬运工。”</strong></p><p style=\"text-align: left;\">简单来说，就是把 Stack Overflow 丰富且高质量的数据卖给 AI。</p><p style=\"text-align: left;\">看上去，Stack Overflow 并未如传言般被 AI 击垮，甚至反过来正靠 AI 赚得盆满钵满。（doge）</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/73fe5393-aabd-4e53-87b7-bf50add2bdbf.jpg?x-bce-process=image/format,f_auto\" /></p><h2>AI 时代，Stack Overflow 也在商业转型</h2><p style=\"text-align: left;\">诚然，ChatGPT、Claude 等 AI 越来越强大的 Coding 能力，迅速带走了原属于 Stack Overflow 的高光。</p><p style=\"text-align: left;\">从巅峰时期的程序员圣地，每个月都有 30w+ 新问题层出不穷，到如今用户凋零、流量暴跌，Stack Overflow 似乎在 toC 市场已遭抛弃。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/277f607e-e6ba-4398-99f2-e4be62a73c6f.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: left;\">但它迅速找到了破局的方向 ——toB，尤其是向 AI 大模型公司倾售<strong>数据</strong>。</p><p style=\"text-align: left;\">和普通的技术博客或者 GitHub 评论不同，Stack Overflow 长期拥有一套极其严苛的社区治理机制：</p><p style=\"text-align: left;\">它强调可验证、可复用。</p><p style=\"text-align: left;\">每一个答案都会经过社区用户的评议（点赞👍or 踩👎），提问者也可以勾选一个最能解决其问题的答案。</p><p style=\"text-align: left;\">一致高票通过的答案通常会收获更高的权重，从而顺利进入评论区前排，收获更多的社区声望。</p><p style=\"text-align: left;\">伴随着技术的更新迭代，社区也会持续编辑旧答案，确保当前答案是最有效也最精简的。</p><p style=\"text-align: left;\">从一定程度上看，虽然这拉高了用户参与的门槛，但却<strong>保证了数据的纯净度和高信噪比</strong>。</p><p style=\"text-align: left;\">与此同时，Stack Overflow 上也覆盖了大量的边缘情况案例和各种奇葩的编译器报错，它不仅会记录“怎么写是对的”，也会记录“怎么写是错的”以及如何修复。</p><p style=\"text-align: left;\">也正因如此，Stack Overflow 的数据都极具训练价值，对大模型而言，无疑是理解编程逻辑、进行错误诊断的最佳数据库。</p><p style=\"text-align: left;\">一边差数据，一边数据管够，两相结合，Stack Overflow 完成了<strong>数据变现</strong>的商业转型。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/6f2c8116-c3a9-41e9-b4e1-44396146ba30.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: left;\">过去它更依赖社区流量带来的广告收入，但随着开发者涌向 AI 问答，广告商随之也开始撤离。</p><p style=\"text-align: left;\">Stack Overflow 则转而押宝在自家的生成式 AI 插件 <strong>Stack Internal</strong> 上。</p><p style=\"text-align: left;\">这是一种 SaaS 模式，它利用 Stack Overflow 积累多年的庞大数据库为企业内部提供技术支持，目前已经被全球约 25000 家公司采用。</p><p style=\"text-align: left;\">另一方面，它还学习 Reddit 模式，将历史问答内容以<strong>数据授权和许可</strong>的方式提供给 AI 公司，从而获得商业收益。</p><p style=\"text-align: left;\">仅 2024 年，通过这种方式，它就获得了超过 2 亿美元的收入。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/c87508ba-bfc9-4bb3-bf0a-e8808730948e.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: left;\">Stack Overflow 同步也在进行降本增效，例如进行大规模裁员，主要集中在市场营销部门。</p><p style=\"text-align: left;\">公司减少了传统的广告和一般销售投入，集中团队资源支持 AI 产品研发，并开始探索利用 AI 工具协助社区版主审核信息。</p><p style=\"text-align: left;\">显然这一套组合拳颇有成效，根据其母公司 Prosus 的财报，Stack Overflow 的利润得到大幅改善，并接近现金流平衡。</p><h2>并非长久之计</h2><p style=\"text-align: left;\">但 u1s1，Stack Overflow 目前的盈利，本质上还是在<strong>变现存量</strong>。</p><p style=\"text-align: left;\">靠过去十几年积累的高质量技术问答语料，吸引 AI 公司为其数据付费，只是第一步。</p><p style=\"text-align: left;\">如何能够保证新数据源源不断地产生，才是 Stack Overflow 应该考虑的重心。</p><p style=\"text-align: left;\">一旦 Stack Overflow 无法获取有关新技术的问答，也就是被用户彻底遗忘的时候，它引以为豪的数据库就会立马<strong>技术断代</strong>。</p><p style=\"text-align: left;\">届时 AI 公司是否还会为过时的信息付费，须得打个问号，毕竟众所周知，模型能力越强，对越新、越高质量的数据依赖就会更大。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/1853a697-b2af-4527-8716-e705416041d7.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: left;\">而对于 Stack Overflow，这一衰败趋势也正在逐渐显现。</p><p style=\"text-align: left;\">Stack Overflow <strong>缺乏吸引新用户加入的渠道</strong>，老用户逐渐转向大模型交互，平台上有关新技术的讨论也日渐稀少。</p><p style=\"text-align: left;\">在平台尝试接入 AI 功能后，反而让社区充斥着更多的垃圾回答，这与此前的“高质量复用”定位相悖，对用户的信赖造成了致命的打击。</p><p style=\"text-align: left;\">虽然 Stack Overflow CEO Prashanth Chandrasekar 曾表示，他们为此专门做了一项调查：</p><blockquote><p style=\"text-align: left;\">平台 80% 以上的用户都在尝试使用 AI，但只有 29% 的人信任其输出结果。</p></blockquote><p style=\"text-align: left;\">但这些并不完全信任 AI 的用户并没有回到 Stack Overflow，而是转向其它更强的模型或者对用户更友好的社区。</p><p style=\"text-align: left;\">Stack Overflow 早已失去了它的数据闭环，所以吃老本到底能吃多久，终究还是个未知数。</p><p style=\"text-align: left;\">参考链接：</p><ul class=\" list-paddingleft-2\"><li><p>[1] <span class=\"link-text-start-with-http\">https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/</span></p></li><li><p>[2] <span class=\"link-text-start-with-http\">https://x.com/trungtphan/status/2009421022181904640</span></p></li></ul>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "首个中国人群全生命周期脑图表成功构建，确定 228 项指标的正常参考范围",
+    "link": "https://www.ithome.com/0/912/314.htm",
+    "date": "2026-01-11 09:59",
+    "summary": "<p>IT之家 1 月 11 日消息，据北京天坛医院，近日，首都医科大学附属北京天坛医院放射科刘亚欧教授团队和北京师范大学左西年教授团队合作，成功构建首个中国人群全生命周期的脑结构正常参考值（脑图表），确定了中国人脑<strong> 228 项核心结构指标</strong>的正常参考范围，可以为阿尔茨海默病、帕金森病、脑小血管病等神经系统疾病等诊断和精准治疗<strong>提供中国人群的正常参考标准</strong>，比传统磁共振检查的诊断准确率大幅提升。</p><p>IT之家注意到，这项研究成果于 2025 年 12 月 29 日发表在国际权威学术期刊《<span>自然-神经科学</span>》（Nature Neuroscience），并已经形成专利，<strong>与多家医学影像设备企业达成转化协议</strong>，未来将应用于脑健康评估和脑疾病的精准评价的临床实践中。</p><p>北京天坛医院放射科主任刘亚欧说，传统磁共振检查长期以来面临两大核心瓶颈问题，<strong>一是目前国际上主要使用的脑结构正常值主要基于西方人群</strong>，而中国人遗传背景和生活环境的独特性导致脑结构与西方人群存在显著差异，可能导致诊断和治疗偏差；二是脑结构随年龄动态变化，传统方法难以区分生理性衰老和病理性改变，可能延误早诊早治的关键时期。</p><p>为了攻克这些难题，研究团队整合全国 105 个研究中心，收集包括港澳台在内覆盖全国的近 2.8 万例高质量磁共振影像数据开展研究，其中包括 2.4 万余名覆盖从儿童到老年全生命周期的健康人群，3900 余名涵盖阿尔茨海默病、帕金森病、脑小血管病、多发性硬化等多种神经系统疾病患者，<strong>确保脑结构参考标准对全体中国人的适用性</strong>，同时更能精准捕捉大脑从发育、成熟、到衰老的动态变化规律，在一定程度上解决传统标准无法区分生理性衰老与病理性改变的难题。</p><p>研究同时发现，中国人的脑结构与西方人群存在差异，<strong>中国人群的脑发育峰值和脑老化均晚于西方人群</strong>。</p><p style=\"text-align: center;\"><img alt=\"图片\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/fac290f9-45a2-4873-9662-905ba8826b91.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>▲ 正常人群的样本分布以及脑结构全生命周期发展和老化轨迹</figcaption><p>依据研究结果，团队确定了中国人脑 228 项核心结构指标的正常参考范围，这些参考值均经过严格的统计学验证，<strong>可根据年龄、性别、站点等因素进行个体化矫正</strong>。</p><p>“我们把患者的大脑影像数据和这些正常值比对，就能快速判断患者大脑结构是否存在偏离，来判断患者属于哪种疾病，比传统磁共振检查的诊断准确率大幅提升。”刘亚欧说，例如阿尔茨海默病表现为广泛的脑结构指标偏离正常值，帕金森病主要表现为深部灰质指标偏离正常值，而多发性硬化主要是白质体积和丘脑体积偏离正常值。</p><p>应用这一成果，<strong>可以预测患者的认知能力、运动能力，以及评估药物治疗和手术效果</strong>，提前预警残疾进展风险，据此开发的个体化脑健康报告系统，可以实现神经系统疾病的早筛早诊，制定更精准的治疗方案。目前，这套系统已经在北京天坛医院启动临床试点，累计服务已经超过上千人。</p><p>刘亚欧介绍，团队将进一步整合多模态影像、血液生物标志物、基因检测等多组学数据，建立中国人从结构到功能多模态以及多组学的正常参考值（脑图表），并将脑图表应用于脑重大疾病如阿尔茨海默病、帕金森病等的精准量化，推进脑重大疾病精准诊疗。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "消息称三星 Galaxy S26 系列手机将首次提供 2400 万像素切换开关，优化日常摄影体验",
+    "link": "https://www.ithome.com/0/912/312.htm",
+    "date": "2026-01-11 09:58",
+    "summary": "<p>IT之家 1 月 11 日消息，消息人士 @UniverseIce 昨天在 X 平台透露，三星 Galaxy S26 系列手机将首次提供 2400 万像素模式开关。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/c2e2e5f3-ed65-4cd4-97b9-0c59648055ee.png?x-bce-process=image/format,f_auto\" /></p><p>UniverseIce 表示，他上手一台 Galaxy S26 Ultra 的早期工程机后发现，这个切换开关并不会直接出现在相机 UI 里，需要进入相机助手（IT之家注：Camera Assistant）应用中手动开启，支持拍照模式与人像模式。</p><p>打开这个开关后，用户可以在默认的相机设置界面中选择 2400 万像素模式，<strong>最终输出的影像与 Expert RAW 模式的 2400 万像素图像截然不同</strong>，看起来更适配日常摄影，而非追求极致细节。</p><p>同时他透露，2400 万像素模式的影像品质十分清晰，还能够在人像、逆光等场合规避 RAW 模式的过度锐化、紫边问题，不过在这个模式下，<strong>从按下快门到完成影像处理大概要等 3 秒</strong>，<strong>但最终的效果“完全值得等待”</strong>。</p><p>遗憾的是，U<strong>niverseIce 表示这项功能将独占 Galaxy S26 系列</strong>，<strong>即使 Galaxy S25 搭载了同款传感器也不支持</strong>。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "德国一公司研发无贵金属电极技术让绿氢生产又快又便宜，明年试产",
+    "link": "https://www.ithome.com/0/912/311.htm",
+    "date": "2026-01-11 09:47",
+    "summary": "<p>IT之家 1 月 11 日消息，一家德国公司莱茵金属（Rheinmetall）成功研发出了用于制氢的创新电极技术，该公司已启动明年中试生产的筹备工作。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/ee8d6091-1494-4f6b-ba2f-437ea825c486.png?x-bce-process=image/format,f_auto\" /></p><p>“我们创新的电极技术应用，将使电解槽系统的性能与效率超越现有水平。”E²ngel 联盟项目负责人卡斯滕・朗格博士（Dr. Karsten Lange）表示。</p><p>莱茵金属透露，这项技术将通过降低整个系统的投资来降低绿色氢的生产成本，同时使功率密度翻倍或效率提升超过 10%。</p><p>该集团旗下子公司 KS 滑动轴承有限公司（KSG），在过去三年里以联盟牵头单位的身份，参与了德国政府资助的科研项目 ——“下一代碱性电解用无贵金属电极研发计划”（E²ngel）。该项目的核心目标是，基于无贵金属催化剂，大幅提升电解水制绿氢的功率密度与效率，全面超越现有技术系统。</p><p>凭借在特种合金材料研发、金属涂层工艺，以及各类成型、冲压、折弯、切割和连接技术等领域的深厚技术积淀，莱茵金属快速完成了催化剂与生产工艺的研发工作。据新闻稿显示，该联盟的合作方 —— 德国航空航天中心（DLR）与法国液空集团旗下的德国 McPhy 能源公司，同步完成了技术验证与资质认证工作。</p><p>据IT之家了解，德国航空航天中心技术热力学研究所对多种技术方案进行了测试验证，而 McPhy 公司则在项目收官阶段开展应用测试，确保该技术可适配电解槽系统。新闻稿指出，项目设定的电解槽电压与电流密度等关键指标均为高难度目标，最终不仅全部达成，还实现了超额完成。这一成果充分证明，这种无贵金属且具备高度规模化潜力的电极技术，相比那些依赖昂贵稀缺贵金属、工艺复杂的解决方案，具备更优的性能与效率。</p><p>莱茵金属表示，目前该技术已进入量产准备阶段，计划明年在圣莱昂 - 罗特生产基地启动中试。产线设计可适配最大尺寸达两米的电极产品，能够满足兆瓦级电解槽系统的应用需求。此外，在工艺与生产技术选型阶段，研发团队已充分考量能源转型所需的规模化量产要求。</p><p>“我们正为实现可持续、低成本的能源转型贡献关键力量。”该业务板块负责人克劳斯・普赫博士（Dr. Klaus Pucher）表示，“与此同时，这项技术有助于减少对进口化石燃料的依赖，进而增强德国乃至欧洲能源供应体系的稳定性与抗风险能力。”</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "谷歌将 Gemini AI 助理引入 Gmail，可提供对话摘要、问答等功能",
+    "link": "https://www.ithome.com/0/912/309.htm",
+    "date": "2026-01-11 09:43",
+    "summary": "<p>IT之家 1 月 11 日消息，谷歌官方本周（1 月 8 日）发文宣布旗下 Gmail 电子邮箱正式上线多项 AI 功能，号称“将 Gmail 带入 Gemini 世代”。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/2cdfe4b5-6edf-4d9c-9e37-91d983cbc760.jpg?x-bce-process=image/format,f_auto\" /></p><p>据介绍，本次新功能的头牌是“AI 概览”（IT之家注：AI Overviews），可以将包含几十条回复的邮件群自动整合成一段简明扼要的摘要，可以让用户告别以往逐条翻阅消息列表、从字里行间拼凑答案的复杂体验。</p><p>用户只需要用自然语言向 Gmail 提问即可得到答案，例如当你问：“去年修我家浴室的水管工是谁？”，<strong>Gmail 就会用 Gemini 的高级推理能力找出答案</strong>，并总结当时的具体细节。</p><p>同时，本次更新还带来了写作工具、建议回复和校对功能，前者可以用来润色邮件或从零开始起草邮件，而建议可以结合对话上下文给出回复建议，例如可以根据回复人物自动更换语气，配合校对功能还可以检查语法、写作风格等，确保邮件内容更加专业、得体。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/c711befc-fe16-4ce2-9b37-e79a39dc5780.jpg?x-bce-process=image/format,f_auto\" /></p><p>此外，全新 Gmail 还带有“AI 收件箱”，可以过滤干扰信息，让用户专注于真正重要的内容，<strong>可以根据通讯录</strong>、<strong>经常联系的人来整理用户人际关系</strong>，还能够从邮件内容推断每个人的重要程度，并根据日程安排自动将最重要的邮件放在 UI 顶部。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/8b02451c-704d-45bf-8525-42d79e888747.jpg?x-bce-process=image/format,f_auto\" /></p><p>目前这些功能已在美国地区上线，首批支持英语，预计将在未来几个月扩充支持语言、地区。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "买家 5 个月 21 次网购退货调包，商家损失近千元起诉维权",
+    "link": "https://www.ithome.com/0/912/307.htm",
+    "date": "2026-01-11 09:37",
+    "summary": "<p>IT之家 1 月 11 日消息，据央视网报道，近日，广州一家商户在日常经营中发现，有一位买家账户在淘宝、拼多多、抖音、微信小程序等多个平台<strong>频繁下单并退货</strong>，且退回商品在款式、价值等方面与公司发出的商品明显不符。</p><p>商家梳理相关交易记录后，认为该账户行为异常，随后将买家诉讼至法院。经查，<strong>被告吴某在 5 个月内共实施上述行为 21 次</strong>，给商家造成直接经济损失 893.46 元。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" contenteditable=\"false\" href=\"https://weibo.com/tv/show/1034:5253946449788976?mid=5253947178879803\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/47074f18-269a-475c-80a3-c4c250009ae5.jpg?x-bce-process=image/format,f_auto\" /></a></p><p>IT之家注意到，利用网购退货规则骗取商家财物的事件此前就有案例。2024 年 11 月，<a href=\"https://www.ithome.com/0/810/676.htm\" target=\"_blank\">上海市青浦区人民法院审理了一起诈骗罪案件</a>。被告人小雅（化名）利用“收货后七天无理由退货”，<strong>通过在购物后故意只退空包或者赠品等方式</strong>，非法牟利骗取平台退款。</p><p>在侥幸心理作用下，小雅在短短五个月期间利用自己或者他人的账号在平台上购买了手机、电脑、手表、项链、化妆品等物品，再利用上述方式进行虚假退货，共计骗取平台退款 13 万余元。最终，被告人小雅犯诈骗罪判处有期徒刑二年，缓刑二年，并处罚金八千元。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/f3e90b56-76cb-4bbe-8904-64f59e085d8c.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "新一代即将到来，现款宝马 3 系在韩推出多款特别版车型",
+    "link": "https://www.ithome.com/0/912/306.htm",
+    "date": "2026-01-11 09:33",
+    "summary": "<p>IT之家 1 月 11 日消息，本周早些时候，宝马官方确认，新一代 3 系车型将于 2026 年晚些时候正式亮相。在现款“G20”车型停产，为丁戈尔芬工厂生产的 G50 换代车型让路之前，宝马还计划推出一系列特别版车型。其中，宝马韩国分公司将推出五款特别版车型，三款基于即将停产的这款运动型轿车打造。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/a6c11f45-8745-4e47-ae70-199cca9eafcb.jpg?x-bce-process=image/format,f_auto\" /></p><p>在入门级的 320i 车型上配备 M 运动性能套件，这种情况并不多见，但此次推出的特别版正是如此。这款阿尔卑斯白车身的四门轿车，加装了碳纤维材质的 M 系列外观升级套件：碳纤维进气格栅、碳纤维后扰流板以及碳纤维后视镜外壳，搭配芳纶纤维车顶天线和翼子板处的黑色 M 标识，整体运动感拉满。</p><p>宝马韩国分公司仅限量发售 10 辆该版本车型，车内均配备干邑色 Sensatec 合成皮座椅，含税售价为 6490 万韩元（IT之家注：现汇率约合 31.2 万元人民币）。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/b314ab4e-62ec-48cc-8f3c-b44ce76ca016.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/10bb41ae-f80a-499a-90eb-db7f6d68bd68.jpg?x-bce-process=image/format,f_auto\" /></p><p>再往上一个级别，动力更强的六缸车型 M340i 则推出两个版本供消费者选择。两个版本均标配碳纤维前格栅、碳纤维后备箱扰流板、碳纤维后视镜外壳，以及芳纶纤维车顶天线。选择高配版本的消费者，还可额外获得 M 碳纤维后扩散器和黑色车身侧裙贴花，车内座椅则采用真皮材质的 Vernasca 皮革包裹。</p><p>其中，低配版 M340i 特别版限量 10 辆，售价 8990 万韩元（现汇率约合 43.2 万元人民币），提供两种配色方案：阿尔卑斯白车身搭配摩卡色内饰，或宝石青车身搭配牡蛎白内饰。高配版 M 运动性能轿车则提供摩天楼灰和布鲁克林灰两种车身颜色，均匹配摩卡色内饰，限量 30 辆，售价 9190 万韩元（现汇率约合 44.2 万元人民币）。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/572d2e5d-14c6-4c86-b486-da31bbec75eb.jpg?x-bce-process=image/format,f_auto\" /></p><p>作为这一代 3 系停产前的顶配车型，宝马 M3 旅行版（G81）同样在韩国市场推出特别版。该车型采用奥迪标志性的纳多灰车漆，搭配双色双五辐 M 轮毂，内饰则采用银石黑拼色的个性化定制真皮材质。这款高性能旅行版车型限量 10 辆，每辆售价 1.46 亿韩元（现汇率约合 70.2 万元人民币）。</p><p>此外，本次推出的特别版车型中，售价最高的是基于旗舰版 XM Label 打造的 XM 首发限量版。这款造型极具辨识度的 SUV，采用了个性化定制磨砂坦桑石蓝色车漆，这一配色并未搭载于韩国市场的普通版车型。为提升产品竞争力，宝马还为其配备了 23 英寸轮毂、暗影套装饰条，以及个性化定制系列的夜蓝色真皮内饰。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/dc35548c-7662-4457-940e-e8e6517d42eb.jpg?x-bce-process=image/format,f_auto\" /></p><p>该车型仅限量 5 辆，与其他特别版车型相同，这款混动 SUV 仅支持线上订购。凭借其旗舰定位与稀缺属性，这款 M 系列高性能车型的售价不菲，基于 XM Label 打造的首发限量版车型，售价高达 2.4 亿韩元（现汇率约合 115.4 万元人民币）。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "高通骁龙 X2 Plus 芯片 Cinebench 2024 跑分曝光：单核不如苹果 M4，多核小胜",
+    "link": "https://www.ithome.com/0/912/305.htm",
+    "date": "2026-01-11 09:17",
+    "summary": "<p>IT之家 1 月 11 日消息，高通在本周举行的 CES 2026 展会上推出全新骁龙 X2 Plus 芯片，搭载第三代 Oryon CPU，单核性能方面较上一代提升最高可达 35%，<strong>同时功耗较上一代降低约 43%</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/658e2ce3-2149-45ba-b270-223cd686646b.png?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p>而科技媒体 PCMag 在 1 月 5 日发布博文，展示骁龙 X2 Plus 芯片的实际跑分性能，虽然结果相比上代型号骁龙 X Plus 有明显进步，<strong>但在大部分场合还是敌不过苹果 M4</strong>。</p><p>需要说明的是，参与跑分的骁龙 X2 Plus 芯片是参考设计版本，拥有十个核心，而市售版本则可选十核 / 六核版本。</p><p>IT之家附跑分对比详情如下：</p><h3>Cinebench 2024 单核：</h3><ul class=\" list-paddingleft-2\"><li><p>骁龙 X2 Plus：133 分</p></li><li><p>苹果 M4：173 分（领先 30.08%）</p></li></ul><h3>Cinebench 2024 多核：</h3><ul class=\" list-paddingleft-2\"><li><p>骁龙 X2 Plus：1011 分（领先 1.81%）</p></li><li><p>苹果 M4：993 分</p></li></ul><h3>Geekbench 6 单核：</h3><ul class=\" list-paddingleft-2\"><li><p>骁龙 X2 Plus：3311 分</p></li><li><p>苹果 M4：3859 分（领先 16.55%）</p></li></ul><h3>Geekbench 6 多核：</h3><ul class=\" list-paddingleft-2\"><li><p>骁龙 X2 Plus：14940 分</p></li><li><p>苹果 M4：15093 分（领先 1.02%）</p></li></ul><h3>3DMark Steel Nomad Light（GPU）：</h3><ul class=\" list-paddingleft-2\"><li><p>骁龙 X2 Plus：3067 分</p></li><li><p>苹果 M4：3949 分（领先 28.76%）</p></li></ul><h3>3DMark Solar Bay（GPU）：</h3><ul class=\" list-paddingleft-2\"><li><p>骁龙 X2 Plus：12525 分</p></li><li><p>苹果 M4：15580 分（领先 24.39%）</p></li></ul><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/3a680ce4-b924-4b2e-ae55-1d9865149c8b.jpg?x-bce-process=image/format,f_auto\" /></p><p>总体来说，骁龙 X2 Plus 芯片的性能还是无法超越苹果两年前的 M4 芯片，<strong>但理论数据并不是完全能评估芯片性能</strong>，因此我们也不必过早盖棺定论。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/147be3d1-27f2-4ed5-9165-40010c78eed2.jpg?x-bce-process=image/format,f_auto\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "印度拟要求智能手机制造商向政府共享源代码，遭苹果三星等反对",
+    "link": "https://www.ithome.com/0/912/304.htm",
+    "date": "2026-01-11 09:08",
+    "summary": "<p>IT之家 1 月 11 日消息，据路透社报道，印度拟出台一系列安全措施，要求智能手机制造商向政府共享源代码并进行多项软件修改，此举引发了苹果、三星等科技巨头的私下反对。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2025/11/c4d2d32f-12b1-4f7f-add7-3d8ec1e73b10.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p>据四位知情人士透露，以及路透社对政府和行业机密文件的审阅，这些科技公司反驳称，这份包含 83 项安全标准的新规 —— 其中还要求企业就重大软件更新向政府报备，在全球范围内尚无先例可循，且存在泄露企业专有信息的风险。</p><p>据IT之家了解，印度是全球第二大智能手机市场，拥有近 7.5 亿部手机。近年来，该国网络诈骗与数据泄露事件频发，印度总理纳伦德拉・莫迪正致力于加强用户数据安全，上述新规正是这一举措的组成部分。</p><p>印度电子和信息技术部秘书 S・克里希南（S. Krishnan）表示，“政府将以开放的态度处理行业提出的任何合理关切”，并补充称“目前对此过度解读还为时过早”。该部发言人则称，由于政府仍在与科技企业就这些提案进行磋商，暂无法进一步置评。</p><p>苹果、三星、谷歌、小米，以及代表这些企业的印度行业组织 —— 印度电子与信息技术制造商协会（MAIT）均未回应置评请求。</p><p>印度政府此前提出的多项要求也曾引发科技企业不满。就在上个月，因外界担忧存在监控风险，印度政府撤销了一项强制要求手机预装一款国有网络安全应用的命令。</p><p>市场研究机构 Counterpoint 的数据显示，搭载谷歌安卓操作系统的小米和三星手机，分别占据印度 19% 和 15% 的市场份额，苹果的市场份额则为 5%。</p><p>印度《电信安全保障要求》新规中，最敏感的条款当属要求企业共享源代码 —— 即驱动手机运行的底层编程指令。文件显示，这些源代码将交由印度指定实验室进行分析，必要时还会开展相关测试。</p><p>此外，新规还要求企业修改软件设计，允许用户卸载预装应用，并禁止应用在后台擅自调用摄像头和麦克风，以“防范恶意使用行为”。</p><p>印度电子和信息技术部一份记录了官员与苹果、三星、谷歌、小米会晤内容的 12 月文件指出：“行业方提出，全球范围内尚无任何国家强制推行此类安全要求。”</p><p>这套安全标准草案于 2023 年拟定，如今因政府正考虑将其纳入法律强制范畴而备受关注。知情人士称，印度电子和信息技术部官员与科技企业高管定于下周二举行会议，展开进一步磋商。</p><p>印度新规提出的“漏洞分析”和“源代码审查”强制要求智能手机制造商开展“全面安全评估”，之后印度检测实验室可通过审查和分析源代码，核验企业的评估结论是否属实。</p><p>印度电子与信息技术制造商协会在一份回应政府提案的机密文件中表示：“出于保密性和隐私保护的考量，这项要求不具备可行性。欧盟、北美、澳大利亚及非洲的主要国家均未强制推行此类规定。”</p><p>一位直接知情人士透露，该协会已致函印度电子和信息技术部，要求撤回这一提案。</p><p>根据印度的新规，手机必须内置自动定期恶意软件扫描功能。此外，设备制造商在向用户推送重大软件更新和安全补丁前，必须提前告知印度国家通信安全中心，且该中心有权对更新内容进行检测。</p><p>该协会在文件中指出，定期进行恶意软件扫描会严重消耗手机电量；而软件更新需要及时推送，因此要求政府审批的做法“不切实际”。</p><p>印度政府还要求，手机系统日志 —— 即记录设备系统活动的电子文件，需在本地设备中保存至少 12 个月。对此，该协会在文件中反驳称：“设备存储空间不足以保存长达一年的日志数据。”</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "2025 款比亚迪腾势 D9 获推 1.5.0 OTA，新增隐私声盾、智能防晕车等功能",
+    "link": "https://www.ithome.com/0/912/303.htm",
+    "date": "2026-01-11 09:07",
+    "summary": "<p>IT之家 1 月 11 日消息，1 月 8 日，比亚迪向 2025 款腾势 D9 等车型推送了 1.5.0 OTA，主要新增<span>隐私声盾</span>、智能防晕车等功能。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/50fae2f2-af4f-4732-827d-6ad1a05927a8.png?x-bce-process=image/format,f_auto\" /></p><h2>IT之家整理如下：</h2><p class=\"js_darkmode__2\"><strong>功能新增：</strong></p><ul class=\" list-paddingleft-2\"><li><p>新增隐私声盾功能（仅 25 款腾势 D9 至尊版）</p></li><li><p>新增<span>智能防晕车功能</span>（25 款腾势 D9 尊航版、至尊版；25 款全系适配基础简化版）</p></li><li><p>新增高快领航辅助-收费站通行功能（25 款腾势 D9 尊航版四驱、至尊版，需开通车机端 ETC）</p></li><li><p>新增泊车辅助车外语音播报功能</p></li><li><p>新增<span>极限续航模式</span>（仅 25 款腾势 D9 纯电四驱车型）</p></li><li><p>新增 AI 全场景智能语音反馈功能（支持语音提交用车问题 / 建议）</p></li><li><p>新增哨兵模式-高风险视频上传功能（视频脱敏后可通过比亚迪 App 查看）</p></li><li><p>新增“能源口盖未关”提醒播报</p></li><li><p>新增地图长按选途经点 / 目的地功能（25 款腾势 D9 尊航版四驱、至尊版）</p></li><li><p>新增驾驶辅助前车近距离变道闪灯提醒功能（25 款腾势 D9 尊航版四驱、至尊版）</p></li><li><p>新增驾驶辅助降级时短时紧急避障能力（25 款腾势 D9 尊航版四驱、至尊版）</p></li><li><p>新增断头路水平车位掉头泊入功能（25 款腾势 D9 尊航版四驱、至尊版）</p></li><li><p>新增 P 挡不踩刹车可点击泊出功能（25 款腾势 D9 尊航版四驱、至尊版）</p></li><li><p>新增窄车位下车泊入推荐功能（25 款腾势 D9 尊航版四驱、至尊版）</p></li><li><p>新增地图充电路线规划功能（仅 25 款腾势 D9 尊航版纯电两驱车型）</p></li><p class=\"js_darkmode__2\"><strong>功能优化：</strong></p><li><p>优化系统 UI 显示</p></li><li><p>优化车辆待机状态，减少运行冗余功耗</p></li></ul>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "全国首座：合源锂创纯粹量产固态电池基地投产",
+    "link": "https://www.ithome.com/0/912/302.htm",
+    "date": "2026-01-11 08:51",
+    "summary": "<p>IT之家 1 月 11 日消息，据“合源锂创”微信公众号消息，1 月 10 日，公司淮安固态电池制造基地投产仪式暨新产品发布交付仪式顺利举行。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/61af40bf-5e8a-4894-8640-d5cf89df37b4.png?x-bce-process=image/format,f_auto\" /></p><p>据介绍，合源锂创淮安制造基地作为全国首座纯粹量产固态电池的基地，已于 2025 年第四季度正式投入使用，该基地集研发、生产、测试于一体，致力于实现高性能、高安全固态电池的规模化稳定交付。从公司成立、技术突破到工厂落成、交付客户，仅用 3 年时间。</p><p>同时，合源锂创正式推出面向多元场景的全新产品：“六合电池”。它不单纯追求某一项参数的极限，而是以应用为导向，在能量密度、安全性、容量、倍率性能、循环寿命及成本这六个核心维度上实现智慧平衡与定制化匹配。</p><p>官方称，产品矩阵精准适配多领域需求：智能轻型动力电池能量密度达 250-300Wh/kg，经 1500 次循环仍稳定工作，100% 通过 5mm 针刺测试，为日常智慧出行提供安全保障；智能低空动力电池支持 15C 最大瞬时放电，-20-55℃ 宽温域适配，助力低空飞行设备高效运行；具身智能固态电池以 280-360Wh/kg 高比能，适配各类智能终端场景；车规级产品能量密度高达 360Wh/kg，1000 次循环寿命满足高端车载需求，全方位赋能智慧生活。</p><p>IT之家注意到，活动现场，合源锂创还向战略客户九识智能交付了首批新一代固态电池产品。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/e4966b94-2ba9-4ce1-9eeb-00395e3e4375.jpg?x-bce-process=image/format,f_auto\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "三星 Galaxy S26 Ultra 国行版现身工信部，支持 eSIM",
+    "link": "https://www.ithome.com/0/912/298.htm",
+    "date": "2026-01-11 08:39",
+    "summary": "<p>IT之家 1 月 11 日消息，一款型号为 SM-S9480 的三星新机最近现身工信部，博主 @i冰宇宙 认为这款手机是 Galaxy S26 Ultra 国行版。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/ee798772-5da5-45ac-98fc-65fca392b2f4.jpg?x-bce-process=image/format,f_auto\" /></p><p>认证信息显示，这台手机的设备名称是“卫星移动终端”，产地在越南，支持 NR SA / NR NSA / TD-LTE / LTE FDD / WCDMA / GSM 制式，<strong>还支持天通卫星通信</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/c3237033-4d76-49c4-aa24-2eff75d89e7c.jpg?x-bce-process=image/format,f_auto\" /></p><p>同时这台手机还能够支持 5G-增强移动宽带（eMBB）技术，搭载 Android 操作系统，<strong>拥有独立 eUICC 芯片</strong>，<strong>兼容 eSIM</strong>。</p><p>作为参考，目前在中国大陆发售且支持 eSIM 的手机有苹果 iPhone Air、<span class=\"hot-topic\">OPPO Find X9 Pro</span> 卫星通信版、华为 Mate 80 RS 非凡大师。其中 iPhone Air 的策略较为激进，采用纯 eSIM 设计；而后两款机型则是保留了双实体 SIM 卡槽，但也可以添加 eSIM。</p><p>据IT之家去年 12 月报道，<a href=\"https://www.ithome.com/0/904/561.htm\" target=\"_blank\">型号为 SM-S9480 的三星新机现身中国质量认证中心</a>，结合此前 GSMA IMEI 数据库信息，基本可以确认该机为三星 Galaxy S26 Ultra。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2025/12/e0edf0f0-e165-4c1d-b8d7-302a757bcb8c.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p>当时的证书更新显示，<strong>这台手机将支持 60W 有线充电</strong>、20.0V DC，3.0A 充电。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "长安汽车全球科学与艺术中心开工，总投资 13.89 亿元",
+    "link": "https://www.ithome.com/0/912/297.htm",
+    "date": "2026-01-11 08:38",
+    "summary": "<p>IT之家 1 月 11 日消息，据长安汽车官方微信公众号消息，1 月 10 日，长安汽车全球科学与艺术中心项目开工仪式在两江新区举行。中建五局、绿城管理、浙大建筑研究院等多家建设、设计相关伙伴齐聚现场，秉持高标准、严要求，以专业实力共同保障项目安全建设推进。长安汽车首席专家黄忠强宣布项目正式开工，长安全球研发体系基础建设迈入新阶段。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/85dd19d9-e7c7-4a13-807e-f55dfdf01358.png?x-bce-process=image/format,f_auto\" /></p><p>据官方介绍，长安汽车全球科学与艺术中心定位“全球前瞻技术与造型设计大本营”，是践行“打造世界一流汽车集团”使命的核心载体。项目总投资 13.89 亿元，占地 219 亩，建筑面积达 17.2 万平方米。未来该中心将聚焦科学与艺术融合研究，重点突破新能源、智能驾驶等关键核心技术，孵化创新产品，全力支撑阿维塔、深蓝汽车、长安启源三大数智新能源品牌升级。项目建成后可容纳 2000 名研发设计人员协同办公，与两江新区现有产业形成“科学艺术高峰、工程开发支柱、智能制造基地”的协同布局，筑牢长安全球化发展根基。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/57fd3c19-f2c6-46d5-ac43-d424b9a840e8.jpg?x-bce-process=image/format,f_auto\" /></p><p>据IT之家了解，2025 年，长安汽车年销量达 291.3 万辆，并在 12 月完成第 3000 万辆中国品牌汽车下线。长安汽车称，长安汽车始终坚定技术自研道路，分别在重庆、北京、上海、河北定州、安徽合肥、意大利都灵、日本横滨、英国伯明翰、美国底特律和德国慕尼黑构建起“六国十地”全球协同研发布局，拥有来自全球 31 个国家和地区 2.4 万余人技术研发团队，建成了行业唯一的“智能汽车安全技术全国重点实验室”、全球领先的天枢智能实验中心等 200 余个实验室，近三年累计申请专利 1.4 万余件，发明专利占比 70%。2025 年 9 月重磅发布“新长安・新安全 —— 天枢智能”品牌，12 月更成功斩获首块 L3 级自动驾驶专用正式号牌。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "全国首台警用载人无人机在广州黄埔入列，可核载 2 人执行任务",
+    "link": "https://www.ithome.com/0/912/296.htm",
+    "date": "2026-01-11 08:32",
+    "summary": "<p>IT之家 1 月 11 日消息，1 月 10 日，广州黄埔公安举办“四十载守护平安 110 勇毅前行”主题宣传活动，现场展示了最新一代警用无人机、仿生机器犬等新锐警务装备。</p><p>在活动现场，广州黄埔公安装备序列的重磅“新成员”——EH216S 警用载人无人机腾空而起，这是全国公安系统首台正式列装且获适航证的警用载人无人机。</p><p>作为电动垂直起降航空器，该无人机搭载 8 轴 16 旋翼分布式动力设计，最大起飞重量达 650 公斤，<strong>可核载 2 人执行任务</strong>，最高核定时速 130 公里 / 小时，续航里程 30 公里，通过预设航线实现无人驾驶飞行，大幅提升警务部署灵活性。</p><p>IT之家从官方介绍获悉，该机型也是全球首个获得型号合格证、生产许可证、标准适航证和运营合格证的载人垂直起降航空器。黄埔公安将依托其快速响应、灵活部署、空中视角及多元数据回传等优势，将其深度融入<strong>日常巡逻、应急处突、交通疏导、救援搜救</strong>等多类场景。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/e6a47b58-235b-4028-80b2-47918ecffbf8.jpg?x-bce-process=image/format,f_auto\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "Zettlab D4/D6 AI NAS 主机亮相：搭载瑞芯微 RK3588 芯片、16GB 内存",
+    "link": "https://www.ithome.com/0/912/295.htm",
+    "date": "2026-01-11 08:25",
+    "summary": "<p>IT之家 1 月 11 日消息，据科技媒体 TechPower Up 昨天报道，Zettlab D4/D6 AI NAS 主机最近现身 CES 2026，采用 Arm 架构设计，官方定位“AI 优先”。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/f118eee9-e191-471d-9ec0-baf632bbb1a3.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>▲ 图源：TechPower Up，下同</figcaption><p>据介绍，这两款产品均搭载瑞芯微 RK3588 芯片，<strong>搭配 16GB LPDDR4X 内存</strong>、<strong>32GB eMMC 系统盘</strong>，其 CPU 带有四个 A76 大核、四个 A55 小核，还具备 Mali-G610 MC4 GPU，集成 NPU（神经网络引擎），算力可达 6 TOPS。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/07dd2d67-5ebc-48e2-80a8-641131fa83e2.jpg?x-bce-process=image/format,f_auto\" /></p><p>规格方面，这两款 NAS 的接口配置完全一致，IT之家附详情如下：</p><p>1* 千兆以太网接口</p><p>1*2.5G 以太网接口</p><p>1* NVMe 固态硬盘插槽</p><p>1* HDMI 接口</p><p>1* USB 3.0 Type-C</p><p>1* USB 3.0 Type-A</p><p>2* USB 2.0</p><p>1* 全尺寸 SD 卡槽</p><p>1* microSD 卡槽</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/62344465-e9d4-4a24-8a00-1bf475ad57e8.jpg?x-bce-process=image/format,f_auto\" /></p><p>此外，这两款 NAS 正面都拥有 3.49 英寸小屏，可显示系统状态，两款机型的区别主要体现在型号名上，其中 D4 提供 4 个 3.5 英寸硬盘位，而 D6 则提供 6 个 3.5 英寸硬盘位。两款设备均搭载 ZettOS 系统，定位“AI 优先”。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/909a5c61-428d-4d7d-8def-225af58caacc.jpg?x-bce-process=image/format,f_auto\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "内存短缺冲击电脑市场，日本零售商求购用户二手设备",
+    "link": "https://www.ithome.com/0/912/294.htm",
+    "date": "2026-01-11 08:24",
+    "summary": "<p>IT之家 1 月 11 日消息，日本一家大型电脑及电子产品零售商正恳请顾客出售闲置的旧电脑设备。东京秋叶原“电器城”的 Sofmap Gaming 官方 X 账号发文恳求道：“恳请各位顾客，若您购置了新电脑，不妨将旧的游戏 PC 卖给我们。”该门店还晒出一张货架近乎空置的照片，据推测拍摄于其三层楼高的线下零售卖场。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/1bfdbd81-4809-4436-bc59-deed1ca9cbdc.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，Sofmap 在文中解释了回收旧电脑的原因：“无论是二手还是全新的游戏 PC，目前均已严重缺货。”这条推文呼吁顾客到店变卖旧电脑，并着重强调：“我们愿意以极具诚意的高价回收……”</p><p>此外，该公司还明确表示，回收标准不会过于苛刻：“无论是游戏台式机、笔记本电脑，甚至是普通的非游戏电脑，我们几乎都会购买……”</p><p>早在去年 11 月，就有报道称秋叶原部分门店限制内存条、固态硬盘及机械硬盘销售。</p><p>内存供应危机对电脑行业的冲击速度与深度，远超多数人的预期。人工智能数据中心运营商资金雄厚，对内存的需求永无止境，这直接引发了消费级电脑内存市场的首轮价格暴涨。这种现象其实不难理解，消费市场与行业市场所需的内存产品，均由全球三大内存厂商供应。</p><p>消费者最先感受到的影响体现在新一代 DDR5 内存的价格上。目前部分 DDR5 内存套装即便有货，售价也高得惊人。</p><p>不过，DDR4 内存的价格与供应情况尚存一线生机。得益于库存积压以及部分用户手中已有的内存条，DDR4 有望成为组装电脑的“避风港”。这种市场趋势似乎也影响了硬件厂商的生产策略：支持 DDR4 的主板产量正在增加，厂商还透露将推出适配 DDR4 平台的新型处理器。</p><p>尽管如此，内存短缺的“余震”仍在持续。预装整机市场成为下一个受冲击的领域。有传言称，配备大显存的显卡同样面临供应压力，显卡补货时价格上涨几乎已成定局，而新一代显卡的发布也可能被迫推迟……</p><p>当然，即便在这场电脑供应荒中，像 Sofmap 这样的零售商也不会来者不拒。对于面向普通用户的二手电脑回收业务，商家大概率会将收购范围限定在 DDR4 平台，且硬件配置需满足 Windows 11 的最低要求（英特尔第八代酷睿处理器、AMD 锐龙 2000 系列处理器及以上）。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "ECS 精英推出 Liva Z 系列迷你主机：可选英特尔 Twin Lake / AMD Hawk Point CPU",
+    "link": "https://www.ithome.com/0/912/293.htm",
+    "date": "2026-01-11 08:13",
+    "summary": "<p>IT之家 1 月 11 日消息，据科技媒体 TechPower Up 本周（1 月 7 日）报道，ECS（精英电脑）在 CES 2026 期间推出了 Liva Z 系列迷你主机，<strong>可选英特尔 Twin Lake 或 AMD Hawk Point 系列 CPU</strong>，照顾不同消费者需求。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/043efea0-0c06-4b1f-9a4a-40234ea44ccf.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家附新品详情如下：</p><h3>Liva Z4：</h3><p>这款产品搭载英特尔 N150 处理器，采用 4 核心 4 线程设计，性能足以应付网页浏览、办公文字和收银系统等轻度需求，拥有一个 SO-DIMM 内存插槽，最高支持 16GB DDR4-2666 内存，还带有 1 个 M.2 2280 固态硬盘插槽。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/2f177f35-7ef3-457f-843f-774afc857ab4.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>▲ 图源：TechPoewr Up，下同</figcaption><p>此外，该机的体积是 0.33 升，带有两个 USB 3.2 Gen 1 Type-A 接口、两个 USB 2.0 Type-A 接口、千兆以太网口、HDMI 2.0、DisplayPort 接口，带有 Wi-Fi 5 等外围配置。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/311e40ae-c359-458e-8097-43e0817a3e11.jpg?x-bce-process=image/format,f_auto\" /></p><h3>Liva Z4F：</h3><p>这款迷你主机采用 0.7 升设计，最高可选英特尔酷睿 3 N355 八核 CPU，提供一个 SO-DIMM DDR5 内存插槽、一个 M.2 2280 硬盘插槽，支持 Wi-Fi 6E 无线网络。</p><h3>Liva Z6 Plus：</h3><p>这款产品搭载 AMD 锐龙 7 H 255 处理器，采用较老的 Zen 4 架构，拥有 8 核心 16 线程，性能足以应付各种办公应用。配备两个 SO-DIMM DDR5 内存插槽、一个 M.2 2280PCIe Gen4 固态硬盘插槽、一个 M.2 2230 网卡插槽，机箱容积为 0.6 升。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/9cbda679-860a-4c56-ae58-96b41df75e3b.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/378d2b56-46e3-4f3b-a805-9017168b5fff.jpg?x-bce-process=image/format,f_auto\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "华为引望回应“今年下半年上市”传闻：假消息",
+    "link": "https://www.ithome.com/0/912/292.htm",
+    "date": "2026-01-11 08:10",
+    "summary": "<p>IT之家 1 月 11 日消息，针对“华为旗下深圳引望公司计划 2026 年下半年上市”传闻，引望方面今日向财联社记者回应称，此为假消息，不实。</p><p>深圳引望智能技术有限公司于 2024 年 1 月成立，涵盖华为乾崑智驾 ADS、车控、车载光、车云及鸿蒙座舱 HarmonySpace 解决方案。目前，<strong>华为持有引望智能 80% 的股权</strong>，阿维塔和赛力斯则通过分别向引望投资 115 亿元的方式，分别获得引望 10% 的股权。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/21f4ff2c-f8f7-41ba-a3a3-ff4fb8e3c4ae.png?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，胡润研究院 2025 年 6 月于广州发布《2025 全球独角兽榜》，其中引望智能位列第 29 位，<strong>企业估值达 1150 亿元</strong>。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "阿里 Qwen 技术负责人林俊旸：模型即产品，做模型就是在做产品",
+    "link": "https://www.ithome.com/0/912/289.htm",
+    "date": "2026-01-11 07:54",
+    "summary": "<p>1 月 11 日上午消息，在 AGI-Next 前沿峰会上，Qwen 技术负责人林俊旸在谈及基础模型与 Agent 的关系时指出，“模型即产品，今天做基础模型本身，其实也就是在做产品，研究人员也需要像产品经理一样，<strong>把研究成果做成真实世界可用的系统</strong>。”</p><p style=\"text-align: center;\"><img alt=\"\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/36e0a732-c9ee-4886-9624-1f1ec37eca9b.jpg?x-bce-process=image/format,f_auto\" /></p><p>在林俊旸看来，伴随着主动学习的发展，Agent 将具备长时间托管式工作的能力，在执行通用任务的过程中自行进化、决定行动路径，这对模型能力上限提出了极高要求，<strong>也意味着做基础模型本身就是在做产品</strong>。</p><p>他进一步指出，Agent 其实可以走向虚拟世界和物理世界，所以有了具身推理（Embodied Reasoning）。他进一步指出，Agent 的潜力还取决于其与环境的深度交互 —— 持续理解用户与环境挺重要的，<strong>目前我们主要停留在电脑数字环境中</strong>，未来若能进入真实物理世界，指挥机器人进行更多的现实交互与操作，才可能真正承担长周期、高价值任务。</p><p>对于 Agent 是属于大厂还是创业企业的机会，林俊旸指出，做通用 Agent 最有意思的事情就是长尾反而是更值得关注的事情，或者说今天 AI 更大的魅力是在长尾，如果是马太效应，头部的东西反而挺容易解决。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "雷军：会坚持辟谣，让更多人了解小米",
+    "link": "https://www.ithome.com/0/912/288.htm",
+    "date": "2026-01-11 07:51",
+    "summary": "<p>IT之家 1 月 11 日消息，2026 年伊始，小米公司创始人、董事长兼 CEO 雷军在直播中对“1300 公里只充一次电”和“200 公里瞬间刹停”等话题进行了辟谣，引发了舆论的显著反转。随着雷军的澄清，公众开始重新审视这些争议话题。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/a274a007-ed33-4a2a-af09-aa15517dbe91.jpg?x-bce-process=image/format,f_auto\" /></p><p>博主 @苏黎世贝勒爷 在社交媒体上分享了自己的观点，他认为小米舆论的反转并非偶然。他指出，在舆论环境较为复杂时，许多人选择保持沉默，而如今随着“潮水退去”，真实的声音开始爆发。</p><p>IT之家注意到，在该博主晒出的截图中，评论区的网友们纷纷对“200 公里瞬间刹停”的表述进行了正向解读。有网友并表示：“央视新闻一样用‘瞬间’来表达速度非常快的意思，也没人会无聊到去质问这瞬间究竟是多久，能不能用瞬间形容，非拿这个表达主观感受的常见用词说事的人，只能说是故意针对小米挑刺找茬了。”</p><p>“水军抠字眼，他们咋不找淘宝闪购，京东秒送呢？”“形容词也要上纲上线，实在是没办法了”还有网友说道。</p><p>对此，雷军表示：“造谣一张嘴，辟谣跑断腿，我们还会坚持辟谣，让更多人了解小米，希望大家理解！”</p><p>此前，小米公关总经理徐洁云曾解释称，小米拍摄相关视频的初衷是为了展示小米 SU7 Ultra 的碳陶刹车盘的出色性能，而“200km/h 瞬间刹停”只是雷军在亲自测试后的个人感慨。这种表述在日常生活中十分常见，例如人们会说“看剧一口气看十几集”，而不会有人刻意去质疑其合理性。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/3f5bc4b7-2c0d-4ee0-a0bc-1a310f731a0f.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/b73a2ce3-3f8e-48b2-b5a1-d4f400d1e846.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/94acb133-7818-45ce-8e54-feec6f502272.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/fb76d703-eab6-4be7-89b2-ce0fa5c97494.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/44cfffdc-b3db-4111-bbbd-966a26225697.jpg?x-bce-process=image/format,f_auto\" /></p>"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "2026年是自主托管之年",
+    "link": "https://fulghum.io/self-hosting",
+    "date": "2026-01-12 00:11",
+    "summary": "2026 is the year of self-hosting"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "macOS Tahoe系统中调整窗口大小的困扰",
+    "link": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
+    "date": "2026-01-11 22:02",
+    "summary": "The struggle of resizing windows on macOS Tahoe"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "Ask HN: 你在忙什么？（2026年1月）",
+    "link": "https://news.ycombinator.com/item?id=46577242",
+    "date": "2026-01-11 22:02",
+    "summary": "What are you working on? (January 2026)"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "iCloud照片下载器",
+    "link": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
+    "date": "2026-01-11 21:30",
+    "summary": "iCloud Photos Downloader"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "Anthropic：禁止使用Claude Code开发Claude Code的竞争产品",
+    "link": "https://twitter.com/SIGKITTEN/status/2009697031422652461",
+    "date": "2026-01-11 21:30",
+    "summary": "Anthropic: Developing a Claude Code competitor using Claude Code is banned"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "Meta宣布核能项目",
+    "link": "https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/",
+    "date": "2026-01-11 20:26",
+    "summary": "Meta announces nuclear energy projects"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "毒泉",
+    "link": "https://rnsaffn.com/poison3/",
+    "date": "2026-01-11 19:52",
+    "summary": "Poison Fountain"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "在HTML中，您无需关闭、、或标签。",
+    "link": "https://blog.novalistic.com/archives/2017/08/optional-end-tags-in-html/",
+    "date": "2026-01-11 18:43",
+    "summary": "You are not required to close your , , , or tags in HTML"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "据报道，Instagram数据泄露事件导致1750万用户个人信息外泄",
+    "link": "https://www.engadget.com/cybersecurity/an-instagram-data-breach-reportedly-exposed-the-personal-info-of-175-million-users-192105616.html",
+    "date": "2026-01-11 18:09",
+    "summary": "Instagram data breach reportedly exposed the personal info of 17.5M users"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "《马克思·佩恩》——二十年后——画面评析（2021）",
+    "link": "https://darkcephas.blogspot.com/2021/07/max-payne-two-decades-later-graphics.html",
+    "date": "2026-01-11 16:30",
+    "summary": "Max Payne – two decades later – Graphics Critique (2021)"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "Gentoo Linux 2025 评测",
+    "link": "https://www.gentoo.org/news/2026/01/05/new-year.html",
+    "date": "2026-01-11 15:56",
+    "summary": "Gentoo Linux 2025 Review"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "伊朗首次关闭星链互联网服务",
+    "link": "https://www.forbes.com/sites/zakdoffman/2026/01/11/kill-switch-iran-shuts-down-starlink-internet-for-first-time/",
+    "date": "2026-01-11 15:23",
+    "summary": "Iran Shuts Down Starlink Internet for First Time"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "我已弃用Windows 11转投Linux，你也该这么做",
+    "link": "https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html",
+    "date": "2026-01-11 13:43",
+    "summary": "I dumped Windows 11 for Linux, and you should too"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "《TypeScript简明指南》",
+    "link": "https://github.com/gibbok/typescript-book",
+    "date": "2026-01-11 12:36",
+    "summary": "The Concise TypeScript Book"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "别陷入反人工智能的炒作",
+    "link": "https://antirez.com/news/158",
+    "date": "2026-01-11 12:03",
+    "summary": "Don''t fall into the anti-AI hype"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "雷德蒙德SpaceX实验室员工接触有毒化学物质",
+    "link": "https://www.fox13seattle.com/video/fmc-w1ga4pk97gxq0hj5",
+    "date": "2026-01-11 09:55",
+    "summary": "Workers at Redmond SpaceX lab exposed to toxic chemicals"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "最差的软件",
+    "link": "https://worstofbreed.net/",
+    "date": "2026-01-11 09:55",
+    "summary": "Worst of breed software"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "Show HN: Librario，一款整合G Books、ISBNDB等资源的图书元数据API",
+    "link": "https://news.ycombinator.com/item?id=46571149",
+    "date": "2026-01-11 09:23",
+    "summary": "Librario, a book metadata API that aggregates G Books, ISBNDB, and more"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "“答案不能是无解”：加拿大神秘脑病之谜的攻防战",
+    "link": "https://www.bbc.com/news/articles/c623r47d67lo",
+    "date": "2026-01-11 08:19",
+    "summary": "''The answer cannot be nothing'': The battle over Canada''s mystery brain disease"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "我的家庭光纤网络崩溃了",
+    "link": "https://alienchow.dev/post/fibre_disintegration/",
+    "date": "2026-01-11 08:19",
+    "summary": "My Home Fibre Network Disintegrated"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "Show HN: 与大型语言模型打扑克，或观看它们相互对战",
+    "link": "https://llmholdem.com/",
+    "date": "2026-01-11 07:47",
+    "summary": "Play poker with LLMs, or watch them play against each other"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "Show HN: 铁氧体——基于Rust的Markdown编辑器，支持原生Mermaid图表渲染",
+    "link": "https://github.com/OlaProeis/Ferrite",
+    "date": "2026-01-11 07:14",
+    "summary": "Ferrite – Markdown editor in Rust with native Mermaid diagram rendering"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "研究显示：美国药物过量死亡人数下降源于\"供应冲击\"",
+    "link": "https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america",
+    "date": "2026-01-11 06:11",
+    "summary": "Overdose deaths are falling in America because of a ''supply shock'': study"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "为什么格陵兰属于丹麦王国？简史",
+    "link": "https://www.diis.dk/en/research/why-is-greenland-part-of-the-kingdom-of-denmark-a-short-history",
+    "date": "2026-01-11 06:11",
+    "summary": "Why Is Greenland Part of the Kingdom of Denmark? A Short History"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "鲍勃·威尔去世",
+    "link": "https://www.rollingstone.com/music/music-news/bob-weir-grateful-dead-dead-obituary-1234810106/",
+    "date": "2026-01-11 05:38",
+    "summary": "Bob Weir has died"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "英国命令通信管理局研究加密后门",
+    "link": "https://reclaimthenet.org/uk-orders-ofcom-to-explore-encryption-backdoors",
+    "date": "2026-01-11 04:05",
+    "summary": "UK Orders Ofcom to Explore Encryption Backdoors"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "美国宇航局宣布国际空间站患病宇航员及乘组人员将史无前例地提前返回",
+    "link": "https://www.livescience.com/space/space-exploration/nasa-cancels-spacewalk-and-considers-early-crew-return-from-iss-due-to-medical-issues",
+    "date": "2026-01-11 03:33",
+    "summary": "NASA announces unprecedented return of sick ISS astronaut and crew"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "研究显示：过去十年私募股权公司收购逾500家自闭症治疗中心",
+    "link": "https://www.brown.edu/news/2026-01-07/private-equity-autism-centers",
+    "date": "2026-01-11 01:55",
+    "summary": "Private equity firms acquired more than 500 autism centers in past decade: study"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "美国疾控中心工作人员对儿童疫苗接种计划被单方面大幅调整感到措手不及",
+    "link": "https://www.unmc.edu/healthsecurity/transmission/2026/01/07/cdc-staff-blindsided-as-child-vaccine-schedule-unilaterally-overhauled/",
+    "date": "2026-01-11 00:52",
+    "summary": "CDC staff ''blindsided'' as child vaccine schedule unilaterally overhauled"
+  }
+]
