@@ -1,1 +1,3 @@
-daily_news/
+__pycache__/
+*.pyc
+.DS_Store
