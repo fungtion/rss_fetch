@@ -72,31 +72,44 @@ if __name__ == "__main__":
         articles = fetch_articles(feeds)
         
         # 准备保存
+        # 准备保存目录
         if not os.path.exists(SAVE_DIR): os.makedirs(SAVE_DIR)
-        date_str = datetime.now().strftime('%Y-%m-%d')
-        filename = os.path.join(SAVE_DIR, f'{date_str}.json')
-        
-        # 读取现有数据以追加（去重）
-        existing_articles = []
-        if os.path.exists(filename):
-            try:
-                with open(filename, 'r', encoding='utf-8') as f:
-                    existing_articles = json.load(f)
-            except Exception as e:
-                print(f"Error reading existing file: {e}")
-        
-        # 使用链接去重
-        existing_links = set(item.get('link') for item in existing_articles)
-        new_count = 0
-        
+
+        # 按日期分组
+        articles_by_date = {}
         for article in articles:
-            if article.get('link') not in existing_links:
-                existing_articles.append(article)
-                existing_links.add(article.get('link'))
-                new_count += 1
-        
-        with open(filename, 'w', encoding='utf-8') as f:
-            json.dump(existing_articles, f, ensure_ascii=False, indent=2)
-        print(f"Saved {len(existing_articles)} articles ({new_count} new) to {filename}")
+            date_str = article['date'][:10]  # 取 YYYY-MM-DD
+            if date_str not in articles_by_date:
+                articles_by_date[date_str] = []
+            articles_by_date[date_str].append(article)
+
+        for date_str, date_articles in articles_by_date.items():
+            filename = os.path.join(SAVE_DIR, f'{date_str}.json')
+            
+            # 读取现有数据以追加（去重）
+            existing_articles = []
+            if os.path.exists(filename):
+                try:
+                    with open(filename, 'r', encoding='utf-8') as f:
+                        existing_articles = json.load(f)
+                except Exception as e:
+                    print(f"Error reading {filename}: {e}")
+            
+            # 使用链接去重
+            existing_links = set(item.get('link') for item in existing_articles)
+            new_count = 0
+            
+            for article in date_articles:
+                if article.get('link') not in existing_links:
+                    existing_articles.append(article)
+                    existing_links.add(article.get('link'))
+                    new_count += 1
+            
+            if new_count > 0:
+                with open(filename, 'w', encoding='utf-8') as f:
+                    json.dump(existing_articles, f, ensure_ascii=False, indent=2)
+                print(f"Saved to {filename}: {len(existing_articles)} total ({new_count} new)")
+            else:
+                print(f"No new articles for {filename}")
     else:
         print("No feeds found.")
