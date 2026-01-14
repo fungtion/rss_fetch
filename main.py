@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 import feedparser
 import json
 import os
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from time import mktime
 
 # === 配置 ===
@@ -26,10 +26,40 @@ def get_feeds(file_path):
     except: return []
 
 def fetch_articles(feeds):
-    print(f"Time: {datetime.now()}")
-    # Use UTC for reliable comparison
-    now = datetime.now().astimezone() # Local time with timezone info
-    yesterday = now - timedelta(hours=24)
+    # 定义北京时区 (UTC+8)
+    beijing_tz = timezone(timedelta(hours=8))
+    now_bj = datetime.now(beijing_tz)
+    
+    print(f"Current Beijing Time: {now_bj}")
+
+    # 根据当前时间确定抽取窗口
+    # 容错范围：假设脚本在预定时间前后 1 小时内执行
+    h = now_bj.hour
+    start_time = None
+    end_time = None
+    
+    if 7 <= h < 9: # 早上 8 点运行 -> 抽取今天 0-8 点
+        end_time = now_bj.replace(hour=8, minute=0, second=0, microsecond=0)
+        start_time = end_time - timedelta(hours=8)
+    elif 15 <= h < 17: # 下午 16 点运行 -> 抽取今天 8-16 点
+        end_time = now_bj.replace(hour=16, minute=0, second=0, microsecond=0)
+        start_time = end_time - timedelta(hours=8)
+    elif h >= 23 or h < 1: # 凌晨 0 点运行 -> 抽取昨天 16-24 点
+        # 如果是 0 点左右运行，基准应该是当天的 00:00
+        # (即昨天的 24:00)
+        end_time = now_bj.replace(hour=0, minute=0, second=0, microsecond=0)
+        # 如果现在是 23点 (实际上稍微早跑了)，要把 end_time 设为明天 0 点
+        if h >= 23:
+            end_time = end_time + timedelta(days=1)
+        
+        start_time = end_time - timedelta(hours=8) # 昨天 16:00
+    else:
+        print("Running outside of standard schedule (0, 8, 16 Beijing Time). Defaulting to past 24 hours.")
+        end_time = now_bj
+        start_time = end_time - timedelta(hours=24)
+
+    print(f"Extraction Window (Beijing Time): {start_time} to {end_time}")
+    
     collected = []
 
     for feed in feeds:
@@ -44,22 +74,21 @@ def fetch_articles(feeds):
                     elif hasattr(entry, 'updated_parsed'): t = entry.updated_parsed
                     
                     if t:
-                        # feedparser returns UTC struct_time
-                        # Create UTC aware datetime
-                        from datetime import timezone
+                        # feedparser 解析出的通常是 UTC 时间 (struct_time)
+                        # 先构建 UTC datetime
                         pub_time_utc = datetime(*t[:6], tzinfo=timezone.utc)
                         
-                        # Convert to local time for comparison and storage
-                        pub_time = pub_time_utc.astimezone()
+                        # 转换为北京时间进行比较
+                        pub_time_bj = pub_time_utc.astimezone(beijing_tz)
                         
-                        # 筛选过去 24 小时
-                        if yesterday <= pub_time <= now:
+                        # 筛选指定时间窗口
+                        if start_time <= pub_time_bj <= end_time:
                             collected.append({
                                 'source': feed['title'],
                                 'category': feed['category'],
                                 'title': entry.get('title', 'No Title'),
                                 'link': entry.get('link', ''),
-                                'date': pub_time.strftime('%Y-%m-%d %H:%M'),
+                                'date': pub_time_bj.strftime('%Y-%m-%d %H:%M'), # 保存为北京时间字符串
                                 'summary': entry.get('summary', '')
                             })
                 except: continue
