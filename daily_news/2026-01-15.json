@@ -1022,5 +1022,661 @@
     "link": "https://tomrenner.com/posts/400-year-confidence-trick/",
     "date": "2026-01-15 10:08",
     "summary": "LLMs are a 400-year-long confidence trick"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "Binary - 招聘软件：快速、简便且由人工智能驱动",
+    "link": "https://binary.so/",
+    "date": "2026-01-15 23:48",
+    "summary": "Hiring software that is fast, simple and AI powered"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "Kiki for Mac - 那个让你专注于任务的责任怪兽",
+    "link": "https://www.kiki.computer/",
+    "date": "2026-01-15 22:31",
+    "summary": "The accountability monster that keeps you focused on a task"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "LyzrGPT - 专属、安全且模型无关的企业级AI聊天服务",
+    "link": "https://chat.lyzr.app/",
+    "date": "2026-01-15 21:53",
+    "summary": "Private, secure & model-agnostic AI chat for enterprises"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "AI Test Engineer by BlinqIO - 剧作家代码 自愈测试，且无供应商锁定",
+    "link": "https://blinq.io/product-hunt",
+    "date": "2026-01-15 20:40",
+    "summary": "Playwright code self-healing tests w/ no vendor lock-in"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "Cal.com Companion Apps - 原生iOS与Android应用程序 浏览器扩展程序用于日程安排",
+    "link": "https://cal.com/app",
+    "date": "2026-01-15 20:40",
+    "summary": "Native iOS & Android App Browser Extensions for scheduling"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "folk Assistants - 销售助理全天候待命，助您达成更多交易",
+    "link": "https://www.folk.app/products/assistants",
+    "date": "2026-01-15 18:50",
+    "summary": "Sales Assistants working 24/7 to help you close more deals"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "TeamOut AI  - 为您策划活动的智能助手",
+    "link": "https://app.teamout.com/ai",
+    "date": "2026-01-15 18:16",
+    "summary": "The AI that plans your events"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "TabDog - macOS菜单栏应用，用于管理浏览器标签页和应用程序",
+    "link": "https://github.com/sung01299/tabdog",
+    "date": "2026-01-15 16:32",
+    "summary": "macOS menu bar app for managing browser tabs and apps"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "Taphouse - Homebrew 缺失的图形用户界面",
+    "link": "https://taphouse.multimodalsolutions.gr/",
+    "date": "2026-01-15 16:32",
+    "summary": "The missing GUI for Homebrew"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "One Dot - 用每日更新的壁纸，将你的生活化作点点星光",
+    "link": "https://onedot.vercel.app/",
+    "date": "2026-01-15 16:32",
+    "summary": "Visualize your life in dots with a daily-updating wallpaper"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "Redlight Greenlight for Claude Code - 在 Mac 的任何位置接受或拒绝 Claude Code 权限请求",
+    "link": "https://yogesh.co/redlight-greenlight",
+    "date": "2026-01-15 16:32",
+    "summary": "Accept or reject Claude Code permission from anywhere on Mac"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "Lyra Music - 基于心情的简单免费音乐发现",
+    "link": "https://lyramusic.app/",
+    "date": "2026-01-15 16:32",
+    "summary": "Simple and free music discovery based on how you feel"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "京东物流推出行业首个“AI 年货地图”，向所有商家免费开放",
+    "link": "https://www.ithome.com/0/913/635.htm",
+    "date": "2026-01-15 23:49",
+    "summary": "<p>IT之家 1 月 15 日消息，据京东物流黑板报公众号消息，为保障年货顺利送达，京东物流正式推出行业首个“AI 年货地图”系统，<strong>并向京东平台所有商家免费开放</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/7315e1b8-894d-484e-a307-30c570e1b6ba.jpg?x-bce-process=image/format,f_auto\" /></p><p>据介绍，该系统基于对各地年货销量的分析和预测，帮助商家精准布仓、科学备货，实现“订单未下，货已先行”，通过优化调配布在离消费者最近的地方，让年货尽快送达。地图还提供智能全托管模式：商家可掌握所售商品在全国各仓的分布全景，能看到实时库存分布、追踪周转天数、平均履约时长等。</p><p>IT之家从京东物流黑板报公众号获悉，“AI 年货地图”可简化春节前的补货难度，实现跨区发货比例低于 1%。目前，京东物流“AI 年货地图”已对所有商家开放，<strong>并支持与“超脑”大模型和“狼族”机器人协同作业</strong>。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "OPPO A6s 手机现身中国电信终端产品库：7000mAh 电池、后置 5000 万像素镜头",
+    "link": "https://www.ithome.com/0/913/634.htm",
+    "date": "2026-01-15 23:43",
+    "summary": "<p>IT之家 1 月 15 日消息，型号为“OPPO PLT120”的 OPPO A6s 目前已现身中国电信终端产品库，提供 8GB+256GB、12GB+256GB、12GB+512GB 三种存储规格，并提供曙光金、暮光蓝、海贝白三种配色，产品零售价格尚未公布。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/3c918381-26b2-400f-9b0c-2d2e59e49e3a.jpg?x-bce-process=image/format,f_auto\" /></p><p>相关页面显示，OPPO A6s 手机<strong>拥有 6.75 英寸居中单挖孔屏</strong>、采用直角边框设计，机身底部有扬声器开孔 / 卡槽 / USB-C 接口。该机前置 800 万像素镜头、后置 5000 万像素 + 200 万像素镜头组合。</p><p>OPPO A6s 的 AP 型号为 Armv8-A，<strong>预装 Android 15 系统</strong>，尺寸 166.61×78.51×8.61mm、重约 216g，配 USB Type-C 接口（传输效率 USB 2.0FS），屏幕分辨率为 1570*720，内置 7000mAh 电池。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/1ef44df7-6bb8-4718-a7c0-585a99a23e61.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/5f199c45-249d-451c-9c23-916c84e8515c.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: left;\">新机证件照如下：</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/c12197c4-b05a-4ad7-aae4-fd702476eea5.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/21ca4c57-e81c-41ca-870b-8bd28373489e.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/534e45ac-dbfb-4c4c-bc4e-ce87056d2b0a.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/2f1c64a2-cc4d-4a8e-8b7f-b62e2854ca88.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/846e3ea7-43f7-400b-8e8c-2fb4ac6c6272.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/c9d4788e-0d8a-4a0d-a639-61ac642a12e7.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，<a href=\"https://www.ithome.com/0/912/841.htm\" target=\"_blank\">OPPO 已在海外市场推出 A6s 5G 手机，定位入门级</a>，搭载联发科天玑 6300 芯片，拥有 3900mm² 的 VC 均热板，内置 7000mAh 大电池，配备双扬声器，支持 AI 游戏加速、AI 联网加速、手套触控等功能。</p><p>这款手机搭载一块 6.75 英寸的 720P LCD 屏幕，分辨率为 720*1570，峰值亮度可达 1125 尼特，支持 120Hz 高刷，触控采样率可达 240Hz，均采用 LPDDR4X 内存 +UFS 2.2 闪存。该机还通过 IP69 防尘防水认证，支持 80W SUPERVOOC 闪充，兼容 33W PPS、13.5W PD 通用快充协议。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/aa40dbfb-6072-44b5-9900-85ad3dc258e0.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "着陆缓冲试验在即：我国穿越者壹号（CYZ1）载人飞船试验舱已运至试验场",
+    "link": "https://www.ithome.com/0/913/633.htm",
+    "date": "2026-01-15 23:28",
+    "summary": "<p>IT之家 1 月 15 日消息，据穿越者官方公众号今日分享，2026 年 1 月 12 日凌晨，北京穿越者载人航天科技有限公司试验团队按预定计划启程前往试验场，穿越者壹号（CYZ1）载人飞船全尺寸试验舱已安全转运至指定位置，<strong>即将正式开展着陆缓冲试验</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/f4d9b5b1-4472-4780-abc4-cff6517f8a09.jpg?x-bce-process=image/format,f_auto\" /></p><p>据介绍，在完成的静态推力演练试验基础上，穿越者进行了一次静态推力加试。此次测试，对电磁阀的算法开启了优化，并将优化的算法重新上注飞控计算机。</p><p>试验结果显示，电磁阀同步性与前期性能相比有大幅提升，使得试验舱体在均匀的推力条件下，获得了超出预期的缓冲效果，晃动角度由正负五度以上降低至正负一度以内，<strong>将进一步提升“云感着陆”体验</strong>。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" contenteditable=\"false\" href=\"https://weibo.com/tv/show/1034:5255280976658507?mid=5255281057728374\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/a480721b-a566-45a5-ad97-1b79a9bd7e92.jpg?x-bce-process=image/format,f_auto\" /></a></p><p>同时，穿越者壹号（CYZ1）载人飞船试验舱根据试验流程，完成对飞控计算机、采集仪、传感器等多台单机的总测工作，全面验证了各单机在集成状态下的高效协同能力。测试期间，系统响应迅捷，<strong>数据达到实时标准，接口匹配完全符合设计预期</strong>。</p><p>IT之家从穿越者官方获悉，本周，其将正式开展穿越者壹号（CYZ1）全尺寸载人飞船试验舱着陆缓冲综合验证试验，考核“云感着陆”着陆缓冲技术的可行性与可靠性。</p><p>IT之家注：穿越者壹号（CYZ1）载人飞船试验舱舱体是直径约四米、高约三米的全尺寸返回舱，也是国内商业载人航天领域的首次尝试，更大的体积和重量意味着更复杂的系统设计、集成与更严苛的制造精度。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" href=\"https://weibo.com/tv/show/1034:5233596840214536?mid=5233597240052280\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/12/e64c3d42-bbf2-44bb-bb08-721bd63aaf08.jpg?x-bce-process=image/format,f_auto\" /></a></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "启境汽车声明：将“华为”与“启境”进行捆绑命名等易引起误解的表述，应严格予以禁止",
+    "link": "https://www.ithome.com/0/913/632.htm",
+    "date": "2026-01-15 23:17",
+    "summary": "<p>IT之家 1 月 15 日消息，启境汽车官方微博今日发布关于“启境”品牌定位及战略合作伙伴关系的声明，称伴随广汽集团与华为乾崑合作的深入，社交媒体上出现了一些不实猜测。为保护用户及消费者的知情权，启境汽车发布正式声明。</p><p>IT之家附启境汽车声明原文如下：</p><blockquote><p><strong>“启境”品牌是由广汽集团与华为乾崑联合打造的高端智能新能源汽车品牌</strong>，凝聚了广汽集团在三电技术与整车制造领域的专长，以及华为乾崑在辅助驾驶、智能座舱、用户生态和品牌营销方面的实力，致力于为用户提供智能化出行体验。</p><p>广汽集团是启境汽车的创始股东，以成熟的制造体系与市场经验为启境汽车提供全方位支持；引望（华为智能汽车解决方案 BU）作为战略合作伙伴，通过“华为乾崑”智能汽车解决方案，全量赋能“启境”品牌。<strong>“华为乾崑 | 启境”代表了启境汽车全系搭载华为乾崑先进的智能技术</strong>。</p><p>启境品牌是开放合作的结晶。为了让公众清晰理解这一品牌的内涵，我们倡导各界在传播中遵循严谨的品牌标识规范，以维护启境品牌的主体性及合作伙伴的合法权益。<strong>对于将“华为”与“启境”进行捆绑命名（如“华为启境”、“华为乾崑启境”）等容易引起误解或其他可能损害相关品牌合法权益的表述，应严格予以禁止</strong>。</p><p>网络空间并非法外之地，言论自由亦有适当边界。我们呼吁广大网友与媒体，不传谣、不信谣，共同维护健康清朗的网络环境，启境汽车愿与社会各界携手，推动行业良性发展。</p></blockquote><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/d91a82db-e799-4dd0-bc69-512a55662c4e.png?x-bce-process=image/format,f_auto\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "曾经盛极一时的 VR、元宇宙，现在怎么样了",
+    "link": "https://www.ithome.com/0/913/631.htm",
+    "date": "2026-01-15 23:16",
+    "summary": "<p>扎克伯格在 2021 年 F8 开发者大会上挥舞着手臂，激情描述着社交 VR 技术刚刚触及表面，承诺要让摄像头成为首个增强现实平台，台下是成百上千张因兴奋而发光的脸。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/506f85d3-2ea8-46fd-8edf-caea8e64185f.jpg?x-bce-process=image/format,f_auto\" /></p><p><strong>如今，这些场景已成为历史废墟的一部分。</strong></p><p>2026 年 1 月初，Meta 进行了最新一轮裁员，主要针对其负责 VR / AR 硬件和元宇宙项目的 Reality Labs 部门。</p><p>这家曾经重金押注元宇宙的公司，正将资源从沉浸式数字宇宙的愿景中抽离，转向更实际的 AI 智能眼镜等可穿戴设备，更大的志向实际是产品的前半句 ——AI。</p><p>扎克伯格的中国学徒自然更不会好过，一家集万千宠爱于一身的头部 AR 明星公司，早在 2023 年就裁撤了硬件团队，元宇宙的梦想早已被现实击碎。同期，字节花重金买下的 PICO 经历了组织架构调整，随即开启漫长的停歇。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/42b1e310-cd45-4a62-b7bf-17f7801dfcde.jpg?x-bce-process=image/format,f_auto\" /></p><p>现在，VR 和元宇宙是一个旧时代的隐喻，用来指代那些炒作、割韭菜、搞快钱的群体。</p><p>一个曾经性感且令人兴奋的新宇宙，如何从盛极一时，到被全世界的极客抛弃？</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/71a5f299-fb96-4438-98ba-3b058520a3d0.png?x-bce-process=image/format,f_auto\" /></p><p><strong>十年挣扎，陨落的愿景</strong></p><p>Meta 的裁员标志着一次重要的战略撤退，放弃了扎克伯格自 2014 年以来大力推广的“元宇宙”愿景。</p><p>根据纽约时报报道，该公司计划裁减 Reality Labs 部门约 10% 的员工。该部门拥有约 15000 名员工，这意味着超过 1500 人将失去工作。</p><p>扎克伯格曾信誓旦旦地承诺，元宇宙将帮助人们体验到比以往互动方式自然得多的临场感。</p><p>2018 年，好莱坞大导斯皮尔伯格执导的《头号玩家》在中国上映，其极其生动的向外界呈现了一个 VR 世界。</p><p>当时，有不少人确信，VR 就是那个通往未来世界的方式，只是技术仍留有巨大的空白。</p><p>更前沿的元宇宙概念最终由扎克伯格于 2021 年 5 月引爆，当时他宣布 Facebook 将在五年内转变为元宇宙公司。</p><p><strong>这个在当时无比新奇的概念，让许多人感到茫然。</strong></p><p>一些人开始深究，发现其最初来自科幻作家史蒂文森 1992 年创作的科幻小说《雪崩》，从字面看，元宇宙 Metaverse 由 Meta（超越）+Universe（宇宙）两部分组成，即通过技术能力在现实世界基础上搭建一个平行且持久存在的虚拟世界，现实中的人以数字化身的形式进入虚拟时空中生活，同时在虚拟世界中还拥有完整运行的社会和经济系统。</p><p>随着概念的不断普及，其被认为是互联网的下一任继承者，混合了 AI、VR、AR、区块链等技术。行业充满热情，专家们预测到 2026 年，25% 的人每天会在元宇宙中花费至少一小时。</p><p>扎克伯格在 2021 年接受采访时曾详细描述他的愿景：“元宇宙不仅仅涉及 VR，还关乎 PC、移动设备和游戏机。”他认为这是一个持久、同步的环境，是社交平台的某种混合体。</p><p>为了这个愿景，扎克伯格投入了巨额资金。这样的热情还感染了一批大洋彼岸的创业者，2022 年，罗永浩赌上一切开启最后一次创业项目细红线，瞄准的就是 AR 设备。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/964e75b2-be26-4810-bc37-3793d5c8916a.jpg?x-bce-process=image/format,f_auto\" /></p><p>大量元宇宙概念相关企业诞生，据 2022 年 11 月工信部口径，中国虚拟现实相关企业超过了 1 万家。至 2023 年底，全国现存 VR / AR 相关企业 2.82 万家。</p><p><strong>概念破灭后，倒塌如雪花般袭来。</strong></p><p>最残酷的正是技术不成熟与烧钱，据媒体统计，自 2020 年以来，Meta 的元宇宙业务已烧掉超过 600 亿美元。</p><p>仅 Reality Labs 部门自 2021 年以来就累计亏损超 700 亿美元，仅 2025 年第三季度就亏损 44 亿美元。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/f8ee74f8-6d86-4838-b9e9-d72450adb64e.png?x-bce-process=image/format,f_auto\" /></p><p><strong>野心与现实</strong></p><p>Meta 对元宇宙的野心从未局限于单一应用或游戏。扎克伯格曾明确表示，Facebook 希望在构建元宇宙的过程中发挥核心作用，甚至不惜赔钱来赢得支持。</p><p>2014 年，扎克伯格以 20 亿美元收购了 VR 王者 Oculus，为元宇宙愿景奠定了基础。</p><p>随后，Meta 发布了 Facebook Spaces 测试版社交虚拟现实平台，并与 Oculus Rift 及其控制器 Touch 兼容。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/3294cb8b-7bed-45a3-9f21-d060a95fa518.png?x-bce-process=image/format,f_auto\" /></p><p><strong>扎克伯格当时表示：“虚拟现实是天然的社交平台，我们正以人为中心来打造它。”</strong></p><p>他甚至提出了“XR 财团”的构想，与微软等公司合作，旨在创建“高度可互操作”的虚拟世界。</p><p>他梦想中的元宇宙不是由某家公司单独构建，而是具有互操作性和可移植性的统一平台。</p><p><strong>遗憾的是，扎克伯格的宏伟愿景并未转化为实际的商业成功。</strong></p><p>AR 初创企业 Xreal 创始人徐驰曾告诉凤凰网科技，100 万台出货量是 AR 被市场验证的门槛，1000 万台，是 AR 产品的 iPhone 时刻。但近 10 年过去，这些目标远未达成。</p><p><strong>在凤凰网科技探访的头部 AR 企业口中，有一个共识，“AR 项目短时间在电池、芯片、光学上都很难有突破，国外产品的天花板就是 Meta 的 Orion 项目，而 VR 行业的天花板就是 Vision Pro”。</strong></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/6e8e1ef8-687e-47f8-b257-55476d5ee3a5.jpg?x-bce-process=image/format,f_auto\" /></p><p>但很快，天花板也相继缴械，Vision Pro 在去年初因为销量太低不得不进入停产状态。今年初，苹果又继续收缩 Apple Vision Pro 的产量与推广力度。</p><p>Sensor Tower 的数据显示，苹果今年在美国、英国等市场几乎全面撤回 Vision Pro 的线上广告投放，相关支出削减幅度超过 95%。</p><p><strong>科技巨头们已经付出了惨痛的代价。</strong></p><p>Reality Labs 部门的巨额亏损已成为 Meta 财务报表上的持续负担。</p><p>与此同时，由于在该发展 AI 的时候，投入了过多的热情给 XR，让 Meta 的 AI 研究开始掉队，OpenAI、谷歌甚至是来自中国的模型千问和 DeepSeek，都加剧了扎克伯格的压力。</p><p><strong>Meta 正努力在硅谷的人工智能竞赛中保持相关性，而元宇宙项目成为了调整战略最必须的牺牲品。</strong></p><p>Meta 首席技术官安德鲁 · 博斯沃思负责监督 Reality Labs，他在周三召集了一次会议，并敦促员工亲自参加。</p><p>在这次会议上，裁员细节和部门未来的发展方向成为主要议题。<strong>随着裁员通知的的到来，过去的一切努力都成为了泡影，这些通知自 2026 年 1 月 13 日开始陆续发送给受影响的员工。后续将不排除继续裁员。</strong></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/a50f5719-1639-432f-9e91-6ce9014cc7d9.png?x-bce-process=image/format,f_auto\" /></p><p><strong>AI，已取代一切关注</strong></p><p>风险投资家马修 · 鲍尔曾提出元宇宙的三个关键特征：跨越物理世界和虚拟世界；包含完整的经济体；提供“前所未有的互操作性”。</p><p>如今，这些特征正在被重新诠释。Gartner 预测，到 2026 年，30% 的世界组织将为元宇宙准备好产品和服务。</p><p>在全球范围内，围绕下一代交互设备的竞赛已经开启，成为元宇宙技术的另一种变种载体。</p><p>竞争的焦点正从单纯的 VR 转向融合现实与虚拟的混合现实（MR）和轻量化 AI 眼镜。</p><p>一位资深硬件赛道创业者则告诉凤凰网科技，AI 眼镜在悄悄爆量，Meta 计划 2026 年给供应链的需求超 1000 万台，而在中国市场，大厂相继入局，小米和夸克都交出了 10 万出货量的成绩单。字节也在近期被曝旗下 AI 眼镜即将开启出货。</p><p>另有消息称，字节旗下 PICO 也将于 2026 年推出搭载全链路自研专用芯片的新一代产品，旨在实现低延迟、高精度的处理性能。</p><p><strong>没有人想要真正放弃这个赛道。</strong></p><p>去年底，Meta 和谷歌都发出了新作业 —— 在 Meta Ray-Ban 上取得成功后，Meta 正式推出了 Meta Ray-Ban Display，相比前作增加了一块彩色单眼显示屏幕。在交互手段创新上，其同步发布了通过肌电信号操控的神经腕带 Neural Band，该产品最终定价为 799 美元（约合人民币 5700 元），比不带显示的直接贵了一倍，也让其出货预期大幅降低。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/a1e4f7d8-a542-40b2-aaed-c0e168faf615.jpg?x-bce-process=image/format,f_auto\" /></p><p>谷歌在 2025 年末高调宣布重返战场，带来了由 Gemini 大模型和 Android XR 操作系统驱动的眼镜路线图。这是一种平台思维：通过定义操作系统标准，整合全球硬件制造力（尤其是中国供应链），来回应竞争对手的硬件创新。</p><p>但姿态已经全然不同，在大洋彼岸的 Meta 总部，员工们正在收拾心情。</p><p>根据 Meta CTO 安德鲁 · 博斯沃的表述，该部门将改组为通过更精简、更扁平的组织架构来运行，不再追求过去那种激进的扩张性投入。</p><p><strong>留下来的人，会专注卖好 Meta 的 AI 眼镜。</strong>为了确保 AGI 的目标，扎克伯格还想买入更多算力，Meta 甚至新成立了名为“Meta 计算”的部门，专门负责统筹全公司的基础设施建设。</p><p>通用人工智能改变了所有潮水的方向，元宇宙只是其中一个。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "保留地球冰冻记忆，阿尔卑斯山冰芯“入住”南极冷库",
+    "link": "https://www.ithome.com/0/913/630.htm",
+    "date": "2026-01-15 23:08",
+    "summary": "<p>IT之家 1 月 15 日消息，据央视新闻报道，欧洲研究人员 1 月 14 日将采自阿尔卑斯山的冰芯样本存放入南极地下专门挖掘出的一个冰穴中，<strong>宣告世界上首个存储高山冰芯的冷库正式启用</strong>。</p><p>据悉，这个冰芯库位于法国与意大利联合开设的南极科考站康科迪亚站附近一座 5 米高的雪堆之下。那里气温常年保持在<strong>零下 52 摄氏度</strong>左右，适宜保存冰芯。首批存入的冰芯分别取自位于法国勃朗峰和瑞士大孔班山的冰川。这批冰芯从意大利港口的里雅斯特启程，<strong>历经 50 天搭乘冷藏破冰船、飞机之后抵达南极</strong>。</p><p>冰芯是从冰川钻取的圆柱状冰体，是冰川学领域的关键研究素材。冰芯中不仅保留着历史上自然气候环境变化的信息，还记录着人类活动对于气候环境的影响，在全球气候变化研究中有着极为重要的作用。</p><p>这个储存冰芯的项目名为<strong>“冰记忆”</strong>，由法国、意大利和瑞士等国研究机构组成的同名基金会运营。该基金会致力于从退化或面临消失风险的冰川钻取冰芯并保存，以供未来研究。</p><p>该基金会副主席卡洛 · 巴尔班特说，通过保存冰层中封存的大气气体、气溶胶、污染物和尘埃的物理样本，可确保未来的研究人员能够利用目前可能尚未存在的技术，研究过去的气候状况。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/4ede9c36-e0d4-4853-8af5-177895178f8a.png?x-bce-process=image/format,f_auto\" /></p><p>据IT之家此前报道，从阿尔卑斯山脉到安第斯山脉，尽管冰川崩塌的具体情况各有不同，但科学家们普遍认为，气候变化几乎总是其中的关键因素。</p><p><strong>瑞士是欧洲冰川数量最多的国家</strong>，2023 年其冰川体积就减少了 4%，而 2022 年更是创下了 6% 的降幅纪录。秘鲁在过去 60 年中也有超过一半的冰川表面消失，2016 年至 2020 年间，就有 175 条冰川因全球气温上升而彻底消失。</p><p>即便全球气温保持在当前水平，<strong>预计全球仍有 40% 的冰川会消失</strong>。然而，最近的一项研究表明，如果能够将全球变暖控制在 2015 年巴黎协定设定的 1.5 摄氏度以内，则可能使冰川留存量翻倍。</p><p>不过，专家们也指出，许多冰川已经注定会消失，无论未来的变暖趋势如何。在一些地区，例如阿拉斯加的部分地区，冰川终将消失，因为当前的气候条件已经不再适合它们存续，它们的完全融化只是时间问题。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "索尼从 PS 商店下架逾千款“换皮游戏”，均来自同一开发商",
+    "link": "https://www.ithome.com/0/913/629.htm",
+    "date": "2026-01-15 23:02",
+    "summary": "<p>IT之家 1 月 15 日消息，一家独立开发商的逾千款游戏近日突然从 PlayStation 商店下架。此举似乎是索尼为清理 PS5 平台及商店中“换皮游戏”而采取的大规模整治行动。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/589f6828-274b-4c1f-b47e-ecebc548b299.png?x-bce-process=image/format,f_auto\" /></p><p>涉事开发商为 ThiGames，在此次大规模下架前，该公司曾以游戏数量之多位居 PlayStation 商店开发商榜单第四位。据最早发现这一变动的用户罗布・塔纳托斯（RobThanatos）透露，ThiGames 已发售的所有游戏均已从商店中彻底移除，唯一例外的是这些游戏对应的奖杯，对于已经解锁奖杯的玩家而言，相关奖杯仍会保留在其账户中。</p><p>截至IT之家本文撰写时，索尼与 ThiGames 均未就此次大范围下架事件作出任何说明。不过值得一提的是，ThiGames 向来以出品特定类型的游戏著称。以《跳跃的薯条》为例，玩家在游戏中扮演一根薯条，核心玩法就是不断跳跃。该开发商还推出过《跳跃的塔可》《跳跃的热狗》《跳跃的汽水》以及《跳跃的塔可涡轮版》等一系列换皮作品。如此“魔性”的玩法，怕是连《街头霸王 2》都要甘拜下风。</p><p>那么这类游戏为何会有玩家群体呢？是因为这些游戏的奖杯解锁条件极其简单。以《跳跃的塔可》为例，奖杯仅需达成“跳跃 X 次”这类里程碑式目标即可解锁。正因如此，这些现已下架的游戏，曾是热衷于刷满 PlayStation 奖杯库的玩家眼中的“香饽饽”。</p><p>事实上，这并非索尼首次清理 PS5 商店中的换皮游戏。大约一年前，索尼就曾对开发商 Randomspin 采取过下架措施。该公司因涉嫌使用人工智能生成内容及 / 或重复利用游戏素材，被悄无声息地从商店中移除。与此次的 ThiGames 一样，Randomspin 也曾在相对较短的时间内批量推出过大量游戏。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "小米汽车回应降低辅助驾驶功能新手门槛公里数：尽管门槛有所降低，辅助驾驶仍不等于自动驾驶",
+    "link": "https://www.ithome.com/0/913/628.htm",
+    "date": "2026-01-15 23:00",
+    "summary": "<p>IT之家 1 月 15 日消息，小米汽车官方今日发布了答网友问（第 207 集），针对“新一代小米 SU7 有哪些外观和内饰颜色？”和“新一代小米 SU7 会提供几款轮毂？”等问题作出解答，并回应了降低辅助驾驶功能新手门槛公里数这一后续更改内容。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/c58e3f4f-fc28-4098-8836-0d4b0c7f9c36.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家附小米汽车本期答网友问内容如下：</p><h3>新一代小米 SU7 有哪些外观和内饰颜色？</h3><blockquote><p>新一代小米 SU7 正式上市时，我们会为大家<strong>提供 9 款外观颜色和 5 款内饰颜色</strong>选择。相较于第一代 SU7，新一代 SU7 新增了 3 款全新外观颜色与 3 款全新内饰颜色。每一款颜色均经过精挑细选，并将依托先进的制造工艺与严谨的质量把控，呈现出非凡的质感。</p><p>除了延续第一代 SU7 经典的「霞光紫」、「雅灰」、「璀璨洋红」和「珍珠白」4 款颜色外，本次还引入了备受好评的 SU7 Ultra「曜石黑」和 YU7「流金粉」。此外，新一代 SU7 还新增了 3 款全新专属颜色，其中已公布的「卡布里蓝」获得了许多喜爱与好评，<strong>剩余两款颜色将在后续逐步揭晓</strong>，敬请期待。</p><p>在内饰颜色方面，在延续第一代 SU7 两款经典内饰色「迷雾紫」和「暮光红」的基础上，新一代 SU7 新增了已正式发布的「暗夜黑」。此外，还有两款内饰将在后续逐步公开：一款为浅色调内饰，另一款采用特殊拼色设计，敬请期待。</p><p style=\"text-align: center;\"><img alt=\"\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/e851ce6d-7391-4460-a0b8-c356902938e2.png?x-bce-process=image/format,f_auto\" /></p></blockquote><h3>新一代小米 SU7 会提供几款轮毂？</h3><blockquote><p>新一代小米 SU7 正式上市时，<strong>我们会为大家提供 6 款轮毂选择</strong>：其中包括 1 款 19 英寸、3 款 20 英寸和 2 款 21 英寸轮毂，以满足大家对续航、操控、舒适和颜值等方面的不同需求。在 21 英寸轮毂中，我们会为大家提供一款「锻造轮毂」，锻造轮毂拥有工艺精美、更高强度、更轻量化等优势，以满足大家对轮毂性能更高的要求。</p><ul class=\"medium-size list-paddingleft-2\"><li><p>全系标配「19 英寸钻石轮毂」，和小米 YU7 的「19 英寸钻石轮毂」保持一致，低风阻的设计可以带来更好的续航能力；</p></li><li><p>可选 3 款「20 英寸轮毂」：除了已向大家公布的全新「锋刃轮毂」，还有 2 款延续第一代 SU7 经典的「梅花轮毂」和「米型轮毂」可供选择。其中「锋刃轮毂」和「米型轮毂」均提供多款配色可选；</p></li><li><p>可选 2 款「21 英寸轮毂」：其中包括 1 款「双层锻造梅花轮毂」，这也是小米 SU7 首次提供锻造轮毂可选。该款「双层锻造梅花轮毂」有着极具豪华感的双层设计以及更强的机械性能，面对外力的冲击更不容易形变或断裂。</p></li></ul><p>更多有关新一代小米 SU7 的产品详情，敬请关注后续小米汽车官方信息。</p><p style=\"text-align: center;\"><img alt=\"\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/385cea5d-4585-4f91-b20d-4995505365bb.png?x-bce-process=image/format,f_auto\" /></p></blockquote><h3>新一代小米 SU7 搭载的小米 V6s Plus 超级电机是怎么做到「性能更强」和「效率更高」的？</h3><blockquote><p>新一代 SU7 搭载的小米 V6s Plus 超级电机有着四项重要升级：首先通过「电机转子拓扑优化」提升转速耐受性，可将电机最高转速提升至 22000rpm，我们还通过「分段磁钢」技术减少涡流损耗、「功率模块深度优化」提高电能转换效率、「主动润滑系统优化」降低机械阻力。与第一代 SU7 搭载的 V6s 超级电机相比，V6s Plus 超级电机的 CLTC 工况效率提升了 1.5%，同等电量下可增加超过十公里的续航里程。<strong>新一代小米 SU7 全系标配的小米 V6s Plus 超级电机</strong>，此前已在小米 YU7 车型上历经过充分验证，并收获了用户的广泛好评。我们将持续投入，深耕核心技术，持续优化用户体验。</p><p>此外，<strong>新一代 SU7 还升级了标准版与 Pro 版的 752V 碳化硅高压平台</strong>，Max 版升级 897V 碳化硅高压平台，并搭载了全新升级的动力电池。这一系列三电系统的升级使得新一代 SU7 全系的续航能力得到了显著的提升，其中 Pro 版的 CLTC 续航里程最高可达 902km。</p><p>驱动电机的性能与效率，直接决定着电动车的动力与续航表现。更多有关新一代小米 SU7 在动力方面的具体表现，欢迎持续关注小米汽车的后续官方发布。</p><p style=\"text-align: center;\"><img alt=\"\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/61ea80a6-e57b-4315-be47-423850f93744.png?x-bce-process=image/format,f_auto\" /></p></blockquote><h3>雷总在今晚直播中提到将会降低辅助驾驶功能的新手门槛公里数，这是出于什么考量？</h3><blockquote><p>我们高度重视大家关于 Xiaomi HAD 城市领航辅助解锁里程标准的反馈，为了让更多用户能在确保安全的前提下更早体验城市领航辅助，我们优化了这一解锁里程标准。</p><p>在 2024 年，当小米汽车开通城市领航辅助（CNOA）功能时，<strong>我们为该项功能设置了 1000 公里辅助驾驶安全里程的要求</strong>。用户需通过使用高速领航辅助（HNOA）、自适应巡航（ACC）及车道居中辅助（LCC）累计行驶里程，达标后即可自动解锁 CNOA 功能。</p><p>此后，我们从多个渠道收到了大量用户的反馈，普遍呼吁降低这一门槛。<strong>在认真评估并与众多用户沟通后，我们将积极采纳大家的建议，计划下调这项安全里程要求</strong>。</p><p>需要提醒您的是，<strong>尽管门槛有所降低，辅助驾驶仍不等于自动驾驶</strong>。在使用过程中，请您始终保持对路况的关注，并随时准备控制车辆。</p></blockquote><h3>预计会在什么时候正式降低辅助驾驶功能的新手门槛公里数？</h3><blockquote><p><strong>我们预计在下一次的 OTA 软件升级下调辅助驾驶的安全里程要求</strong>，请大家耐心等待。</p></blockquote><h3>能否详细介绍一下今晚直播说的「7 年低息」金融政策？</h3><blockquote><p>这是我们针对小米 YU7 全系和第一代小米 SU7 现车推出的全新金融政策。从 2026 年 1 月 16 日 0 点起，至 2 月 28 日 24 点前下定 YU7 全系和第一代 SU7 现车，最高可享「7 年年费率 1% 低息」的金融方案（4-7 年低息可选），<strong>首付 4.99 万元起，月供低至 2,593 元起</strong>，减轻购车压力，至高可节省 2.9 万元。</p><p>此外，如果您在 2026 年 2 月 28 日 24 点前下定小米 YU7，您还可选择享受「3 年 0 息」的金融方案，即首付 7.49 万元起，月供最低 4,961 元起，0 息 0 手续费。相较原年化费率 2.5% 的金融产品节省最高可达 1.3 万元。</p><p>更多详情，您可咨询您的销售顾问，并请以最终金融机构审核结果为准。更多详情，大家可至小米汽车 App 了解。</p><p style=\"text-align: center;\"><img alt=\"\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/7ec77d1b-eaa8-4e6a-b91d-4a73f1457998.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img alt=\"\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/ff26aa08-832e-49d3-91a2-b2b7a4c9ae3a.png?x-bce-process=image/format,f_auto\" /></p></blockquote><h3>小米 YU7 现又新增了「全系赠送双零重力座椅」的限时权益，我已经锁单了但还未交付，可以享受到么？</h3><blockquote><p>可以的。<strong>针对小米 YU7 的已锁单未交付用户，您只需提前支付 1000 元尾款即可享受该权益</strong>：</p><ul class=\"medium-size list-paddingleft-2\"><li><p>若您的原订单已选配「双零重力座椅」，则在您付尾款时减免掉相应价值；</p></li><li><p>若您的原订单未选配「双零重力座椅」，则限时免费升级，且保持原交付周期不变。</p></li></ul><p>我们温馨提示您，该限时福利活动时间为 2026 年 1 月 16 日 0 点-2026 年 2 月 28 日 24 点。当然，在此期间的小米 YU7 新锁单用户将自动享受该权益。更多详情请见小米汽车 APP。</p><p style=\"text-align: center;\"><img alt=\"\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/31e988ec-8003-4287-95a3-9c7b5af3d275.png?x-bce-process=image/format,f_auto\" /></p></blockquote><h3>今晚直播说介绍朋友下定新一代 SU7 也能享受积分奖励，具体政策如何？</h3><blockquote><p>这是我们针对网友们的建议，迅速推出的新政策。即日起至 2026 年 2 月 28 日，所有小米汽车车主邀请好友完成新一代 SU7 的小订，且好友在新车正式上市后转为大定并锁单，即可获得 8000 积分奖励。（请注意，每人每自然年最多可获得 10 次）</p><p style=\"text-align: center;\"><img alt=\"\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/e181ef51-64e9-4824-97e8-3ce04aede713.png?x-bce-process=image/format,f_auto\" /></p></blockquote>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "微信 iOS 8.0.68 正式版更新内容汇总：通知显示头像覆盖、聊天界面细节焕新",
+    "link": "https://www.ithome.com/0/913/593.htm",
+    "date": "2026-01-15 22:43",
+    "summary": "<p style=\"text-align: left;\">在今天（1 月 15 日）午间的文章中，我们IT之家已经告知大家<strong>微信 iOS 平台迎来了 8.0.68 正式版更新</strong>，并预告会在晚上的推文中带来详细解析。</p><p>此刻，交差的时间到来，历经一下午的测试后，小编挖掘出了本次最新版中的众多亮点。</p><p>说起来，本次 iOS 正式版来得有点快，距离内测版推出仅相隔 6 天的时间。</p><p>既然转正如此火速，微信究竟安排了哪些新花样，接下来就逐一进行展示。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/68a1961e-bd84-430a-9d7b-e29d6d57c6cf.jpg?x-bce-process=image/format,f_auto\" /></p><h2><strong>一、通知显示头像持续覆盖</strong></h2><p>首先要说的，是在近期引发热议的“通知显示头像”，该功能在去年 11 月于微信 iOS 端启动灰测，但至今仍在持续覆盖中。</p><p>具体来看，早前 iOS 的横幅显示内容，最多能显示“朋友名称、群聊名及消息内容”，无法显示头像。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/fc5d8a04-5502-45fc-8ee7-446e7bffbd57.jpg?x-bce-process=image/format,f_auto\" /></p><p>但是自“通知显示头像”灰测后，被覆盖到的用户就变得能够显示了。</p><p>依次点击“我-设置-通知-微信未打开时-通知显示内容”，开启显示详情后，<strong>会出现“显示头像”的按钮。</strong></p><p>该按钮为独立存在，可以与消息内容分开，点开后通知便会显示头像。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/e55e4008-3d63-48b0-96c0-b9abe936220e.jpg?x-bce-process=image/format,f_auto\" /></p><h2><strong>二、公众号拉黑隐私强化</strong></h2><p>从测试版延续到正式版的变化，微信对公众号的拉黑隐私进行强化。</p><p>以前若是用户被公众号加入黑名单，不仅无法接收公众号发出的消息，也无法参与留言和赞赏，以及公众号亦将无法接收用户发来的消息。</p><p>不过被拉黑的用户倒是不影响看公众号的文章，在公众号主页还是能正常浏览内容。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/db2e2097-713e-4a8d-971c-3c55996b4c45.png?x-bce-process=image/format,f_auto\" /></p><p>然而在 8.0.68 版本中，拉黑后的情况就变得不一样了。</p><p>如果用户被公众号拉黑，那么再进入公众号的主页，<strong>会看到“根据作者隐私设置，无法查看”的说明</strong>，没法再查看历史推文。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/8a8bef0c-7b55-4d40-a50d-e1d8a98718d0.jpg?x-bce-process=image/format,f_auto\" /></p><h2><strong>三、删除收藏可撤销</strong></h2><p>这处关于收藏功能的“后悔药”，也从测试状态转为正式上线。</p><p>在收藏界面中，用“左滑”的方式删除任一内容，底部会弹出“已删除收藏的 xx”的提示，右侧有“撤销”按钮。</p><p style=\"text-align: center;\"><img alt=\"图片\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/cf256f00-f0ec-44f5-b26c-8ba9f7a443f1.jpg?x-bce-process=image/format,f_auto\" /></p><p>在五秒的时间内点击“撤销”，<strong>这篇被删除的收藏内容就会保留</strong>。</p><p>但IT之家小编要强调一下，调出这一“撤销”必须是左滑删除，倘若是长按笔记删除则不行。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/62fbbf08-30ef-4f4e-a115-50f016b52c56.jpg?x-bce-process=image/format,f_auto\" /></p><h2><strong>四、搜索界面改版未全量</strong></h2><p>这处关于搜索界面的改版，至今还在灰度覆盖中，尚未全量上线。</p><p>以前搜索界面没有标题，“语音输入”图标位于搜索框右侧，底部中间是“页面设置”选项。</p><p>改版后，界面增加“搜索”标题，“页面设置”化作右上角的“…”，<strong>搜索框中的“语音输入”变为界面中下位置醒目的“按住语音提问或搜索”按钮。</strong></p><p style=\"text-align: center;\"><img alt=\"图片\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/e07b7ae1-5e92-46c2-96ee-862612e4a40b.jpg?x-bce-process=image/format,f_auto\" /></p><p>按住按钮并对着手机说话，便会转成文字，松开后执行搜索，上移取消操作。</p><p style=\"text-align: center;\"><img alt=\"图片\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/eb21885e-524a-47a9-9f07-b159a613c18d.jpg?x-bce-process=image/format,f_auto\" /></p><h2><strong>五、聊天界面细节变色</strong></h2><p>在此次微信 iOS 8.0.68 正式版中，聊天界面中的多处细节出现变色，IT之家小编逐个来说。</p><p>在设置了聊天背景的情况下，聊天框中的时间戳底下会有一个矩形框，在过往的版本中，时间字体是黑色、矩形框底色较深。</p><p>反观在新版本中，<strong>字体的颜色变灰，底色也变得更明显。</strong></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/82eed9d2-e190-4df9-84ee-87565a0033ea.jpg?x-bce-process=image/format,f_auto\" /></p><p>无独有偶，包括拍一拍、撤回、引用等功能的字体和背景色，也都同步予以调整。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/b52e9723-47b1-47e2-8597-5b244deb5aba.jpg?x-bce-process=image/format,f_auto\" /></p><p>而上述调整，在深色模式下更为明显，时间戳、拍一拍、撤回、引用字体都变灰之余，<strong>背景色均变为深色</strong>。</p><p>经此调整，界面的观感就趋于一致，细节会跟随着主体一并变深。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/3858efa6-cc10-4194-9066-9e162c1aac39.jpg?x-bce-process=image/format,f_auto\" /></p><h2><strong>六、红包气泡调整</strong></h2><p>在这次微信 iOS 8.0.68 正式版中，聊天界面中还有一处新鲜出炉的调整，关于红包气泡。</p><p>甭管是发送还是接收，<strong>气泡的尺寸较之前缩水了</strong>，主要体现在高度变短。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/7c6e2b88-73a4-4d7c-8ce2-3ee1ab1e0321.jpg?x-bce-process=image/format,f_auto\" /></p><h2><strong>七、红包新增推荐封面</strong></h2><p>和安卓 8.0.68 测试版的改动一致，iOS 这波正式版中红包也有了推荐封面，但还处于灰度的阶段。</p><p>在“我的红包封面”界面中，右上角新增“…”图标，点击后可看到“发红包输入祝福语时推荐封面”按钮。</p><p>开启该按钮后，发送红包时，<strong>会根据所输入的祝福语推荐合适的红包封面</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/2f04bb42-24d5-4d02-8df5-3bfea0677a79.jpg?x-bce-process=image/format,f_auto\" /></p><h2><strong>八、视频号数据显示优化</strong></h2><p>同样是看齐安卓 8.0.68 测试版，iOS 的视频号数据显示也有了优化。</p><p>在视频号个人账号主页中，<strong>可以直接看到视频共计获得的点赞和爱心的数量</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/cee0f08e-7015-4a7f-8dd2-d9cf321f5b76.jpg?x-bce-process=image/format,f_auto\" /></p><h2><strong>九、适配 <span class=\"hot-topic\">iPhone Air</span></strong></h2><p>根据IT之家家友反馈，<strong>微信 iOS 8.0.68 正式版适配了 iPhone Air 的分辨率</strong>。</p><p>据悉，没适配前，后台卡片左右有大概几个像素的黑边，以及查找聊天内容的界面会被灵动岛挡住一点。</p><p>经过适配，黑边不复存在，搜索框也向下移动。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/c1c85b40-0005-4283-a396-b084281b97f6.jpg?x-bce-process=image/format,f_auto\" /></p><h2><strong>十、总结</strong></h2><p>关于微信 iOS 8.0.68 正式版的更新情况，IT之家小编要说的就是这些了。</p><p>鉴于 iOS 转正如此快速，不禁让人期待安卓的正式版会不会提速。</p><p>总之，由于微信用的是“分批灰度放量”机制，新功能的上线充满随机性，<strong>如果没被覆盖到唯有耐心等待。</strong></p><p>大家在<a href=\"https://wxaurl.cn/tIhrCxgH5Kb\" target=\"_blank\">IT之家微信号</a>回复“<span class=\"font-color-red\">微信</span>”两字，即可获取当前最新官方内部版微信下载。</p><p style=\"text-align: center;\"><img alt=\"\" src=\"https://img.ithome.com/newsuploadfiles/2021/3/20210316222136_9513.jpg?x-bce-process=image/format,f_auto\" /> </p><p style=\"text-align: center;\"><a href=\"https://wxaurl.cn/tIhrCxgH5Kb\" target=\"_blank\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2025/2/d715ba69-5ed2-4b1d-a704-bd156713c1a0.gif\" /></a></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "小米汽车划今晚雷军直播重点，涵盖新一代 SU7 产品细节、YU7 限时购车福利等",
+    "link": "https://www.ithome.com/0/913/627.htm",
+    "date": "2026-01-15 22:36",
+    "summary": "<p>IT之家 1 月 15 日消息，小米创办人、董事长兼 CEO 雷军今日再次直播，详细聊了聊新一代 SU7，并解答了大家关心的问题。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/d01fef2b-bc7b-4ff6-8a19-425ef2e40625.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，小米汽车官方微博对本场直播划了重点，涵盖新一代 SU7 产品细节信息、小米 YU7 限时购车福利、小米汽车最近的好消息等：</p><blockquote><h3>1.新一代 SU7 产品细节信息</h3><ul class=\"medium-size list-paddingleft-2\"><li><p>（1）九款外饰颜色：保留上一代 SU7 经典色：霞光紫、雅灰、璀璨洋红、珍珠白。引入 YU7 和 Ultra 上备受好评的颜色：曜石黑、流金粉，还有三款全新的专属颜色，除了已经公布的卡布里蓝，还有另外两款，之后再和大家慢慢分享。</p></li><li><p>（2）五款内饰颜色：除了已经公布的暗夜黑，还保留了迷雾紫和暮光红这两款内饰颜色，除此之外，还有一款浅色和一个特殊的拼色设计。</p></li><li><p>（3）六款轮毂可选：分别是 19 英寸钻石轮毂、20 英寸锋刃轮毂，20 英寸梅花轮毂，20 英寸米型轮毂，21 英寸运动轮毂，21 英寸双层锻造梅花轮毂。</p></li><li><p>（4）Pro 版 CLTC 续航 902km：搭载 752V 碳化硅高压平台、96.3kWh 磷酸铁锂电池、小米 V6s Plus 超级电机。</p></li><li><p>（5）白车身、底盘等方面做了大幅度增配：全系 2200MPa「内嵌式防滚架」和车门防撞梁；全系前窄后宽轮胎；全系前四活塞固定卡钳；Pro 和 Max 版本搭载闭式双腔空气弹簧和 CDC<sup>®</sup> 阻尼可变减振器，提升了安全性、舒适性和操控品质。</p></li><li><p>（6）新一代 SU7 4 月正式上市。为了避免出现瑕疵或者误解，所有信息以工信部官网的公告信息、发布会、官网为准。</p></li></ul><h3>2. 小米 YU7 限时购车福利：</h3><ul class=\"medium-size list-paddingleft-2\"><li><p>（1）2 月 28 日前下定小米 YU7，可选 3 年 0 息政策或 7 年低息政策；</p></li><li><p>（2）2 月 28 日前下定小米 YU7，全系送双零重力座椅。锁单未交付用户，提前付 1000 元尾款可享：已选配双零重力座椅的用户，尾款减免相应价值；若未选配，可限时免费升级，交付周期不变。</p></li></ul><h3>3. 邀请好友锁单得积分活动：</h3><ul class=\"medium-size list-paddingleft-2\"><li><p>（1）2 月 28 日前，老车主邀请好友小订并锁单新一代 SU7，可奖励 8000 积分，活动详情见小米汽车 App。感兴趣的朋友千万不能错过。</p></li></ul><h3>4.小米汽车最近的好消息：</h3><ul class=\"medium-size list-paddingleft-2\"><li><p>（1）小米 SU7，是 20 万以上轿车，2025 年全年的销量第一，数据来自汽车之家销量榜。</p></li><li><p>（2）小米 YU7，上市 6 个月，连续 5 个月获得中大型 SUV 的销量第一，数据来自汽车之家销量榜。</p></li><li><p>（3）根据中国汽车流通协会和精真估的最近数据显示，2025 年小米 SU7 连续 8 个月都是纯电动车型保值率（一年车龄）的第一名，12 月的保值率达 80.1%。感谢大家的喜爱与支持。</p></li></ul></blockquote><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/d5fc8158-ba22-4ed0-95a0-4ccb33a44b6d.jpg?x-bce-process=image/format,f_auto\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "徐洁云回应网传“小米二手车市场一塌糊涂”：部分二手车商为了引流，起夸张惊悚的标题制造焦虑",
+    "link": "https://www.ithome.com/0/913/626.htm",
+    "date": "2026-01-15 22:30",
+    "summary": "<p>IT之家 1 月 15 日消息，近期网上出现传闻称“车行老板说小米二手车市场一塌糊涂”，引发网友热议。</p><p>在今晚的直播中，小米新任公关部总经理徐洁云进行了回应。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/5a6ebb75-acd3-45ad-8907-b6151d2ae470.jpg?x-bce-process=image/format,f_auto\" /></p><p>徐洁云表示，本质上是有一部分二手车商引流，<strong>为了卖车，为了引流</strong>，把一些特别夸张的、很惊悚的标题，什么滞销、亏本这些字眼来制造这样的焦虑。</p><p>徐洁云还称，可能也有不少网友看到过，是配合着什么跳大神，这种非常非常夸张的离谱的表演，其实本质上就是博取眼球，博取流量，最终还是为了收割流量，吸引消费者的关注，最后来推销自家的车源。实际上也正如很多媒体报道的，人家车二手车商也说了，<strong>实际是来一台走一台，流通性非常好</strong>，并且非常非常的保值。</p><p>IT之家注意到，徐洁云还晒出了一份来自中国汽车流通协会的数据，表示 2025 年主要纯电动车型保值率数据中，<strong>小米 SU7 连续 8 个月第一</strong>（一年车龄）。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/dada7500-95e9-4335-ac85-affc569f0962.jpg?x-bce-process=image/format,f_auto\" /></p><p>小米创办人、董事长兼 CEO 雷军也表示：“所以很多很多的视频呢，是二手车商为了吸引流量表现得很夸张，<strong>是一种典型的蹭流量</strong>，但是就莫名其妙也给了我们很大的伤害。”</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "荣耀护眼学习机火火兔版亮相，内置火火兔 IP 早教和幼小衔接学习资源",
+    "link": "https://www.ithome.com/0/913/625.htm",
+    "date": "2026-01-15 22:26",
+    "summary": "<p>IT之家 1 月 15 日消息，据荣耀终端股份有限公司平板与 IOT 产品领域总经理 @荣耀平板利用哥 今日分享，荣耀平板与早教品牌火火兔，<strong>联合打造了一款“专为 3 到 10 岁孩子启蒙学习设计”的护眼学习机 —— 荣耀护眼学习机火火兔版</strong>，新品将在 1 月 19 日亮相。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/93fa3aa4-0067-4185-a323-47158f088376.jpg?x-bce-process=image/format,f_auto\" /></p><p>据介绍，这款学习机拥有荣耀平板的护眼技术，以及硬件支持，并内置火火兔的启蒙教育内容，包括知名 IP 早教和幼小衔接学习资源等。</p><p>这款护眼学习机除了火火兔学习资源外，<strong>购机还会直接赠送学习空间 3 年的“同步视频 + 课本点读”权益</strong>，从幼小衔接到小初高主流内容都能学。另外，荣耀的自研的学习空间 App 也在按月迭代更新。</p><p>据IT之家此前报道，<span class=\"hot-topic\">荣耀 Magic8 Pro</span> Air 及荣耀联名设计系列新品发布会将在 1 月 19 日 19:30 举行，届时还将带来 Magic8 Pro Air、Magic8 RSR 保时捷设计等新机。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/080d113b-d901-4d08-b891-9162a113d4d2.jpg?x-bce-process=image/format,f_auto\" /></p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\"></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "动画电影《熊出没 · 年年有熊》定档 2026 春节，官方预告发布",
+    "link": "https://www.ithome.com/0/913/624.htm",
+    "date": "2026-01-15 22:22",
+    "summary": "<p>IT之家 1 月 15 日消息，动画电影《熊出没 · 年年有熊》今日官宣定档 2026 春节，时隔 12 年，熊出没再次回归“年”题材，首部中式奇幻冒险。</p><p style=\"text-align: center;\"> </p><blockquote><p>熊大曾是森林里的“老大哥”，直到一个不速之客到来，它将自己神力传给了熊强，熊大变成了三人组合内能力最弱者。为了改变现状，他步入了反派陷阱，引发了毁天灭地的危机......</p></blockquote><p>《熊出没》系列电影在往年的春节档均有不俗表现，可以说发挥非常稳定。截至 2025 年 1 月 31 日 12 时 40 分，<strong>《熊出没》系列动画电影累计总票房已突破 80 亿</strong>。</p><p>IT之家整理各部上映时间如下：</p><ul class=\" list-paddingleft-2\"><li><p>2014 年 1 月 17 日《熊出没之夺宝熊兵》2.47 亿</p></li><li><p>2015 年 1 月 30 日《熊出没之雪岭熊风》2.95 亿</p></li><li><p>2016 年 1 月 16 日《熊出没之熊心归来》2.87 亿</p></li><li><p>2017 年 1 月 28 日《熊出没・奇幻空间》5.22 亿</p></li><li><p>2018 年 2 月 16 日《熊出没・变形记》 6.05 亿</p></li><li><p>2019 年 2 月 5 日《熊出没・原始时代》7.17 亿</p></li><li><p>2021 年 2 月 12 日《熊出没・狂野大陆》5.95 亿</p></li><li><p>2022 年 2 月 1 日《熊出没・重返地球》9.77 亿</p></li><li><p>2023 年 1 月 22 日《熊出没・伴我“熊芯”》14.95 亿</p></li><li><p>2024 年 2 月 20 日《熊出没・逆转时空》19.84 亿</p></li><li><p>2025 年 1 月 29 日《熊出没・重启未来》8.21 亿</p></li></ul><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/f1a8956b-968f-4f45-aeb5-41f2489f708e.jpg?x-bce-process=image/format,f_auto\" /></p><p><a href=\"https://api.zuihuimai.com/m/activity/cinema?fixtitle=%E7%94%B5%E5%BD%B1%E7%A5%A8&amp;showclose=1\" target=\"_blank\"><img class=\"lazy\" src=\"https://img.ithome.com/newsuploadfiles/2025/5/bd9a6ff4-1fca-48b2-af81-1eb93b115012.jpg?x-bce-process=image/format,f_auto\" title=\"《哪吒之魔童闹海》超过《复联 4》，成为中国影史工作日单日票房冠军\" /></a></p><p>IT 之家小伙伴记得用<a href=\"https://api.zuihuimai.com/m/activity/cinema?fixtitle=%E7%94%B5%E5%BD%B1%E7%A5%A8&amp;showclose=1\" target=\"_blank\" title=\"最会买\">最会买购买电影票</a>，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "马斯克：四年内星舰发射频率将超过每小时一次",
+    "link": "https://www.ithome.com/0/913/623.htm",
+    "date": "2026-01-15 22:12",
+    "summary": "<p>IT之家 1 月 15 日消息，SpaceX 创始人埃隆 · 马斯克今日在社交平台 X 称，其重型运载火箭“星舰”（Starship）最多 4 年内可实现超过每小时 1 次的高频发射能力。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/766b4085-d667-440f-95c2-a09bcc45ac73.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，网友 ApoStructura 称，按“每小时 1 次”的发射频率计算，星舰每年发射次数将接近 1 万次；结合其 100 吨的有效载荷能力，年总运力可达 100 万吨，这一数字约为人类航天史累计发射质量的 20 倍。</p><p>对此马斯克表示，“可能需要 4 年，但不会超过这个时间。”马斯克此前还称，星舰将进行大规模量产，<a href=\"https://www.ithome.com/0/911/592.htm\" target=\"_blank\">可能每年高达 1 万枚</a>。</p><p>目前星舰处于试验阶段，此前多次试飞已验证其基本技术框架，但高频发射需突破箭体快速复用、地面保障系统效率、发射场调度等核心瓶颈。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "雷军回应网友对小米 HAD 辅助驾驶 1000 公里门槛降低呼吁，称下次 OTA 调整",
+    "link": "https://www.ithome.com/0/913/622.htm",
+    "date": "2026-01-15 22:04",
+    "summary": "<p>IT之家 1 月 15 日消息，在今晚的直播中，小米创办人、董事长兼 CEO 雷军回应了网友对小米 HAD 辅助驾驶 1000 公里数降低的呼吁，他表示，团队已经注意到了，经过评估，<strong>在下一次 OTA 会降低门槛</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/8bd722b3-92b7-4812-8cac-76355a80310e.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家注：小米 HAD 辅助驾驶 1000 公里的使用门槛指新手要开 1000km 以后才能使用辅助驾驶。目前，<a href=\"https://www.ithome.com/0/900/579.htm\" target=\"_blank\">小米 HAD 增强版已经开始陆续推送</a>，主要升级体验点包括：纵向加减速更丝滑，横向变道更果断，路况理解更精准。在旁车加塞、超车并线、灵活绕行、复杂路口通行等场景表现优秀。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2025/11/a94ebab6-5930-47d0-a9a3-81c05fc60928.gif\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2025/11/03851559-c44a-40f2-b91e-cb790a4e0dd8.webp\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2025/11/12c6c6c4-dbdf-4557-a03a-e6cb0637fef5.gif\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "长安、深蓝与宁德时代合资动力电池项目落地，投资 55 亿元",
+    "link": "https://www.ithome.com/0/913/619.htm",
+    "date": "2026-01-15 21:49",
+    "summary": "<p>IT之家 1 月 15 日消息，深蓝汽车今日宣布，1 月 14 日，由长安汽车、深蓝汽车与宁德时代共同合资成立的时代长安动力电池有限公司，与川渝高竹新区管委会正式签署项目合作协议，将投资 55 亿元建立生产基地，<strong>导入宁德时代最新一代动力电池技术</strong>。</p><p>IT之家注意到，早在 2023 年 6 月，长安汽车与宁德时代就联合成立了一家新的电池公司，名为“时代长安动力电池有限公司”。该公司主营业务包括<strong>电池制造、电池销售</strong>等，所属地区为四川省宜宾市。</p><p>当前，有部分新能源汽车制造商选择与宁德时代等大型电池供应商合作成立电池公司。与宁德时代合作成立的电池公司名字往往有“时代动力”字样，比如广汽时代动力、上汽时代动力、时代一汽动力等等。</p><p>目前，长安旗下部分车型已经搭载宁德时代产品，例如 2025 年 8 月上市的深蓝 S05 全球超长续航版便<strong>标配宁德时代电芯</strong>，拥有 620km 续航里程（CLTC）。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "印度向苹果发出最后通牒：再不配合，将单方面推进反垄断诉讼程序",
+    "link": "https://www.ithome.com/0/913/618.htm",
+    "date": "2026-01-15 21:43",
+    "summary": "<p>IT之家 1 月 15 日消息，据路透社报道，一份机密命令显示，印度已向苹果公司发出最后通牒：由于该公司一年多来一直拖延回应印度官方问询，且阻碍调查进程，印度将对这家美国科技巨头正式提起反垄断诉讼。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2025/10/3206d5a8-929f-4647-8bc5-519d6e2566dc.jpg?x-bce-process=image/format,f_auto\" /></p><p>此前印度调查发现，苹果公司在其 App Store 存在滥用市场地位的行为。苹果方面称，若印度竞争监管机构按其全球营业额计算罚款，公司恐将面临最高 380 亿美元（IT之家注：现汇率约合 2654.56 亿元人民币）的罚金。目前，苹果已就罚款计算规则向印度法院提起诉讼，相关案件仍在审理中。</p><p>尽管德里高等法院尚未就上述诉讼作出裁决，但印度竞争委员会（CCI）于去年 12 月 31 日下达的一份机密命令显示，苹果曾私下申请：在罚款规则争议案审结前，暂停反垄断调查的全部程序。这一请求已被印度竞争委员会驳回。</p><p>该监管机构表示，其于 2024 年 10 月要求苹果就调查结论提交异议，并提供通常用于评估罚款金额所需的财务细节，但此后苹果公司却多次申请延期提交材料。</p><p>印度竞争委员会的命令指出：“委员会经审慎考量认为，尽管已作出明确指令，但苹果一再拖延的行为，既破坏了程序规范，也阻碍了相关诉讼的及时审结。”命令还指出，“此类纵容不能无限期持续下去”，并向苹果发出最后警告：<strong>若下周前仍未收到回应，委员会将单方面推进反垄断诉讼程序</strong>。</p><p>苹果公司未就相关问询作出回应。</p><p>一位知情人士透露，苹果认为印度竞争委员会 12 月的这份命令，是在蓄意抢先于法院正在审理的相关案件作出行动；在法官于 1 月 27 日再次开庭审理前，苹果大概率不会对该命令作出回应。</p><p>自 2022 年起，社交软件 Tinder 的母公司 Match 集团及多家印度初创企业，便与苹果陷入反垄断纠纷。2024 年，调查人员发布报告指出，这家美国智能手机厂商在苹果 iOS 应用市场存在“滥用市场支配地位的行为”。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "雷军透露新一代小米 SU7 正努力赶进度，部分小米之家可能在春节前展出",
+    "link": "https://www.ithome.com/0/913/617.htm",
+    "date": "2026-01-15 21:35",
+    "summary": "<p>IT之家 1 月 15 日消息，小米创办人、董事长兼 CEO 雷军在今晚的直播中透露，新一代小米 SU7 正努力赶进度，<strong>部分小米之家可能在春节前展出</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/a9c61e99-7b64-4a68-8b81-0e7c7d5a8d60.png?x-bce-process=image/format,f_auto\" /></p><p>新一代小米 SU7 已于 1 月 7 日开启小订，预售价 22.99 万-30.99 万元，预计 2026 年 4 月上市。雷军今日早些时候还发文称，<a href=\"https://www.ithome.com/0/913/417.htm\" target=\"_blank\">新一代 SU7 已到最后阶段，将会在发布前提前安排展车到店</a>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/22aa962d-d9bd-45c7-b185-cf3a7c235447.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p>据IT之家今日早些时候报道，新一代 SU7 全系搭载小米 V6s Plus 超级电机，<a href=\"https://www.ithome.com/0/913/614.htm\" target=\"_blank\">雷军在今日的直播中介绍了该电机的四大技术升级</a>：</p><ul class=\" list-paddingleft-2\"><li><p>分段磁钢技术</p></li><li><p>电机转子拓扑优化</p></li><li><p>功率模块深度优化</p></li><li><p>主动润滑系统优化</p></li></ul><p>该电机的最高转速提升至 22000rpm，CLTC 综合效率提升 1.5%，标准版 / Pro 版功率提升 15kW，Max 版功率提升 13kW。在相同的电量下，续航里程可以提升十几公里。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/a4be9c04-e62d-4ae3-a3f8-662e2d6fba78.jpg?x-bce-process=image/format,f_auto\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "维基百科搞创收：与微软、Meta 等科技巨头签署 AI 内容训练协议",
+    "link": "https://www.ithome.com/0/913/616.htm",
+    "date": "2026-01-15 21:27",
+    "summary": "<p>IT之家 1 月 15 日消息，维基百科于当地时间周四宣布与微软、Meta、亚马逊等多家科技巨头达成合作。这标志着这家非营利机构在利用科技企业对其内容的依赖实现商业化创收方面，迈出了关键一步。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2025/11/49e3c3c3-5ece-4eb9-bb3b-fc680292d666.png?x-bce-process=image/format,f_auto\" /></p><p>运营这一在线百科全书的维基媒体基金会表示，过去一年里，除了此前已签约的 Meta 和亚马逊，基金会还与人工智能初创公司 Perplexity 以及法国的 Mistral AI 等企业签署了合作协议。</p><p>早在 2022 年，维基媒体基金会就已与 Alphabet 旗下的谷歌达成相关合作。</p><p>据IT之家了解，维基百科的内容对于人工智能模型训练至关重要，其涵盖 300 多种语言、总计 6500 万篇的词条，是科技巨头开发生成式人工智能聊天机器人及智能助手时，训练数据的关键组成部分。</p><p>然而，企业为开展人工智能训练，<strong>大规模抓取维基百科免费开放的知识内容，导致这家非营利机构的服务器需求激增</strong>，运营成本随之上涨。而该机构的主要收入来源，仅是公众的小额捐赠。</p><p>为此，维基媒体基金会一直在推动其企业版服务的普及。科技企业可通过付费方式，获取维基百科内容的训练使用权限，同时基金会会按照企业大规模训练的需求，提供定制化的数据服务。</p><p>维基媒体企业版总裁莱恩・贝克尔在接受路透社采访时表示：“维基百科是这些科技企业运营发展的关键一环，它们必须找到合适的方式，为维基百科提供资金支持。我们花了不少时间探索，要具备哪些恰当的功能与服务，才能推动这些企业从我们的免费平台迁移至商业服务平台…… 不过，我们所有的科技巨头合作伙伴都已明确意识到，它们有责任为维持维基百科的运营投入力量。”</p><p><strong>维基百科的内容由全球约 25 万名志愿编辑共同创作和维护</strong>，他们负责词条的撰写、编辑与事实核查工作。</p><p>微软公司副总裁蒂姆・弗兰克表示：“获取高质量、可靠的信息，是我们构想微软人工智能未来发展的核心出发点…… 通过与维基媒体基金会合作，我们正助力打造一个适用于人工智能互联网的可持续内容生态系统，让每一位内容贡献者的价值都得到重视。”</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "雷军谈新一代小米 SU7 汽车“752V、897V 碳化硅高压平台”：反小字营销，力求每个事情都准确",
+    "link": "https://www.ithome.com/0/913/615.htm",
+    "date": "2026-01-15 21:21",
+    "summary": "<p>IT之家 1 月 15 日消息，在今日（1 月 15 日）晚间的直播中，小米创办人、董事长兼 CEO 雷军又谈到了“小字营销”问题。</p><p>新一代小米 SU7 汽车的“碳化硅高压平台”都明确到了 752V、897V 等具体数字，没有叫 800V 或者 900V，雷军对此表示，<strong>现在小米反小字营销，力求每一个事情都准确</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/22218a36-a907-441e-bdae-976180e9815b.jpg?x-bce-process=image/format,f_auto\" /></p><p>雷军称以前的 350V 叫 400V 也是“<strong>行业陋习</strong>”，并问网友“你们能接受 600V 就叫 800V 吗”？</p><p>雷军还称：“以前大家都这么叫的，今天只要我一说就惨了。”雷军表示小米愿意接受更高标准的要求，不应该开玩笑，也不应该发牢骚，能用大字说明用大字说明、能写完整的写完整、能写准确的写准确，不要讲行业过去怎么说。</p><p>据IT之家此前报道，在 1 月 3 日晚的直播中，<a href=\"https://www.ithome.com/0/910/127.htm\" target=\"_blank\">雷军也曾谈到“小字营销”问题</a>。雷军当时称小字确实是行业陋习，在这一点上，小米从现在做起，立马整改。但是，如果发现了合规的一些做法就说虚假营销或者过度营销，这是对小米天大的误解。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "新一代 SU7 全系搭载小米 V6s Plus 超级电机，四大升级公布",
+    "link": "https://www.ithome.com/0/913/614.htm",
+    "date": "2026-01-15 21:21",
+    "summary": "<p>IT之家 1 月 15 日消息，新一代 SU7 全系搭载小米 V6s Plus 超级电机，小米创办人、董事长兼 CEO 雷军在今日的直播中介绍了该电机的四大技术升级：</p><ul class=\" list-paddingleft-2\"><li><p>分段磁钢技术</p></li><li><p>电机转子拓扑优化</p></li><li><p>功率模块深度优化</p></li><li><p>主动润滑系统优化</p></li></ul><p>IT之家注意到，该电机的最高转速提升至 22000rpm，CLTC 综合效率提升 1.5%，标准版 / Pro 版功率提升 15kW，Max 版功率提升 13kW。在相同的电量下，续航里程可以提升十几公里。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/e90a918f-dfc1-42f0-872c-5f7f8371c205.jpg?x-bce-process=image/format,f_auto\" /></p><p>据此前官方透露，该电机除了由“联电”和“汇川”共同供应外，后续还会引入由<strong>小米自研、自产</strong>的 V6s Plus 超级电机，以进一步提升生产效率，缩短交付周期。</p><p>新一代小米 SU7 已于 1 月 7 日开启小订，预售价 22.99 万-30.99 万元，预计 2026 年 4 月上市。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "小米新一代 SU7 官方深度爆料：9 款外饰色 + 5 款内饰色 + 6 款轮毂，预计今年 4 月上市",
+    "link": "https://www.ithome.com/0/913/613.htm",
+    "date": "2026-01-15 21:16",
+    "summary": "<p>IT之家 1 月 15 日消息，小米汽车官方刚刚发布了新一代 SU7 深度爆料，新车预计今年四月正式上市：</p><ul class=\"medium-size list-paddingleft-2\"><li><p>① 9 款外饰颜色：在保留小米汽车经典色的基础上，还有三款全新的专属配色。</p></li><li><p>② 5 款内饰颜色：除了暗夜黑、迷雾紫和暮光红之外，还有一款浅色和一款特殊的拼色设计。</p></li><li><p>③ 6 款轮毂可选： 1 款 19 英寸轮毂，3 款 20 英寸轮毂和 2 款 21 英寸轮毂可选。</p></li></ul><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/93b73ee3-8c16-4b62-b53a-2d2d4b8d2ef3.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/a4c7421b-9491-456f-bbe4-1fb2c2230eea.jpg?x-bce-process=image/format,f_auto\" /></p><p>目前，<a href=\"https://www.ithome.com/0/911/066.htm\" target=\"_blank\">新一代小米 SU7 已开启小订</a>，预售价 22.99 万-30.99 万元，预计 2026 年 4 月上市。相比现款车型，新车全系标配激光雷达、700TOPS 辅助驾驶算力、4D 毫米波雷达、Xiaomi HAD 端到端辅助驾驶，在智能辅助驾驶方面迎来明显升级。</p><p>据IT之家今日早些时候报道，小米创办人、董事长兼 CEO 雷军在微博发文称，<a href=\"https://www.ithome.com/0/913/417.htm\" target=\"_blank\">新一代 SU7 已到最后阶段，将会在发布前提前安排展车到店</a>，到时候大家可以到店体验。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/22aa962d-d9bd-45c7-b185-cf3a7c235447.jpg?x-bce-process=image/format,f_auto\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "不要助纣为虐：28 家倡导组织敦促苹果、谷歌下架马斯克的 Grok 和 X 应用",
+    "link": "https://www.ithome.com/0/913/612.htm",
+    "date": "2026-01-15 21:14",
+    "summary": "<p>IT之家 1 月 15 日消息，X 平台充斥着未经同意的色情深度伪造内容，此类内容公然违反苹果与谷歌的相关政策，但 X 平台及其所属 xAI 旗下的人工智能产品 Grok 仍未被两家应用商店下架。周三，由 28 家倡导组织（包括女性权益机构与科技监督机构）组成的联盟发布公开信，敦促苹果 CEO 蒂姆・库克与谷歌 CEO 桑达尔・皮查伊拿出魄力，将两款应用从应用商店中移除。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2025/7/5a808936-e658-4e06-8879-94df764bfee3.png?x-bce-process=image/format,f_auto\" /></p><blockquote><p>Grok 正被用于批量生成未经同意的私密图像（NCII），其中包含儿童性虐待素材（CSAM），这类内容不仅涉嫌违法犯罪，更直接违反《苹果应用审核指南》。鉴于 Grok 既以独立应用形式上架，又与 X 平台深度集成，我们呼吁苹果管理层立即下架这两款应用。</p></blockquote><p>据IT之家了解，该联盟成员包括女性权益组织 UltraViolet、美国全国妇女组织（National Organization for Women）、Women's March、MoveOn 以及“地球之友”（Friends of the Earth）。它们向谷歌发出了一封几乎完全相同的公开信。这些组织强烈谴责 X 平台上“大规模对女性及未成年人进行‘数字扒衣’的恶劣行径”，并表示自 Grok 发布起，民间社会团体就不断警示该工具存在造成此类伤害的潜在风险。</p><p>信中指出，X 平台曾作出限制，仅允许付费订阅用户使用 Grok 的图像生成与编辑功能。然而这种限制手段治标不治本，根本无法遏制“数字扒衣”行为，反而“无异于将 X 平台上的非法私密图像滥用行为变成牟利工具”。联盟谴责苹果与谷歌“不仅为非法私密图像和儿童性虐待素材的传播大开方便之门，更从中获利”。</p><p>这些公开信是“驱逐 Grok”行动的重要组成部分，同期 UltraViolet 组织还发起了“域名回收”运动（Reclaim the Domain campaign），旨在从更广泛层面打击未经授权的私密图像生成与传播行为。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "五菱星光 560 硬派 SUV 上市：燃油、插混、纯电多动力，补贴价 5.98 万元起",
+    "link": "https://www.ithome.com/0/913/610.htm",
+    "date": "2026-01-15 21:04",
+    "summary": "<p>IT之家 1 月 15 日消息，五菱<span>星光 560</span> 今晚上市，共推出四款车型配置：燃油 1.5T 6MT 舒适型、燃油 1.5T CVT 精英型、插混 125km 豪华型、纯电 500km 豪华型，<strong><span>置换补贴</span>价为 5.98 万元-9.58 万元</strong>，原上市指导价为 6.28 万元-9.88 万元。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/6dab0125-b53a-402d-ad49-afb382339faa.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，星光 560 采用全新<span> X 家族设计语言</span>，X 型面与灯语融合贯穿车身，提供星际蓝、烟霞灰、银霜白、耀石黑四款质感车色，搭配实可扩展功能的车顶行李架。星光 560 长宽高为 4745*1850*1755mm，2810mm 超长轴距，3202mm 内部有效车长，拥有同级最大的 83%“得房率”，<strong>是 6 万级唯一的中型 SUV</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/c906cf39-4ef3-4ff9-b598-1f9308d0d54a.png?x-bce-process=image/format,f_auto\" /></p><p>此外，该车的前排座椅可 180° 放平秒变躺椅，后排靠背最大调节至 125°。行业独创的 32L 隐藏式储物槽与最大可扩展至 1945L 的“巨无霸”后备厢，足以轻松容纳行李、货物或各类露营装备。</p><p>动力方面，<strong>星光 560 提供燃油、插混、纯电三种选择</strong>，全面覆盖不同使用场景：燃油版搭载 6 万级最强 1.5T 发动机，至高扭矩达 290N·m；插混版具备同级唯一的 1100km 综合续航，亏电油耗仅 5.3L/100km；纯电版拥有 500km 超长续航（CLTC），电耗低至 13.1kWh/100km，支持 2C 快充。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/af227aec-29f6-4167-9043-964829141831.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/6174a6a6-e322-4736-b49f-e6c4372ab03b.jpg?x-bce-process=image/format,f_auto\" /></p><p>安全方面，星光 560 采用六环高强钢笼式车身，高强钢占比达 74.9%，关键部位使用<span> 1500MPa 热成型钢</span>。电池安全方面，<strong>搭载提前满足新国标的<span>神炼电池</span></strong>，并历经 300 万新能源销量零自燃验证。主动安全上，新车配备远近光双透镜智能大灯，照射宽度达 140°，远光距离超 190 米，并全系标配转向辅助照明。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "全新一汽奥迪 A6L 全球首秀：华为乾崑智驾系统、提供 V6 动力，今年上市",
+    "link": "https://www.ithome.com/0/913/608.htm",
+    "date": "2026-01-15 20:56",
+    "summary": "<p>IT之家 1 月 15 日消息，在今晚的一汽奥迪千万用户盛典上，全新奥迪 A6L 全球首秀，新车延续家族标志性的“大嘴”格栅设计，轴距相比在售车型有所增加，提供 V6 动力、<strong>搭载华为乾崑智驾系统</strong>，将于今年上市。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/8832c30c-5993-43f8-9299-9309e595ffdc.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: left;\">据介绍，引入华为乾崑智驾的一汽奥迪 A6L <strong>配备两颗激光雷达</strong>，可实现高速路、城市快速路及城区道路的全场景辅助驾驶，且针对中国复杂路况进行专项调校，并支持跨层记忆泊车、空余车位推荐、120 米循迹倒车、远程泊车、窄道窄巷倒车等功能。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/9b9822eb-c65e-4f4c-9cca-1d7db3318dd4.png?x-bce-process=image/format,f_auto\" /></p><p>新一代奥迪 A6L <strong>可选 2.0T 高 / 低功率发动机以及 3.0T 发动机</strong>，其中 2.0T 高功率发动机最大功率 200 千瓦，2.0T 低功率发动机最大功率 150 千瓦。此外，3.0T 发动机最大功率为 270 千瓦。一汽奥迪官方介绍称，奥迪 A6L 在中国市场累计销量已突破 300 万辆。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/68dc53ff-7309-4d39-97df-17a1b670fc7b.png?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，2025 年 10 月，全新一汽奥迪 A6L 登陆工信部第 400 批《道路机动车辆生产企业及产品公告》新产品公示。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2025/10/12dbbc90-c765-4751-a2aa-8237a70764e5.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2025/10/9cf56695-53de-4490-a754-863afefab728.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p>从申报图可以看到，新车的外观设计大变，前脸格栅类似“六边形”设计，内部为 Y 造型填充，两侧 LED 大灯较为修长，车身侧面则配备半隐藏式门把手。尾部方面，新车采用了分体式尾灯设计，尾部下方同样采用 Y 造型填充。</p><p>申报信息显示，新车长宽高分别为 5142*1874（1887）*1450（1464）mm，轴距达到 3066mm，轴距相比 2025 款增加 42mm。动力方面，该车搭载 DXG 发动机，最大功率 200kW。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2025/10/a1cdd3e4-b407-4ab3-97b3-68f956cc818d.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "售价 12.79 万元起、外观黑化，捷途旅行者 / 自由者黑武士上市",
+    "link": "https://www.ithome.com/0/913/606.htm",
+    "date": "2026-01-15 20:54",
+    "summary": "<p>IT之家 1 月 15 日消息，捷途旅行者黑武士版和捷途自由者黑武士版上市，两款车型均采用独特的“黑化”外观风格。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/cd62fa19-a31c-406c-b646-49dc83b17fbc.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/628aedcc-1c18-46fe-8078-ec18587864a7.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/204fbaf1-297e-4828-9fdf-868dcefcf1e4.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/4d19a8ea-d643-44c4-abac-d73b7ba186fa.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>捷途旅行者黑武士</figcaption><p>据IT之家了解，捷途旅行者黑武士版共推出 3 款车型，指导价区间为 15.29 万至 17.29 万元。该车型基于在售的捷途旅行者打造，整体外观采用方盒子风格，全车黑化处理，包括黑色车身、黑色前格栅、黑色外后视镜壳、黑色轮眉和黑色轮辋等。尺寸方面，捷途旅行者黑武士版的长宽高分别为 4795 毫米、2006 毫米和 1870（1880）毫米，轴距为 2800 毫米，与在售车型保持一致。车尾部分，新车采用侧开式尾门和后挂式备胎设计。</p><p>动力配置上，捷途旅行者黑武士版提供 1.5T 和 2.0T 两种发动机选择，最大功率分别为 135 千瓦和 187 千瓦，传动系统匹配 7 挡湿式双离合变速箱。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/5ecc72dd-59c7-44b6-8910-85f23f6e0409.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/13c1dcd0-93fe-48b4-a01b-1e33f1b41709.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/e501efa8-1436-4188-a263-114d6c8dee5a.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>捷途自由者黑武士</figcaption><p>捷途自由者黑武士版共推出 2 款车型，指导价分别为 12.79 万元和 13.79 万元。该车型同样采用了“黑化”外观风格，配备黑色车顶行李架、黑色轮眉和黑色车窗装饰条，展现出强烈的运动气息。尺寸方面，捷途自由者黑武士版的长宽高分别为 4706 毫米、1967 毫米和 1845 毫米，轴距为 2810 毫米，与在售车型保持一致。此外，新车还提供 18 英寸和 19 英寸轮辋供消费者选择。</p><p>动力方面，捷途自由者黑武士版搭载 1.5T 发动机，最大功率为 135 千瓦，最大扭矩为 290 牛 · 米，传动系统匹配 7 挡湿式双离合变速箱。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "新一代小米 SU7 外观车色公布：可选 9 种，包含 3 种新颜色",
+    "link": "https://www.ithome.com/0/913/605.htm",
+    "date": "2026-01-15 20:53",
+    "summary": "<p>IT之家 1 月 15 日消息，在今日（1 月 15 日）晚间的直播中，小米创办人、董事长兼 CEO 雷军公布了<strong>新一代小米 SU7 的外观车色</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/ed046216-f34b-44ce-9f01-e390c5f469ef.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家从直播获悉，新一代小米 SU7 可选 9 种外观车色，其中包括 <strong>3 种专属新颜色</strong>、4 种 SU7 经典色，以及小米 SU7 Ultra 同款曜石黑、YU7 同款流金粉。</p><p>雷军表示，目前已有部分卡布里蓝外观的新一代小米 SU7 已开始路测，没有进行伪装，主要是为了测试的完整性。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/1d7ad09c-d7ae-4741-93b4-16113a450256.jpg?x-bce-process=image/format,f_auto\" /></p><p>对于部分网友质疑的“卡布里蓝车色和照片不符”，雷军解释称<strong>车漆在不同的光线下展现的颜色不完全一样</strong>，有时候也挺为难设计师的，把颜色找准其实很难。</p><p>雷军还透露，新一代小米 SU7 本来要做 10 种车漆，但有一种大家选得很少，就把它淘汰了。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "华硕停产英伟达 GeForce RTX 5070 Ti 16GB / 5060 Ti 16GB 显卡",
+    "link": "https://www.ithome.com/0/913/604.htm",
+    "date": "2026-01-15 20:53",
+    "summary": "<p>IT之家 1 月 15 日消息，根据澳大利亚油管硬件科技频道 Hardware Unboxed 从华硕 (ASUS) 处获得的消息，<strong>这家零售端最大的英伟达 AIC 合作伙伴已将 GeForce RTX 5070 Ti 16GB 和 GeForce RTX 5060 Ti 16GB 列为 EOL 状态</strong>。</p><p>IT之家了解到，华硕的 GPU 部门已停止生产这两款型号，现有产品即是全部库存，企业正将重心转移到其它预计还能继续生产的型号上。</p><p>该媒体表示目前已无法从 AIC 或者分销商的渠道采购到 RTX 5070 Ti 16GB，澳大利亚本地零售商也认为至少在今年一季度该显卡会持续处于无货状态；对于 RTX 5060 Ti 16GB 而言，零售商在采购上也持续面临严重困难。</p><p>总而言之，<strong>英伟达至少在当下基本“砍掉”了 GeForce RTX 5070 Ti 16GB</strong>，<strong>GeForce RTX 5060 Ti 16GB 的供应水平也降低到了实质停产的级别</strong>。</p><p>此外，Hardware Unboxed 表示零售商向其报告称 GeForce RTX 5070 12GB 的供货也有所减少，而 GeForce RTX 5060 8GB 与 GeForce RTX 5060 Ti 8GB 尚能采购到较为合理的数量。</p><p><strong>与供应短缺一道出现的是涨价</strong>，零售商预计供应“相对正常”的 GeForce RTX 5060 系列显卡即将涨价约两成。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/ee884654-b3ea-4e5f-8f36-70c277455159.jpg?x-bce-process=image/format,f_auto\" /></p><p>另据港媒 HKEPC 从 AIC 渠道获取的消息，英伟达目前在 GeForce 显卡的供应上采取“等量显存，等级高者优先；相同等级，显存少者优先”的策略，<strong>因此 GeForce RTX 5080 16GB、GeForce RTX 5060 Ti 8GB 在类似配置产品中处于</strong><strong>有利的</strong><strong>供应地位</strong>。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "国补焕新价 13.49 万元起、可拆卸顶棚，北京越野 BJ40 探险家上市",
+    "link": "https://www.ithome.com/0/913/603.htm",
+    "date": "2026-01-15 20:45",
+    "summary": "<p>IT之家 1 月 15 日消息，北京越野 BJ40 探险家已上市，共推出 2 款车型，包括汽油版和柴油版，售价区间为 14.99-15.99 万元。在享受国家补贴后，焕新价为 13.49-14.49 万元。作为新增版本，新车在外观设计上基本延续了现款车型的经典风格，主要在细节和部分配置上进行了优化升级。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/7d971c45-f0ef-43d4-af8e-06a59edb7bda.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/638b0d6f-5127-4801-a335-54ad422aec3b.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，为回馈消费者，官方推出了六重购车礼。1、越享礼：赠送拖车包（含牵引资质、拖车方口和拖车取电口）；2、娱乐礼：基础流量及 OTA 升级终身免费；娱乐流量 3 年不限量、不限流；3、致敬礼：3 月 31 日前，现 / 退役军人、警察、消防员等及其直系亲属购车享补贴 3000 元；4、质保礼：首任非营运车主享整车 3 年 / 10 万公里质保；5、保养礼：首任非营运车主享首次基础保养免费；6、救援礼：首任非营运车主享 3 年免费道路救援服务。</p><p>外观方面，BJ40 探险家延续了经典的五孔式前格栅设计，两侧大灯组与亮黑色中网相连，形成一体式造型。前包围采用具有较强越野属性的设计，并配备红色前拖车钩和矩形 LED 灯组。车身侧面采用四门结构，搭配可拆卸顶棚，配备宽大的外扩轮眉、17 英寸轮圈和 265/65 R17 规格的 AT 越野轮胎。车身尺寸为 4630/1925/1871mm，轴距为 2745mm，采用非承载式车身结构。车尾部分配备高位刹车灯、后窗雨刷器、外挂式备胎和侧开式后备厢门，两侧尾灯为矩形设计，后包围配备红色拖车钩，具备原厂拖拽资质。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/4c173d48-e9bf-45e0-87f9-720691ed0d5f.jpg?x-bce-process=image/format,f_auto\" /></p><p>内饰方面，BJ40 探险家标配 12.3 英寸全液晶仪表和三辐式多功能方向盘，中控配备 15.6 英寸多媒体触控屏，搭载 8155 车机芯片。中控台采用显眼的越野化设计，配备副驾前方横置扶手和银色机械按键，同时配备电子换挡机构和电子手刹。配置上，新车标配主驾座椅 10 向电动调节、前排座椅通风加热、后排座椅角度可调及 4/6 放倒功能。导航系统采用高德导航，支持北斗 &amp; GPS 双模定位，并配备语音控制和手机终端互联功能。安全配置包括泊车雷达、防侧翻控制系统、上坡辅助和陡坡缓降等。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/cbe7f8ef-2adc-4082-83e0-230ecdb910d7.jpg?x-bce-process=image/format,f_auto\" /></p><p>越野配置方面，新车标配 AT 轮胎、后桥电控差速锁，可选前桥电控差速锁，配备 ATS 全地形控制系统（4 种模式）。柴油版车型还标配底部金属护板。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/573b3086-9892-41a9-bbf7-2be63d106a71.jpg?x-bce-process=image/format,f_auto\" /></p><p>动力方面，BJ40 探险家提供汽油版和柴油版两种选择。汽油版搭载 2.0T 涡轮增压四缸发动机，最大功率 165 千瓦，最大扭矩 380 牛 · 米；柴油版搭载 2.0T 发动机，最大功率 120 千瓦，最大扭矩 380 牛 · 米。传动系统均匹配 8 速自动变速箱和分时四驱系统。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "新一代小米 SU7 轮毂设计公布，共有 6 款可选",
+    "link": "https://www.ithome.com/0/913/602.htm",
+    "date": "2026-01-15 20:43",
+    "summary": "<p>IT之家 1 月 15 日消息，小米创办人、董事长兼 CEO 雷军今日再次举行直播，刚刚介绍了新一代小米 SU7 的轮毂设计，共有 6 款可选：</p><ul class=\" list-paddingleft-2\"><li><p>19 英寸：钻石轮毂（新）</p></li><li><p>20 英寸：锋刃轮毂（新）、梅花轮毂、米型轮毂</p></li><li><p>21 英寸：运动轮毂、双层锻造梅花轮毂（新）</p></li></ul><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/e8f30fa7-f152-4aca-a1e3-21826c107c36.jpg?x-bce-process=image/format,f_auto\" /></p><p>目前，<a href=\"https://www.ithome.com/0/911/066.htm\" target=\"_blank\">新一代小米 SU7 已开启小订</a>，预售价 22.99 万-30.99 万元，<strong>预计 2026 年 4 月上市</strong>。相比现款车型，新车全系标配激光雷达、700TOPS 辅助驾驶算力、4D 毫米波雷达、Xiaomi HAD 端到端辅助驾驶，在智能辅助驾驶方面迎来明显升级。</p><p style=\"text-align: left;\">标准版、Pro 版车型基于 752V 碳化硅高压平台打造，Pro 版的 CLTC 工况续航更是达到 902km；Max 版则是基于 897V 碳化硅高压平台打造，在常温环境下，借助自营充电桩实测可得：充电 15 分钟，最快补充 670km CLTC 续航。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/03c3b8af-9df6-427e-9c9b-5167732a728b.png?x-bce-process=image/format,f_auto\" /></p><p>新车全系标配 V6s Plus 超级电机、前四活塞固定卡钳、后宽胎（前 245mm、后 265mm）；Pro 及 Max 版则搭载闭式双腔空气弹簧系统、CDC 阻尼可变减振器。</p><p style=\"text-align: left;\">关于新一代小米 SU7 的更多消息，IT之家稍后带来。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "石头 G30S Pro 扫地机器人 1 月 20 日上市，越障高度突破 8.8cm",
+    "link": "https://www.ithome.com/0/913/601.htm",
+    "date": "2026-01-15 20:35",
+    "summary": "<p>IT之家 1 月 15 日消息，石头科技宣布 G30S Pro 扫地机器人将于 1 月 20 日上市，支持底盘升降 3.0、创新 AI 轮足系统，越障高度突破 8.8cm，轻松翻越滑轨、台阶。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/ec08d3fb-904f-49a7-84de-6b9d7a7a4e2b.png?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，<a href=\"https://www.ithome.com/0/823/216.htm\" target=\"_blank\">目前在售的石头 G30 扫地机器人于 2025 年 1 月 8 日发布</a>，支持三线结构光避障、行业首创底盘升降，<strong>售价 5499 元起</strong>。</p><p>作为参考，石头 G30 扫地机器人吸力约 2.2 万 Pa，机身厚度约 7.98cm，支持 LDS 升起（全方位无遗漏扫描）、LDS 降下（开启机身大视窗监测）。石头 G30 扫拖机器人支持三线结构光避障、竖线激光沿边感知，提供数据线贴边不卷线、桌椅腿绕柱扫免碰撞功能。</p><p>石头 G30 还行业首创底盘升降，行走轮和万向轮可抬升（约 4cm），推拉门滑轨可越过、下沉地面可爬升、中长毛地毯场景可整机抬升 / 拖布拆卸。</p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\"></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "苹果采用谷歌 Gemini 赋能 Siri，双方合作内幕曝光",
+    "link": "https://www.ithome.com/0/913/600.htm",
+    "date": "2026-01-15 20:32",
+    "summary": "<p>IT之家 1 月 15 日消息，据英国《金融时报》报道，苹果公司并未参与这场耗资巨大的人工智能模型及基础设施建设竞赛。这家 iPhone 制造商反而在一众试图主导这一新兴行业的科技竞争对手中，成了潜在的“造王者”。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/9b7cffa2-6260-4209-b194-3997d7645dc7.jpg?x-bce-process=image/format,f_auto\" /></p><p>本周，这家硅谷科技巨头宣布了其迄今为止在人工智能领域最具深远意义的举措，其达成一项合作协议，将采用谷歌的 Gemini 模型为 iPhone 的功能提供技术支持，并改进其 Siri 语音助手。</p><p>一位知情人士透露，这项合作将以云计算合同的形式构建，随着时间的推移，苹果可能会向谷歌支付数十亿美元的费用。</p><p>这一新联盟的形成对 OpenAI 而言是一记重击。自 2024 年起，OpenAI 就一直在将 ChatGPT 与面向移动设备的“Apple Intelligence”功能进行整合，希望通过这一合作关系，让这家初创企业触达数百万 iPhone 用户。不过苹果方面表示，与谷歌的这项合作不会影响现有的 ChatGPT 整合。</p><p>深水资产管理公司的吉恩 · 芒斯特表示：“我认为 ChatGPT 的整合项目将会夭折…… 考虑到规模经济效应，同时采用两款大型模型对苹果来说并没有太大意义。”他预估，这份 Gemini 合作合同可能会为谷歌带来 50 亿美元（IT之家注：现汇率约合 349.28 亿元人民币）的收入。</p><p>芒斯特补充道，OpenAI 一直致力于打造能与 iPhone 相抗衡的人工智能产品，这一野心或许影响了苹果与谷歌结盟的决策。</p><p>他说：“这其中存在一定的政治因素。去年 5 月，苹果前顶级设计师乔尼 · 艾维被 OpenAI 聘用参与硬件设备研发时，局势就发生了转变。”</p><p>尽管苹果首席执行官蒂姆 · 库克曾在 10 月承诺，将“大幅”增加这家科技巨头在人工智能领域的总体投资，但与谷歌的这笔交易，恰恰体现了苹果在人工智能投入上的审慎态度。</p><p>过去五年，苹果在实体基础设施上的投入一直维持在营收的 3% 左右。相比之下，自 2022 年 ChatGPT 问世以来，谷歌、微软、亚马逊和 Meta 已承诺投入数千亿美元用于建设新一代人工智能数据中心。</p><p>苹果 2025 财年在不动产、厂房及设备上的支出为 127 亿美元，而谷歌预计在本财年的相关支出约为 900 亿美元。</p><p>苹果押注 Gemini 的这一举措，让人联想到二十年前的一项合作，当时谷歌搜索引擎成为苹果设备的默认搜索引擎，作为回报，谷歌将部分广告收入分给苹果。如今，这项合作每年能为苹果带来约 200 亿美元（现汇率约合 1397.14 亿元人民币）的收入。</p><p>一位了解苹果决策内情的人士表示，苹果之所以选择 Gemini，是因为谷歌在模型性能上已经缩小了与 OpenAI 的差距，此外苹果也需要一个拥有成熟大规模企业合作经验的合作伙伴。</p><p>OpenAI 方面拒绝置评，但一位接近该公司的人士透露，去年秋天，OpenAI 已“审慎决定不担任苹果的定制模型供应商”，转而专注于打造自有人工智能设备，以期实现对大型科技公司的超越。</p><p>该人士补充道：“这是两家老牌企业的强强联手，对双方而言都是合理的选择。”</p><p>苹果在人工智能领域的投入不足一直让部分投资者忧心忡忡。他们担心苹果面临被行业淘汰的风险，尽管苹果曾高调宣布对 Siri 进行人工智能全面升级，但其早期推出的人工智能功能不仅遭遇延期，还频频出现故障。</p><p>与此同时，另有市场观察人士对人工智能领域因过度投资计算基础设施而形成的“泡沫”发出警告。不过，随着 iPhone 17 的强劲发售以及美国关税风险的缓解，过去 12 个月里苹果的股价已经上涨逾 12%。</p><p>这家总部位于美国加州库比蒂诺的公司，在同行中还有一个与众不同之处：其大部分云基础设施都来自第三方供应商。但苹果目前正在打造自有“私有云计算”基础设施，以确保安全处理用户的人工智能相关查询请求。</p><p>苹果此前曾自主研发人工智能模型，但错过了谷歌等企业多年来持续投入的早期密集研发阶段。目前，苹果的研发重心放在构建用途相对专一的小型人工智能模型上，例如可在设备本地运行、能对文本进行阅读和总结的模型。</p><p>过去三年，苹果的研发支出一直稳定在营收的 8% 左右，但该公司正面临人才流失的困境，不少顶尖人工智能人才被竞争对手以高薪挖走。其中就包括苹果基础模型团队负责人庞若明，以及资深研究员汤姆 · 冈特和马克 · 李，这三人均已跳槽至 Meta。</p><p>苹果一位前高管表示，这家科技巨头“需要在人工智能领域拿出更多成果，以满足华尔街和消费者的期待”。他还指出，与谷歌的这项合作，是“苹果不选择像竞争对手那样大举押注人工智能的必然结果”。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "全新奥迪 Q5L B 级豪华燃油 SUV 上市：搭载华为乾崑定制智驾，30.98 万元起",
+    "link": "https://www.ithome.com/0/913/599.htm",
+    "date": "2026-01-15 20:32",
+    "summary": "<p>IT之家 1 月 15 日消息，全新奥迪 Q5L B 级豪华燃油 SUV 今晚正式上市，新车搭载华为乾崑定制智驾，<strong>30.98 万元起</strong>。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" contenteditable=\"false\" href=\"https://weibo.com/1841218153/Qngi4bIPt\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/efc87154-a912-42c5-93bf-bb10ac85825e.jpg?x-bce-process=image/format,f_auto\" /></a></p><ul class=\"medium-size list-paddingleft-2\"><li><p><strong>智混豪华型：309,800 元</strong></p></li><li><p><strong>千万用户专享型：332,800 元</strong></p></li><li><p><strong>智混尊享型：362,800 元</strong></p></li><li><p><strong>智混旗舰型：384,800 元</strong></p></li></ul><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/ab6e76e8-f6a1-42ec-af16-663991d2ab84.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/e943cf7b-dea7-4428-9cd1-c4f87c0307f4.jpg?x-bce-process=image/format,f_auto\" /></p><p>据IT之家此前报道，该车前脸采用大尺寸蜂窝格栅设计，前包围两侧的饰板内部嵌入矩形镜面装置，预计配备有激光雷达，用于驾驶辅助系统。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/a8450b44-51c8-4014-8993-9dec7a396a62.jpg?x-bce-process=image/format,f_auto\" /></p><p>车辆同时配备可发光四环车标；车身提供半隐藏式门把手；车尾采用贯穿式 OLED 尾灯组，同时设有代表四驱系统的 quattro 等标识，提供传奇黑、青城绿、茉莉白、曼达洛银和卡其棕等外观配色，以及黑色、黑色 + 米色、黑色 + 棕色、黑色 + 赤陶红四种内饰配色。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/24a461bc-9c0a-4d57-bde5-7b7642bd91da.jpg?x-bce-process=image/format,f_auto\" /></p><p>配置方面，新车针对中国市场专属加长的轴距可达 2945mm，全系标配 HDI 双电机全域智混，高配版将带来前排座椅通风 / 加热 / 按摩、B&amp;O 音响系统，部分车型还将配备双激光雷达 + 视觉融合感知方案的华为乾崑智能辅助驾驶系统。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/a751e47a-7375-4c2b-92ea-e40b46f17ab5.jpg?x-bce-process=image/format,f_auto\" /></p><p>工信部信息显示，该车长宽高分别为 4842×1900×1660（1640）毫米、轴距 2945 毫米。车辆搭载第五代 EA888 2.0 升直列四缸涡轮增压发动机，最大功率 150kW 或 200kW，匹配 7 速湿式双离合变速箱以及 quattro 四轮驱动系统。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/d2bf20b8-772a-4ab1-9a3d-a327df45358e.jpg?x-bce-process=image/format,f_auto\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "雷军宣布小米 YU7 汽车推出“7 年低息”政策，限时全系赠送双零重力座椅",
+    "link": "https://www.ithome.com/0/913/598.htm",
+    "date": "2026-01-15 20:26",
+    "summary": "<p>IT之家 1 月 15 日消息，在今日（1 月 15 日）晚间的直播中，小米创办人、董事长兼 CEO 雷军宣布小米 YU7 推出“<strong>7 年低息</strong>”政策。</p><p>2026 年 1 月 16 日 0 点起，到 2026 年 2 月 28 日（含）前下定，即可享受该政策，<strong>首付 4.99 万元起，月供低至 2593 元起</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/9ab205be-ef08-4f33-a309-8d2049402538.jpg?x-bce-process=image/format,f_auto\" /></p><p>雷军表示，<strong>特斯拉最近推出了“7 年低息”的金融政策</strong>，这个政策一出来以后，不少网友在他的微博下面留言，呼吁小米推出“7 年低息”，这几天小米汽车团队紧急研究了一下，然后也紧急推出一个“7 年低息”的政策。</p><p>IT之家从直播获悉，该时间段内，<strong>小米 YU7 限时全系赠送双零重力座椅</strong>：</p><ul class=\" list-paddingleft-2\"><li><p>新用户锁单即可获赠；</p></li><li><p>已锁单未交付的用户，可提前支付 1000 元尾款获赠。</p></li></ul><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/c10dd7b9-9519-4261-b704-bb14af2a4048.jpg?x-bce-process=image/format,f_auto\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "小米汽车宣布 SU7 拿下 20 万以上轿车 2025 年全年销量第一，YU7 连续 5 月获中大型 SUV 销量第一",
+    "link": "https://www.ithome.com/0/913/597.htm",
+    "date": "2026-01-15 20:16",
+    "summary": "<p>IT之家 1 月 15 日消息，小米汽车官方刚刚汇报：根据汽车之家销量榜，<strong>小米 SU7，是 20 万以上轿车，2025 年全年的销量第一</strong>。小米 YU7，上市 6 个月，<strong>连续 5 个月获得中大型 SUV 的销量第一</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/fd285e76-aecd-476a-bc90-8f2c66a899ca.jpg?x-bce-process=image/format,f_auto\" /></p><p>据IT之家今日早些时候报道，小米创办人、董事长兼 CEO 雷军在微博发文称，新一代 SU7 已到最后阶段，将会在发布前提前安排展车到店，到时候大家可以到店体验。</p><p>目前，<a href=\"https://www.ithome.com/0/911/066.htm\" target=\"_blank\">新一代小米 SU7 已开启小订</a>，预售价 22.99 万-30.99 万元，预计 2026 年 4 月上市。相比现款车型，新车全系标配激光雷达、700TOPS 辅助驾驶算力、4D 毫米波雷达、Xiaomi HAD 端到端辅助驾驶，在智能辅助驾驶方面迎来明显升级。</p><p style=\"text-align: left;\">标准版、Pro 版车型基于 752V 碳化硅高压平台打造，Pro 版的 CLTC 工况续航更是达到 902km；Max 版则是基于 897V 碳化硅高压平台打造，在常温环境下，借助自营充电桩实测可得：充电 15 分钟，最快补充 670km CLTC 续航。</p><p>新车全系标配 V6s Plus 超级电机、前四活塞固定卡钳、后宽胎（前 245mm、后 265mm）；Pro 及 Max 版则搭载闭式双腔空气弹簧系统、CDC 阻尼可变减振器。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/23ce9d28-2ffc-4a94-9fa6-c52eb332bc41.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "英伟达投资初创公司 Harmonic，后者专注开发解决数学问题的 AI 系统",
+    "link": "https://www.ithome.com/0/913/596.htm",
+    "date": "2026-01-15 20:16",
+    "summary": "<p>IT之家 1 月 15 日消息，据 AXIOS 网站报道，芯片制造商英伟达（Nvidia）加入了投资初创公司 Harmonic 的投资者行列，该公司专注于开发用于解决数学问题的人工智能系统。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/e249064a-e310-4f3c-89bf-11d666087ea6.png?x-bce-process=image/format,f_auto\" /></p><p>大型语言模型在数学竞赛中的表现日益出色，但哈莫尼科表示，能够对运算结果进行形式化验证的人工智能系统仍存在巨大市场空间。</p><p>Harmonic 透露，英伟达参与了该公司的 C 轮融资，此轮融资金额达 1.2 亿美元，公司估值因此升至 14.5 亿美元。</p><p>除现有投资方瑞比特资本（Ribbit Capital）、红杉资本（Sequoia Capital）、指数创投（Index Ventures）和凯鹏华盈（Kleiner Perkins）外，爱默生集团（Emerson Collective）也以新投资者的身份入局。</p><p>Harmonic 称，其名为“亚里士多德”（Aristotle）的模型不仅能攻克数学难题，在代码编写和芯片设计领域也展现出应用潜力。</p><p>Harmonic 首席执行官图多尔・阿基姆在发给 Axios 的声明中表示：“英伟达的支持将助力我们提升‘亚里士多德’的性能，加快数学领域的探索步伐，并推动各行业借助数学人工智能的力量，解决关键且高风险的难题。”</p><p>该公司计划将部分融资用于扩充团队规模，员工数量将从目前的不足 30 人增加至 50 到 75 人，不过大部分资金将用于支付所需的算力资源费用。</p><p>大型语言模型的工作原理是预测下一个 token ，而非基于一套基础公理进行运算。相比之下，Harmonic 的技术方案不仅能解决问题，还能以可验证的方式呈现完整的推理过程。</p><p>据IT之家了解，Harmonic 于 2024 年成立，创始投资人包括美国在线券商 Robinhood 首席执行官弗拉德・特内夫。特内夫在一份声明中表示：“我们预见未来的图景 —— 绝大多数软硬件都将由人工智能生成并经过形式化验证，而我们的征程才刚刚起步。”</p><p>Harmonic 的应用程序编程接口（API）目前仍处于免费测试阶段。该公司表示，暂未确定“亚里士多德”的收费模式与付费上线时间。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "华为 WATCH GT 6 Pro 智能手表开启限时优惠：购机减 300 元，2188 元起",
+    "link": "https://www.ithome.com/0/913/595.htm",
+    "date": "2026-01-15 20:11",
+    "summary": "<p>IT之家 1 月 15 日消息，华为终端官方今日宣布，华为 WATCH GT 6 Pro 智能手表获《时代周刊》2025 年度最佳发明，即日起至 2026 年 2 月 28 日，<strong>购机立享 300 元优惠</strong>，售价 2188 元起。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/6aa4c023-315d-4f3a-ad4c-6ec4baec32ac.jpg?x-bce-process=image/format,f_auto\" /></p><h3>HUAWEI WATCH GT 6 Pro 46mm</h3><ul class=\"medium-size list-paddingleft-2\"><li><p>曜石黑 / 氟橡胶表带：定价 2488 元；优惠价 2188 元</p></li><li><p>琥珀棕 / 复合编织表带：定价 2988 元；优惠价 2688 元</p></li><li><p>钛空银 / 钛金属表带：定价 3388 元；优惠价 3088 元</p></li></ul><dir><a contenteditable=\"false\" href=\"https://u.jd.com/ErSuHMb\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/328564/22/23611/55235/68d3a10aFee93a011/4dfeb582a746253f.jpg\" /></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> HUAWEI WATCH GT 6 Pro</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">2188 元起</span><span class=\"card-btn-deep\">领 150 元券</span></span></span></span></a></dir><p>据介绍，HUAWEI WATCH GT 6 Pro 仅有 46mm 款，配备 1.47 英寸屏幕，面积比上一代大 5.5%，全系列峰值亮度达 3000 尼特，户外显示更清晰。相比普通版本，Pro 版用料更高端，采用蓝宝石玻璃、航空级钛合金和纳米微晶陶瓷后盖，提供棕色、钛色和黑色款，续航同样可达 21 天。</p><p>全系机型搭载全新的向日葵定位系统，官方称可提供更可靠的配速、距离和海拔数据。四种户外运动模式（骑行、越野跑、高尔夫、滑雪）也得到增强，并新增虚拟功率计功能。搭载全新高量程 IMU 传感器，手表能自动检测意外跌倒，并提示是否需要求助；如有需要，将通过蓝牙与手机连接，手表替你拨打急救电话或通知紧急联系人。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/9/82ec2acf-e591-4569-b45e-2d65dd3a33e4.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/9/7691402a-9a6f-401d-8daf-286ff7395d05.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/9/f0c066d8-dc6b-4183-9942-6b2abebdc5cd.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/9/ae3db36b-74da-4bee-8c02-2f9adc54358e.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/9/5be25dfa-3cea-4fa1-8dcd-45c39991868e.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/9/9568f45f-c423-4b98-b7f0-21815c39cfa6.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/9/26f9dddc-4118-48b4-b680-547a6301faeb.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/9/83eb429b-47be-43fd-b27d-97eac786f3c8.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/9/8b9a06bb-2544-4127-9cea-1bfd92debf7c.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/9/caf3e57b-b1cb-4281-ab6e-81b8528c4b59.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/9/24f96900-a97b-404d-ad49-ad703a9a30d3.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p style=\"text-align: left;\">HUAWEI WATCH GT 6 Pro 智能手表还支持支付宝碰一碰支付、腕上星闪车钥匙、蓝牙接打手机电话、手表实况窗、交通卡、音乐播放、第三方 App 安装使用等。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/9/aba34adb-140f-4ad5-b171-eab8adbc7a78.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p>IT之家附华为 WATCH GT 6 Pro 智能手表核心亮点如下：</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/9/64dca853-ad64-4fcc-b5b6-018cb310f708.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/ErSuHMb\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/328564/22/23611/55235/68d3a10aFee93a011/4dfeb582a746253f.jpg\" /></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> HUAWEI WATCH GT 6 Pro</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">2188 元起</span><span class=\"card-btn-deep\">领 150 元券</span></span></span></span></a></dir>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "大疆 DJI RS 5 相机稳定器发布：支持全新增强智能追踪模块，3099 元起",
+    "link": "https://www.ithome.com/0/913/594.htm",
+    "date": "2026-01-15 20:09",
+    "summary": "<p>IT之家 1 月 15 日消息，大疆今日正式发布轻量商拍稳定器 DJI RS 5，智能追踪、稳定与操控体验全面升级，标准版售价 3099 元，套装版售价 3899 元。即日起正式开启预约。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" contenteditable=\"false\" href=\"https://weibo.com/tv/show/1034:5255353571409976?mid=5255441682796567\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/1c15486c-5a4c-4395-b7bc-43aab594c58b.jpg?x-bce-process=image/format,f_auto\" /></a></p><p>IT之家注意到，DJI RS 5 支持全新 RS 增强智能追踪模块，模块所捕捉的图像可显示于 DJI RS 5 触控屏上，<strong>跟拍范围也扩展至任意物体，人、车、宠物等</strong>，均可实现智能跟拍；跟拍人物时识别跟随距离可达 10 米，人物短暂离开画面也能重新找回。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/59ce1fa0-43ba-4753-a272-a93e5c41bce5.png?x-bce-process=image/format,f_auto\" /></p><p>同时，除了手势和扳机操作，全新增强智能追踪模块也支持通过 DJI RS 5 触控屏<strong>点选、框选</strong>主体启动跟随，配合进行辅助构图；并且，模块可通过磁吸方式，无需额外配件即可快速安装。无论是新手摄影师亦或是经验丰富的摄影师，进行复杂运镜拍摄时都能更加从容，轻松应对环绕运镜、反向跟拍、单人固定机位跟拍等拍摄场景。</p><p>DJI RS 5 电机性能也显著增强，<strong>峰值扭矩提升高达 50%</strong>，在运动场景拍摄等需要云台快速转动的极限情况下，表现更稳定；此外，DJI RS 5 升级了全新 RS 第五代增稳算法，针对不同手持拍摄场景再度优化，进一步提升增稳效果，即使在竖拍场景下防抖表现也同样出色，软硬结合。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/594efa21-1a7f-4c45-ac20-c072966b79eb.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/76e51ed0-72e9-4e3f-b3dc-dd0044090dc2.png?x-bce-process=image/format,f_auto\" /></p><p>在使用体验上，DJI RS 5 支持全新原⽣电控手提转接⼿柄，单⼿操控、低角度运镜便捷省⼒，同时，用户还可通过手柄上的摇杆及按键控制云台与相机，解锁更多拍摄方式。不仅如此，DJI RS 5 还在屏幕上<strong>新增了 Z 轴稳定指示器</strong>，可实现在拍摄中实时反映 Z 轴⽅向的上下抖动情况，以引导用户进行步伐调整，拍出更稳定的画面。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/f441c561-d8fb-46aa-939a-8abb843ab4ab.png?x-bce-process=image/format,f_auto\" /></p><p>续航方面，DJI RS 5 在快充表现与续航时长全面提升，相较前代，DJI RS 5 充电速度提升 60%，仅需 1 小时即可快充满电；同时，续航提升 15%，<strong>标配电池可使用约 14 小时</strong>，搭配上 DJI RS BG70 大容量电池手柄，DJI RS 5 续航时间可最高延长至 30 小时。</p><p>DJI RS 5 本体连同手柄及快装板仅重 1.46 千克，搭配第三代原生横竖拍切换设计，无需额外配件即可切换至竖拍。即使在轻便机身下，<strong>DJI RS 5 具备 3 千克负载能力</strong>，搭配大功率电机，可轻松搭载主流微单相机和镜头组合。</p><p>全微调平旋钮与特氟龙™夹层，让调平更快速、轻松、精准。<strong>DJI RS 5 的所有轴臂均配备微调平旋钮</strong>，可借助丝杆结构，实现相机位置快速精准调节，搭配特氟龙™夹层，即使面对较重的专业影像设备。同时，DJI RS 5 延续了第二代自动轴锁，可在关机或休眠状态下快速锁定轴臂，便于更快转场，同时收纳后的体积便于携带，开机也可迅速恢复至工作状态。</p><p>DJI RS 5 原生支持 DJI Focus Pro 电机，用户可使用摇杆调整镜头焦段，还能通过拨轮精准跟焦，让镜头控制更加顺手省力。<strong>同时还支持 DJI SDR 图传</strong>，用户可借助 DJI SDR 图传传输高清图像、远程控制云台与相机，还能使用手机体感控制等丰富功能，实现监看、控制一体化拍摄。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/06f437e7-b001-4d54-b295-74b30a1be4bd.png?x-bce-process=image/format,f_auto\" /></p><p>并且，DJI RS 5 自带 RSA 通信接口，除可连接全新电控手提转接手柄外，<strong>还能外接 DJI RS 控制手柄、第三方控制手柄、环形手持遥控手柄等多种配件</strong>，以灵活组合适应不同拍摄需求。得益于 DJI RS SDK 协议，第三方厂商及个人开发者可为 DJI RS 5 开发定制功能，进一步满足专业用户在拍摄中的个性化需求。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/E1SqHBu\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/387162/36/7514/98712/69688c06F84b83cfe/00835dc5dc81891d.jpg\" /></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">大疆 DJI RS 5 相机稳定器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 3099 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "iQOO Z11 Turbo 手机发布：第五代骁龙 8 与 2 亿主摄加持，国补到手价 2039.15 元起",
+    "link": "https://www.ithome.com/0/913/592.htm",
+    "date": "2026-01-15 20:06",
+    "summary": "<p>IT之家 1 月 15 日消息，iQOO 今晚发布了 iQOO Z11 Turbo 手机，新机即刻开售，售价 2699 元起，首销期立减后仅售 2399 元起，国补到手价 2039.15 元起；首销购机还可享至高 6 期免息分期、以旧换新大额补贴、356 元权益大礼包等。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/d424c5aa-cf22-4a8d-8d4a-228810efca74.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/7b35d5c2-d711-434a-bb84-458570228523.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/adf424f1-6b75-421c-a4b4-4b8b7dc56585.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，外观方面，iQOO Z11 Turbo 提供四款配色：沧浪浮光、光晕粉、天光白、极夜黑，其中极夜黑为玻纤后盖，其余为玻璃后盖。新机采用铝合金中框，后置摄像头盖板灵感源自机器人，整体造型依旧是 iQOO 经典的方圆舷窗。新机搭载 6.59 英寸黄金中屏，大 R 角设计，支持 IP68/IP69 防尘防水，机身宽度 74.42mm，整机重 202g，厚 7.9mm。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/05381449-2e56-4903-adde-c347c5595471.jpg?x-bce-process=image/format,f_auto\" /></p><p>屏幕方面，iQOO Z11 Turbo 采用一块 6.59 英寸 2750×1260 OLED 直屏，支持 144Hz 刷新率，采用 TCL 华星 C9+ 发光材料，局部峰值亮度 5000nit，最低支持 1nit，支持类 DC 调光 + 4320Hz 高频 PWM 调光，提供全亮度类 DC 调光可选，拥有 3200Hz 瞬时触控采样率、300Hz 十指触控采样率，支持 10 亿色显示、肖特金刚盾玻璃。</p><p>iQOO Z11 Turbo 采用 <span class=\"hot-topic\">iQOO 15</span> 同款自研太阳算法，5000nits 局部峰值亮度，阳光下也清晰；90% 首帧屏亮度占比，滑动几乎无拖影；支持 iQOO15#同款悦目护眼 2.0：硬件级 1nit 睡眠屏，AI 舒眠模式能将褪黑素分泌影响降低 25%；干眼友好色温区间，视疲劳下降 28%；iQOO 15 同款硬件级游戏护眼，实时分析游戏画面，智能调节蓝光，在守护眼睛的同时不破坏游戏氛围。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/42b6aa3f-dabd-49f0-b7c2-ff30c24bdf58.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/2d25fc02-6c2b-4cc4-a090-bbab0366c886.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/cd1b3469-1ec6-4b82-ae4a-fdbc7f1536ac.jpg?x-bce-process=image/format,f_auto\" /></p><p>iQOO Z11 Turbo 搭载骁龙 8 Gen 5 处理器和自研电竞芯片 Q2，拥有 Monster 超核引擎、电竞信号增强芯、冰穹 VC 液冷散热，采用满血版 LPDDR5X Ultra 内存和最新 UFS 4.1 闪存，跑分高达 359W+。《开放世界手游》平均帧率 60 帧，画面丝滑流畅，均方差低至 0.56，平均功耗仅 4.54W。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/25fe1898-c81f-4b0a-9598-5a16ab2b4030.jpg?x-bce-process=image/format,f_auto\" /></p><p>iQOO Z11 Turbo 搭载 7600mAh 超薄蓝海大电池；采用第二代半固态电池技术，官方称无论 40 度炎热高温还是零下 20 度的严寒户外，电池活性依然在线；支持 100W 闪充、全场景直驱供电 2.0 边充边玩不易发烫。该机采用冰穹双网散热系统，在极限重载测试下，CPU 核心温度至高直降 15℃，机身表面冷区与热区温差也被控制在 1.8℃ 以内，散热更均匀。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/b5a80065-bbd0-4892-a1de-d0106411f53d.jpg?x-bce-process=image/format,f_auto\" /></p><p>影像方面，iQOO Z11 Turbo 手机 iQOO 首次搭载 2 亿大底超级主摄，支持 4 倍无损变焦。Z 系列首次支持全焦段人像，50mm、85mm 表达不同故事和情绪，更支持全焦段 Live Photo；前置摄像头升级为 3200 万像素，支持 0.8x 广角。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/1d9466ab-2449-4eae-b953-da6bfd1a88d6.jpg?x-bce-process=image/format,f_auto\" /></p><p>通信方面，iQOO Z11 Turbo 拥有 24 根环绕式天线，从各角度捕捉更稳定的信号源；AI 电竞信号引擎 2.0，能够毫秒级预判即将到来的网络拥堵；电竞信号增强芯片雷霆 Z1，在连续穿透 4 堵墙的环境下保持稳定在线。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/e8477b70-bfed-45b1-9547-6049bd9b03b2.jpg?x-bce-process=image/format,f_auto\" /></p><p>操作系统方面，iQOO Z11 Turbo 搭载全新 OriginOS 6：</p><p>①蓝河流畅引擎：从底层重构系统，交互式丝滑流畅，这种流畅可以贯穿长达五年；</p><p>②原子动效 6.0：图标响应、窗口缩放都带有恰到好处的回弹；</p><p>③全新 AI 功能：小 V 圈搜 2.0 一圈即搜，摇一摇群组分享，和朋友同时摇动即可建群分享图片视频，无需使用流量，无损直达对方相册。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/74594abd-350d-4b86-9116-6c67acd12bdc.jpg?x-bce-process=image/format,f_auto\" /></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/EOSzyj4\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/385758/40/13115/36759/6968cef4Fd5ce851b/0083320320329656.png\" /></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> vivo iQOO Z11 Turbo</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 国补到手价 2039.15 元起</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "瓦尔基里推出《火影忍者疾风传》联名 VK99 双模磁轴键盘，到手价 594.15 元",
+    "link": "https://www.ithome.com/0/913/589.htm",
+    "date": "2026-01-15 19:58",
+    "summary": "<p>IT之家 1 月 15 日消息，VALKYRIE 瓦尔基里今晚推出了《火影忍者疾风传》联名款 VK99 Gaming 双模磁轴键盘，<strong>原价 699 元</strong>、<strong>到手价 594.15 元</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/b5514023-31d7-4aa8-a508-6fda1356c3e4.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家了解到，该键盘包含漩涡鸣人、宇智波佐助、宇智波鼬三种主题版本，<strong>搭载冠泰极磁 · 灼华轴与全五面热升华工艺 PBT 材质键帽</strong>，采用 Gasket 结构和五层填充设计，配备下灯位轴体热插拔 PCB 和 PC 材质开槽处理定位板，拥有小型 TFT 彩屏。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/ef590e61-cd30-438d-96ec-781f0d5a1fa5.jpg?x-bce-process=image/format,f_auto\" /></p><p>该键盘支持 0.005mm Rapid Trigger 精度，拥有 32kHz 的全键扫描率和 480kHz 的通道扫描率，在有线 USB-C 和无线 2.4GHz 下均支持 8kHz 回报率。其内置 2×4000mAh 电池，无线续航可达约 400 小时。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/EGSIWxB\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/379210/6/20747/226757/695b5eb3Fe72a7b2f/4f6118ab5cf11139.jpg\" /></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">瓦尔基里 VK 99 键盘 漩涡鸣人</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">到手价 594.15 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "消息称华为畅享 70X 成为 HarmonyOS 6 首个 API22 版本公测机型",
+    "link": "https://www.ithome.com/0/913/588.htm",
+    "date": "2026-01-15 19:57",
+    "summary": "<p>IT之家 1 月 15 日消息，据 MeoW 官方微博分享，华为畅享 70X 手机已开启鸿蒙 HarmonyOS 6.0.0.125 SP18 版本升级。MeoW 透露，<strong>畅享 70X 为首个 API22 版本公测的机型</strong>（该版本预计是花粉 Beta 版系统）。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/92b8a46e-c46f-4808-9581-6bc715d62d0d.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/a8af3dcf-fc94-4664-975f-c31f0ee9f4fe.jpg?x-bce-process=image/format,f_auto\" /></p><p>据IT之家今日早些时候报道，华为官网显示，华为畅享 70X 手机的鸿蒙 HarmonyOS 6 系统升级已转花粉 Beta 版，这意味着该机距离 HarmonyOS 6 系统的公测又近了一步。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/248fa8d4-f4c5-47e8-8c1b-b2e7b57e2611.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p style=\"text-align: left;\">华为鸿蒙开发者官网在 12 月 4 日发布了 <a href=\"https://www.ithome.com/0/910/355.htm\" target=\"_blank\">HarmonyOS 6.0.2 (22) Beta 版本说明</a>。HarmonyOS 6.0.2 (22) Beta1 在 6.0.1 (21) 的基础上，开发能力得到进一步增强：</p><ul class=\"medium-size list-paddingleft-2\"><li><p><strong>ArkUI 增强了滚动组件相关能力，支持更多可配置和自定义的属性</strong>；</p></li><li><p>Ability Kit 增强了 UIAbilityContext 管理应用自身 UIAbility 的能力；</p></li><li><p>ArkWeb 增强了与终端用户交互的能力，提升 Web 页面的交互体验；</p></li><li><p><strong>Connectivity Kit 的蓝牙模块增强了获取套接字链路信息的能力</strong>；</p></li><li><p>Test Kit 的 UITest 模块增强了模拟交互操作的能力；</p></li><li><p><strong>新增了 FAST Kit（算法加速服务），提供高性能算法和数据结构等加速服务，等等</strong>。</p></li></ul><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/488df346-9e21-4b4a-8518-df08b2c6c9dd.jpg?x-bce-process=image/format,f_auto\" /></p><p>华为畅享 70X 手机已于 2025 年 1 月 10 日开售，支持北斗卫星消息，配备 6.78 英寸 1.5K（分辨率 2700×1224）OLED 臻彩 AI 护眼屏、搭载 5000 万 RYYB 暗光影像，售价 1799 元起。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/449046b2-0a03-4e2b-88da-227c7717329e.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p>《<a href=\"https://www.ithome.com/0/913/576.htm\" target=\"_blank\">离公测更近一步：华为畅享 70X 手机鸿蒙 HarmonyOS 6 系统升级已转花粉 Beta 版</a>》</p></li></ul>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "中国航天科技集团：2026 年深入推进载人登月、深空探测等重大工程，全力突破重复使用火箭技术",
+    "link": "https://www.ithome.com/0/913/587.htm",
+    "date": "2026-01-15 19:53",
+    "summary": "<p>IT之家 1 月 15 日消息，今天上午，中国航天科技集团有限公司在京召开 2026 年度工作会议。</p><p>会议提到，过去一年神舟二十号乘组安全返回、神舟二十二号飞船应急发射重大任务顺利实施，天问二号任务开启我国首次小行星探测与采样返回之旅；<strong>全年完成 73 次宇航发射任务，再创历史新高</strong>；“星箭场用管”一体化布局，商业航天呈现全链发展态势。</p><p>会议强调，2026 年要统筹宇航重大工程实施与产业化转型，深入推进载人登月、深空探测等重大工程，<strong>全力突破重复使用火箭技术</strong>，加速推动航天强国建设；要多措并举优化产业布局，调整产业结构，大力发展<strong>商业航天、低空经济</strong>等战新产业，前瞻布局太空数智等未来产业，强化国际市场拓展和优质履约。</p><p>IT之家注意到，神舟二十号乘组 2025 年在轨执行任务 204 天，创下中国载人航天史上最长在轨时长纪录。此外，神舟二十一号创造 3.5 小时快速交会对接纪录。面对神舟二十号载人飞船出现的突发情况，<strong>首次成功实施“16 天应急发射”</strong>。</p><p>2025 年，天问二号启程执行我国首次小行星探测与采样返回任务；除此之外，2025 年还有多型商业火箭密集发射。2026 是“十五五”开局之年，中国航天的新蓝图正在展开。<strong>载人登月项目将展开多项试验</strong>，嫦娥七号将奔赴月球南极寻找水冰存在的证据，多型新火箭将首飞并挑战回收。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "又一国家出手：菲律宾封杀马斯克的 Grok AI 聊天机器人",
+    "link": "https://www.ithome.com/0/913/586.htm",
+    "date": "2026-01-15 19:43",
+    "summary": "<p>IT之家 1 月 15 日消息，据彭博社报道，菲律宾一位高级政府官员表示，由于对人工智能聊天机器人 Grok 生成色情图片的担忧日益加剧，菲律宾将与马来西亚、印度尼西亚一道，封禁埃隆 · 马斯克旗下的这款聊天机器人。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/e188c01c-3150-43bb-849a-26afaec1ef9a.jpg?x-bce-process=image/format,f_auto\" /></p><p>菲律宾信息与通信技术部部长亨利 · 阿古达（Henry Aguda 当地时间）周四向记者表示，该国网络犯罪中心正与电信委员会协作，立即落实对 Grok 的封禁措施。</p><p>阿古达指出：“所有互联网服务提供商均须启动封禁程序。”</p><p>菲律宾环球电信公司首席可持续发展与企业传播官约兰达 · 克里桑托在短信中表示，该公司已收到信息与通信技术部下达的 Grok 封禁令，目前正就落实细则与相关部门沟通确认。</p><p>菲律宾另一家电信巨头菲律宾长途电话公司的代表则表示，将遵照菲律宾国家电信委员会发布的相关备忘录执行封禁要求。</p><p>IT之家注意到，上周末，印度尼西亚和马来西亚已以 Grok 生成色情内容为由，限制了这款聊天机器人的访问权限。印尼方面称，此次临时封禁旨在“保护妇女、儿童及全体民众免受人工智能技术生成的虚假色情内容侵害”。</p><p>马来西亚则表示，将针对马斯克旗下的社交平台 X 及 xAI 公司未能保护该国用户权益的行为采取法律措施。</p><p>面对铺天盖地的批评声浪，xAI 公司已宣布，将禁用 Grok 生成真人色情化图像的功能。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "（更新：很快上架 AppGallery 应用尝鲜）消息称微信鸿蒙手表版正在内测，预计很快就上架表端应用尝鲜",
+    "link": "https://www.ithome.com/0/913/585.htm",
+    "date": "2026-01-15 19:42",
+    "summary": "<p>21:17 更新：博主微博爆料内容有所调整：鸿蒙手表微信确认正在内测，预计很快就上架 AppGallery 应用尝鲜，鸿蒙微信版本 8.0.14.45 版本及以上支持。<strong>博主表示，就是原来的蓝牙微信</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/d71d4bf8-6298-45f2-abb2-65befa19da70.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家 1 月 15 日消息，博主 @熠熠玩数码 今日发文透露，<strong>微信鸿蒙手表版确认正在内测</strong>，预计很快就上架手表端应用尝鲜。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/ca954844-128e-4837-8a88-527a3e0996a7.jpg?x-bce-process=image/format,f_auto\" /></p><p>目前，华为 WATCH 智能手表产品预装有微信手表版 App，但属于“蓝牙微信”（部分手表，例如 WATCH GT 6 不提供卸载按钮），需要用户手机与手表保持蓝牙连接，<strong>可以实现回复 / 查看消息、扫码支付等功能</strong>。</p><p>参考IT之家此前报道，微信手表版 App 是微信团队于 2022 年 7 月上线的<a href=\"https://www.ithome.com/0/630/558.htm\" target=\"_blank\">智能手表端微信版本</a>，支持语音自动转文字、图片消息查看、拍一拍 / 引用消息显示。还支持语音回复、文字快速回复和微信表情回复，还能 Keep 运动互通，同步手表运动数据。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/6/7094e757-a506-4d25-a882-d14366f8f396.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p>在 2024 年 3 月发布的 OPPO Watch X 带来了独立版微信，无需连接手机，即可即看即回。该版本微信也已上线小米手表 5，可发送语音、表情、快捷回复，并提供微信支付功能。此前有爆料称鸿蒙系统手表微信登录功能预计将在今年 2 月上线。</p><p style=\"text-align: center;\"><img alt=\"/Users/biopong/Library/Containers/com.kingsoft.wpsoffice.mac/Data/tmp/photoeditapp/20240322154127/temp.pngtemp\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/cca31e08-9466-4743-9951-02d63e3767a1.jpg?x-bce-process=image/format,f_auto\" /></p><p>大家在<a href=\"https://wxaurl.cn/tIhrCxgH5Kb\" target=\"_blank\">IT之家微信号</a>回复“<span class=\"font-color-red \">微信</span>”两字，即可获取当前最新官方内部版微信下载。</p><p style=\"text-align: center;\"><img alt=\"\" src=\"https://img.ithome.com/newsuploadfiles/2021/3/20210316222136_9513.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/2/d715ba69-5ed2-4b1d-a704-bd156713c1a0.gif\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "蔚来李斌开年内部讲话：预计 2025 年第四季度盈利目标可实现，推动 AI 在全业务链条落地",
+    "link": "https://www.ithome.com/0/913/584.htm",
+    "date": "2026-01-15 19:34",
+    "summary": "<p>IT之家 1 月 15 日消息，据界面新闻报道，1 月 14 日，蔚来汽车 CEO 李斌发表新年首次内部讲话。他表示，蔚来在去年第四季度交付 4 万辆全新 ES8，每辆车均有稳健毛利，<strong>预计 2025 年第四季度盈利目标可以实现</strong>。李斌希望，接下来 3 至 5 年，蔚来汽车能够实现年均 40% 至 50% 的稳定增长。</p><p>在内部讲话中，李斌明确了蔚来汽车今年的三项重点任务。首先，确保三款新车型按计划、高质量交付；其次，<strong>加大对智能驾驶的算力投入</strong>，目标是发布三个重要智驾版本，重新回到行业领先地位。李斌指出，在公司整体资源依然紧张情况下，他仍然为智驾部门划拨了专项算力预算。</p><p>另外，李斌表示，<strong>要推动 AI 在全业务链条中的系统性落地</strong>，构建公司级 AI 能力体系，覆盖从研发、生产制造、供应链，到财务、人力资源等所有部门和流程，通过 AI 全面提升效率。</p><p style=\"text-align: center;\"><img class=\"lazy no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2025/9/16809a49-ef40-48ef-9b82-196d4259c719.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" title=\"蔚来全新 ES8 汽车第 40000 台交付今日达成，用时约百天\" /></p><p>IT之家注意到，2025 年第四季度，蔚来公司交付新车 124807 辆，创历史新高，同比增长 71.7%。<strong>三品牌季度交付量均创历史新高。</strong></p><ul class=\" list-paddingleft-2\"><li><p>蔚来品牌 Q4 交付 67433 辆，同比增长 27.8%；</p></li><li><p>乐道品牌 Q4 交付新车 38290 辆，同比增长 92.1%。</p></li><li><p>firefly 萤火虫品牌 Q4 交付新车 19084 辆，环比增长 52.8%。</p></li></ul><p><strong>2025 年全年，蔚来公司共交付新车 326028 辆，创历史新高，同比增长 46.9%。</strong></p><ul class=\" list-paddingleft-2\"><li><p>蔚来品牌共交付 178806 辆。</p></li><li><p>乐道品牌共交付 107808 辆。</p></li><li><p>firefly 萤火虫品牌交付 39414 辆。</p></li></ul><p>截至目前，蔚来公司已累计交付新车 997592 辆。</p><ul class=\" list-paddingleft-2\"><li><p>蔚来品牌累计交付新车 829609 辆；</p></li><li><p>乐道品牌累计交付新车 128569 辆；</p></li><li><p>firefly 萤火虫品牌累计交付新车 39414 辆。</p></li></ul>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "卡梅隆：要想拍摄《阿凡达 4/5》，必须找到更省钱的制作方法",
+    "link": "https://www.ithome.com/0/913/583.htm",
+    "date": "2026-01-15 19:33",
+    "summary": "<p>IT之家 1 月 15 日消息，《阿凡达》的编剧兼导演詹姆斯 · 卡梅隆在第三部电影《火与烬》上映后，谈及了推进《阿凡达 4》和《阿凡达 5》的可能性，他表示要继续制作这两部电影，必须找到更省钱的制作方法。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/f516f649-33ef-44f2-ac3f-95b2fce4b4e4.png?x-bce-process=image/format,f_auto\" /></p><p>《阿凡达》系列电影因大量运用特效，制作成本高昂，但历来票房表现亮眼，斩获数十亿美元票房。2009 年上映的《阿凡达》至今仍是全球影史票房冠军（未计入通货膨胀因素），经多次重映，全球累计票房高达 29 亿美元（IT之家注：现汇率约合 202.58 亿元人民币）。而 2022 年的《阿凡达：水之道》票房也突破 23 亿美元（现汇率约合 160.67 亿元人民币），稳居影史票房第三宝座。</p><p>最新数据显示，《阿凡达：火与烬》上映四周后，全球票房达 12.31 亿美元。对比前两部同期票房成绩，该片目前稍显逊色。《阿凡达：水之道》上映第四周时票房已达 17.13 亿美元，首部《阿凡达》同期票房也有 13.35 亿美元。种种迹象表明，《阿凡达：火与烬》的最终票房极难追平前两部作品。但更关键的问题在于，该片票房能否达到迪士尼的预期，从而促使其批准《阿凡达 4》和《阿凡达 5》的拍摄计划。迪士尼此前已公布这两部续集的上映档期：《阿凡达 4》暂定于 2029 年 12 月 21 日上映，《阿凡达 5》则预计在 2031 年 12 月 19 日与观众见面。如今已 71 岁的卡梅隆，若要完成这两部影片的拍摄，届时年龄将接近 80 岁。</p><p>在接受中国台湾地区媒体 TVBS 新闻台的最新采访时，卡梅隆并未明确确认《阿凡达 4》和《阿凡达 5》是否一定会开拍，但他表示，《阿凡达 3》需要取得优异的票房成绩，同时他也必须找到降低《阿凡达 4》和《阿凡达 5》制作成本的方法，才能获得迪士尼的认可。</p><p>此次关于《阿凡达 4》和《阿凡达 5》的讨论，源于记者问及奥斯卡最佳影片《瞬息全宇宙》主演杨紫琼是否有望出演后续《阿凡达》系列电影。</p><p>“只要《阿凡达 4》能顺利开拍，杨紫琼肯定会加盟。”卡梅隆在采访中说道，“目前的情况是，电影行业正处于低迷期。《阿凡达 3》的制作成本不菲，我们必须交出漂亮的票房答卷才能继续推进续集项目。而且，为了能把这个系列延续下去，我们必须想办法更低成本地拍《阿凡达》系列电影。”</p><p>“如果我们继续拍摄第 4 部，那我们也会把第 4 部和第 5 部放在一起拍摄，就像我们把第 2 部和第 3 部放在一起拍一样，构成一个宏大的故事，然后第 4 部和第 5 部会是另一个宏大的故事。杨紫琼会同时出演这两部影片，饰演一个动作捕捉角色 —— 纳美人帕克图埃拉特（Paktu’eylat）。”</p><p>卡梅隆的此番表态，与《阿凡达：火与烬》上映前的言论一脉相承。此前他在播客节目《马修・贝洛尼的好莱坞小镇》中坦言，自己十分担忧该片的票房表现，并对 2025 年院线电影面临的多重冲击表示忧虑。他提到，当时影市存在“续集疲态”的风险。</p><p>“观众往往对续集电影兴趣缺缺，除非是像《指环王 3》那样，能让大家迫切想知道所有角色最终命运的作品。在我看来，《阿凡达 3》正是这样一部收官之作，但观众未必会这么认为。”卡梅隆解释道。此外，流媒体平台的崛起与新冠疫情的冲击形成双重打击，导致观影人数大幅下滑。卡梅隆称，目前的观影人数仅为 2019 年的 75%。</p><p>当被问及《阿凡达：火与烬》的具体制片成本时，卡梅隆并未透露具体数字，仅表示耗资巨大，因此影片必须收获高额票房才能实现盈利。</p><p>“这部电影的投入堪称天文数字，这意味着我们需要赚回双倍的票房才能回本盈利。”他说道，“我毫不怀疑这部电影能赚钱，但问题在于，它的盈利能否支撑我们继续拍摄续集？”</p><p>对此，卡梅隆坦言，若《阿凡达：火与烬》票房惨淡，他“完全”可以接受这个系列就此终结。“我已经在《阿凡达》的世界里投入了 20 年的时间，其实算起来应该是 30 年，因为我早在 1995 年就完成了剧本初稿，只不过前 10 年并没有全身心投入创作。所以，就算这个系列在这里画上句号，我也觉得没什么遗憾。”但当被问及影片中埋下的故事伏笔该如何收尾时，卡梅隆笑着回应：“确实还有一个悬念没解开，大不了我把它写成一本书！”</p><p>为了拉动《阿凡达：火与烬》的院线票房，迪士尼还打出了“联动牌”，在影院独家放映《复仇者联盟：末日》的宣传物料（迪士尼称其既非先导预告，也非正式预告片）。截至目前，相关物料已推出四版，且均遵循“先影院独家放映一周，再上线网络平台”的策略。</p><p>随着 2026 年的到来，院线电影的未来发展成为业界热议焦点。有消息称，正以 720 亿美元收购华纳兄弟的 Netflix 公司，有意将旗下影片的院线窗口期缩短至 17 天，之后便在自家流媒体平台上线。与此同时，全球票房市场持续低迷，即便是以往“票房稳赚”的漫威系列电影，如今也难以吸引观众走进影院。当下最核心的问题是：我们是否正在见证院线电影时代走向终结？</p><p>好莱坞传奇影星莱昂纳多・迪卡普里奥近期也对院线电影的未来表达了担忧，他怀疑观影是否会沦为一种小众消遣方式。在接受《星期日泰晤士报》采访时，这位曾出演《泰坦尼克号》《盗梦空间》《华尔街之狼》的影帝不禁发问：“人们是否还有去影院观影的欲望？如果热情不再，电影院会不会像爵士酒吧一样，逐渐沦为小众文化据点？”</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "格力电器 2025 年中期派发现金股利 55.85 亿元",
+    "link": "https://www.ithome.com/0/913/582.htm",
+    "date": "2026-01-15 19:26",
+    "summary": "<p>IT之家 1 月 15 日消息，格力电器今日公告称，公司 2025 年中期权益分派方案为：以现有总股本剔除已回购股份后的 55.85 亿股为基数，向全体股东每 10 股派发现金股利 10 元（含税），不送红股，不以资本公积金转增股本，<strong>共计派发现金股利 55.85 亿元</strong>。股权登记日为 2026 年 1 月 22 日，除权除息日为 2026 年 1 月 23 日。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/e87c4ff9-ed25-42a8-bb3a-51040e5f2e90.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: left;\">IT之家注意到，<a href=\"https://www.ithome.com/0/893/662.htm\" target=\"_blank\">格力电器于去年 10 月 30 日首次披露 2025 年中期利润分配预案</a>。公告称，<strong>2025 年前三季度，公司实现归属于上市公司股东的净利润 214.61 亿</strong>，净利润率稳中有升，盈利能力稳健，现金流充裕，为实施中期分红奠定坚实基础。2025 年中期利润分配预案有利于增强投资者回报，保持公司分红政策的稳定性和持续性，符合公司正常经营及长远发展需要，符合《上市公司监管指引第 3 号 — 上市公司现金分红（2025 年修订）》《珠海格力电器股份有限公司章程》等有关文件关于利润分配的相关规定，具备合法性、合规性及合理性。</p><p style=\"text-align: left;\">格力电器 2025 年第三季度报告显示，报告期营收为 398.55 亿元，同比下降 15.09%；净利润为 70.49 亿元，同比下降 9.92%。<strong>前三季度营收为 1371.80 亿元，同比下降 6.50%；净利润为 214.61 亿元，同比下降 2.27%</strong>。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "QQ 辟谣沈腾空间被盗，官方支招账号找回",
+    "link": "https://www.ithome.com/0/913/580.htm",
+    "date": "2026-01-15 19:21",
+    "summary": "<p>IT之家 1 月 15 日消息，今日，“谁把沈腾 QQ 空间盗了”相关话题登上微博热搜，引发广泛关注。针对网友关于演员沈腾 QQ 空间发布的早期“抽象”照片是否源于账号被盗的猜测，腾讯 QQ 官方微博作出回应澄清。</p><p>据IT之家了解，事件起因是网友翻出了沈腾早年在 QQ 空间发布的风格搞怪照片，因画风与现在的公众形象反差较大，被不少网友调侃“是不是号被盗了”。</p><p style=\"text-align: center;\"><img class=\"not-source\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/37334741-7529-4e4a-b5b9-f3137340a465.jpg?x-bce-process=image/format,f_auto\" /></p><p>对此，腾讯 QQ 官方回应称：“不是 QQ 空间被盗，是腾哥来时路都被翻出来了。”该回应迅速推动“QQ 回应沈腾空间被盗”话题热度攀升。在围观娱乐话题的同时，不少用户也在评论区关注如果遭遇真实的盗号风险应如何处理。</p><p style=\"text-align: center;\"><img class=\"not-source\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/2d5faeb1-2b7e-4b28-83ea-c2ec220b3e7a.jpg?x-bce-process=image/format,f_auto\" /></p><p>针对用户关心的账号安全问题，腾讯 QQ 借此机会也分享了官方标准的账号找回流程。若用户遇到 QQ 账号被盗的情况，可通过以下步骤尝试找回：</p><p>在手机 QQ 登录页面点击【更多 / 更多选项】；</p><ul class=\" list-paddingleft-2\"><li><p>选择【找回密码】；</p></li><li><p>【输入问题账号】；</p></li><li><p>选择【资料辅助验证】并点击【开始验证】；</p></li><li><p>根据系统提示，填写身份信息及历史密码等资料进行验证。</p><p style=\"text-align: center;\"><img class=\"not-source\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/72eb28be-40e3-40b4-8e2a-474174ce9d93.jpg?x-bce-process=image/format,f_auto\" /></p></li></ul><p>根据腾讯 QQ 发布的 2025 年度报告显示，通过持续升级安全体系，平台安全治理成效显著：2025 年，QQ 日均被盗号量较 2024 年下降约 30%；全年成功抵御黑产撞库攻击数百次； 2024 年账号找回成功率同比提升 17%，数千万 QQ 用户成功找回了早年丢失的账号。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "抖音未成年人模式升级：可自动开启夜间“防沉迷”，AI 笔记上线",
+    "link": "https://www.ithome.com/0/913/579.htm",
+    "date": "2026-01-15 19:18",
+    "summary": "<p>IT之家 1 月 15 日消息，字节跳动 1 月 14 日宣布，抖音未成年人模式产品能力升级，“亲子护航”能力优化上线，同时全新推出“<span>AI 笔记</span>”功能。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/648073a5-91d6-4fea-8602-23e19b4a2a2b.png?x-bce-process=image/format,f_auto\" /></p><p>IT之家从官方介绍获悉，升级后的“亲子护航”功能，家长可以通过抖音“我 — 个人页侧边栏 — 未成年人模式 — 亲子护航”路径进入。进入后，选择“绑定孩子并开启”，即可通过扫描二维码确认的方式发起亲子账号绑定；孩子同步会接收到相关确认信息，在核实家长身份并签署《亲子护航服务协议》后，点击“接受申请”即可完成绑定。</p><p>平台为家长提供三项协同能力：</p><ul class=\" list-paddingleft-2\"><li><p><strong>一是模式灵活切换</strong>，可按需开关未成年人模式，匹配孩子不同年龄阶段的上网场景；</p></li><li><p><strong>二是时长智能管控</strong>，不仅能查看近 7 天内特定范围的使用记录、设置单日使用时长上限（超时需家长解锁），还能自动开启夜间“防沉迷守护”，每日 22 时至次日 6 时强制关闭使用权限；</p></li><li><p><strong>三是协助管理订阅账号</strong>，可查看并管理孩子在未成年人模式下订阅的创作者列表，引导孩子选择适龄优质内容。</p></li></ul><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/1cffb057-b1bd-4188-abe9-c53c92e79b3f.png?x-bce-process=image/format,f_auto\" /></p><p>在一些知识类、科普类视频的标题结尾处，<strong>可直接点击“AI 笔记”按钮</strong>，一键唤起智能总结服务。AI 会根据未成年人的年龄设定和阅读习惯，生成适配性强的知识点总结，方便学习和理解。</p><p>该功能还可解决“记笔记分心”的难题，观看院士科普、名师公开课等视频时，无需手动记录，<strong>即可自动提炼核心内容</strong>；同时实现章节精准定位，将长视频课程拆解为细分章节，孩子可通过笔记知识点快速跳转对应片段，大幅提升知识点获取效率。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "消息称特斯拉在印度遇挫，未售出的 Model Y 开始打折促销",
+    "link": "https://www.ithome.com/0/913/578.htm",
+    "date": "2026-01-15 18:58",
+    "summary": "<p>IT之家 1 月 15 日消息，据彭博社报道，知情人士透露，特斯拉公司去年进口到印度的首批车辆中，约有三分之一目前仍难以售出，因为一些提前预订的潜在买家已取消订单。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/0e771582-8e14-453d-8b4e-fddbd1d733f2.jpg?x-bce-process=image/format,f_auto\" /></p><p>这些消息人士表示，在埃隆・马斯克执掌的特斯拉于四个月前运抵约 300 辆 Model Y SUV 汽车后，市场需求低迷导致仍有大约 100 辆车待售。他们称，为清理滞销库存，特斯拉正对该款 SUV 的部分车型提供最高 20 万卢比（IT之家注：现汇率约合 15454 元人民币）的折扣优惠。</p><p>特斯拉于去年 7 月正式登陆印度市场，印度对进口汽车征收的关税高达 110%。</p><p>特斯拉在印度市场出师不利的同时，其全球市场需求也正显露颓势。2025 年，特斯拉全球销量连续第二年下滑，电动汽车销量冠军宝座被比亚迪夺走。</p><p>在部分市场，竞争加剧与补贴退坡正不断侵蚀特斯拉在美国、欧洲和中国的市场份额。而在印度，由于品牌曝光度有限且售价偏高，消费者尚未完全接受特斯拉。去年 11 月，特斯拉聘请兰博基尼印度前负责人沙拉德・阿加瓦尔执掌印度业务，以期吸引豪华车买家。</p><p>部分潜在客户在试驾后选择放弃特斯拉，转而投向其他竞品，要么是像宝马入门级豪华电动车 iX1 这样价格更低的车型，要么是像比亚迪 Sealion 7 这样配置更丰富的车型。这两款车在印度的起售价均低于特斯拉 Model Y。</p><p>知情人士称，此次折扣仅适用于去年运抵印度的部分 Model Y 标准续航版车型，且仅面向意向客户和试驾体验者直接提供，并非在全国范围内推出的正式促销活动。</p><p>目前，特斯拉在印度仅销售 Model Y 一款车型，起售价近 7 万美元（现汇率约合 48.9 万元人民币），与印度本土老牌豪华车企展开竞争。</p><p>据彭博社去年 9 月报道，特斯拉 Model Y 在印度仅收到约 600 份订单。知情人士表示，这些订单中有相当一部分尚未转化为实际交付量。特斯拉去年共向印度运抵 500 辆车，首批车辆于 9 月初从上海港启运并抵达印度。</p><p>印度官方车辆注册数据显示，<strong>2025 年全年特斯拉在印仅完成 227 辆车的注册登记</strong>。这一数据凸显出早期需求信号与实际销量之间的巨大差距。</p><p>知情人士称，许多当初支付定金的买家如今不愿完成低配短续航版 Model Y 的购买流程。与此同时，尽管有部分消费者对售价更高的长续航版车型表现出兴趣，但该车型的交付进度也慢于预期，进一步加剧了库存积压问题。</p><p>特斯拉为进入印度市场考量了近十年之久。去年 2 月，马斯克在美国会晤印度总理纳伦德拉・莫迪，数月后，特斯拉最终敲定进军印度市场的计划。</p><p>与特斯拉在印度的惨淡开局形成鲜明对比的是，其部分全球竞争对手在印度市场实现了相对强劲的增长。</p><p>宝马集团印度分公司负责人哈迪普・辛格・布拉尔在本月接受采访时表示，得益于本土组装的 iX1 车型，宝马印度去年销量同比激增近 200%，达到约 3700 辆。</p><p>布拉尔称，宝马的电动汽车均价与特斯拉 Model Y 相近，且电动车型的销量占比正持续提升。</p><p>比亚迪也通过丰富价格带布局以及与本土合作伙伴合作的策略，在印度市场稳步提升份额。数据显示，比亚迪印度市场的车辆注册量去年同比增长 88%，突破 5400 辆。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "离公测更近一步：华为畅享 70X 手机鸿蒙 HarmonyOS 6 系统升级已转花粉 Beta 版",
+    "link": "https://www.ithome.com/0/913/576.htm",
+    "date": "2026-01-15 18:33",
+    "summary": "<p>IT之家 1 月 15 日消息，华为畅享 70X 手机已于 12 月 27 日开启了<a href=\"https://www.ithome.com/0/908/482.htm\" target=\"_blank\">鸿蒙 HarmonyOS 6 开发者体验招募</a>，限量 1000 人。系列机型已开启 HarmonyOS 6.0.0.120 (SP12C00E120R1P7) 开发者版本推送，系统包大小约 8.37GB。</p><p style=\"text-align: center;\"><img class=\"not-source\" src=\"https://img.ithome.com/newsuploadfiles/2025/12/bf63f80b-fece-4434-956b-7ffa0adec7c5.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p>IT之家注意到，华为官网显示，华为畅享 70X 手机的鸿蒙 HarmonyOS 6 系统升级已转花粉 Beta 版，<strong>这意味着该机距离公测又近了一步</strong>。</p><p style=\"text-align: center;\"><img class=\"not-source\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/248fa8d4-f4c5-47e8-8c1b-b2e7b57e2611.jpg?x-bce-process=image/format,f_auto\" /></p><p>作为参考，华为畅享 70X 手机已于 2025 年 1 月 10 日开售，支持北斗卫星消息，配备 6.78 英寸 1.5K（分辨率 2700×1224）OLED 臻彩 AI 护眼屏、搭载 5000 万 RYYB 暗光影像，售价 1799 元起。</p><p style=\"text-align: center;\"><img class=\"not-source\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/449046b2-0a03-4e2b-88da-227c7717329e.jpg?x-bce-process=image/format,f_auto\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "腾达泰山 BE7200 Ultra 路由器开售：五天线设计 + 9 颗 FEM，首发价 429 元",
+    "link": "https://www.ithome.com/0/913/575.htm",
+    "date": "2026-01-15 18:29",
+    "summary": "<p>IT之家 1 月 15 日消息，腾达泰山 BE7200 Ultra 路由器将于今晚 8 点在京东开启首销，该路由器宣称“挑战史上 7200 性价比之王”，售价 549 元，<strong>首发价 429 元。</strong></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/EGYVUcr\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/386296/22/4589/2597345/695f46f7Fe3a210cc/512f27fab2b21685.png\" /></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">腾达泰山 BE7200 Ultra 路由器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 429 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/c13a3ab9-1bfc-403c-92d9-0bda70687c54.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/b1cbe887-9a49-4a27-aa3c-090779025876.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家获悉，腾达泰山 BE7200 Ultra 路由器采用了五天线设计，集成 9 颗 FEM，其中 4 颗负责 2.4GHz、5 颗负责 5GHz。产品支持 Wi-Fi 7，双频并发速率可达 7141Mbps，配有四核 2GHz CPU，算力可达 18400 DMIPS，还配有双 2.5G 口 + 3 个千兆口。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/034d9d6e-b254-4d67-bbcb-e1677ba62e6c.png?x-bce-process=image/format,f_auto\" /></p><p>IT之家附参数如下：</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/30751e6a-eb1e-4237-a4e8-dc3697071845.jpg?x-bce-process=image/format,f_auto\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "独居安全 App“死了么”从苹果 App Store 国区下架",
+    "link": "https://www.ithome.com/0/913/574.htm",
+    "date": "2026-01-15 18:10",
+    "summary": "<p>IT之家 1 月 15 日消息，1 月 8 日起，一款名为“死了么”的应用在苹果 App Store 应用商店付费应用排行榜登顶，引发广泛关注。该应用是一款针对独居人群设计的安全工具，其独特的功能定位与颇具争议的应用名称使之成为公众讨论的焦点。</p><p>然而在一周后的今天，这款 App 突然从苹果 App Store 国区下架，截至IT之家发稿，相应话题在微博阅读量达 311.6 万，位于实时热度第二。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/06cdb285-2406-49f3-8773-bf67c8d30dfa.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/b6f74bd1-4dba-4b56-8e1a-c75f17fb18e1.jpg?x-bce-process=image/format,f_auto\" /></p><p>对此，媒体“中国蓝新闻”联系“死了么”App 创始人郭先生，<strong>其确认“软件已被下架”，但并未公布应用下架的具体原因</strong>。</p><p>虽然“死了么”App 已经从国区下架。但商店里目前已出现大量与之雷同的有软件，比如“活着么”、“Dead Yet？Pro”、“死了么漂流版”等，其中有一款“Demumu-还活着么？”显示将在 1 月 24 日推出。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "华硕 ROG 魔导士 Ace 75 HE 有线磁轴键盘今晚 20:00 发售，首发价 1199 元",
+    "link": "https://www.ithome.com/0/913/573.htm",
+    "date": "2026-01-15 18:09",
+    "summary": "<p>IT之家 1 月 15 日消息，华硕在 CES 2026 上发布的 ROG 魔导士 Falchion Ace 75 HE 有线磁轴键盘即将于今晚 20:00 发售，暗夜黑与月耀白配色的首发售价均为 <strong>1199 元</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/6601d492-5ef2-4a09-8bb6-e4ce433bf958.jpg?x-bce-process=image/format,f_auto\" /></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/ErY50ZV\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/387095/34/5336/93409/69651c8aF9d12bcb9/5df9fa3bc154e58a.jpg\" /></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">华硕 ROG 魔导士 Ace 75 HE 键盘 </span></span><span class=\"card-abstract\">1 月 15 日 20:00 发售</span><span class=\"card-controls\"><span class=\"price\">首发价 1199 元</span><span class=\"card-btn-deep\">前往预约</span></span></span></span></a></dir><p>ROG 魔导士 Falchion Ace 75 HE 键盘采用紧凑的 75% 配列，保留 Fn 键区的设计又使其兼具超越此前 65% 配列魔导士的功能丰富度。</p><p>这款键盘搭载华硕 <strong>ROG HFX V2</strong> 霍尔效应磁轴，拥有 POM 材质的轴芯与底壳、PC 材质的上盖，触发点 0.1~3.5mm，初始压力 32gf、总压力 49gf，按键寿命 1 亿次，<strong>支持 0.01mm 精度调节</strong>。</p><p>此外，Falchion Ace 75 HE 采用 Gasket 固定和 <strong>6 层消音</strong>（IT之家注：三层 PORON 和三层硅胶）设计，支持 <strong>8kHz 回报率</strong>和轴体热插拔，配备双色注塑工艺 <strong>PBT 键帽</strong>，提供多功能控制按钮、触控条、触发与 Rapid Trigger 精度调节滚轮，随附定制便携保护壳。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "谷歌 Gemini 3 调整：Thinking 与 Pro 模型使用限额相互独立",
+    "link": "https://www.ithome.com/0/913/572.htm",
+    "date": "2026-01-15 18:09",
+    "summary": "<p>IT之家 1 月 15 日消息，谷歌 Gemini 3 系列的 Thinking 与 Pro 模型现已取消共享使用限额，谷歌不仅拆分了原有的“共享资源池”，还同步提高了 Gemini 应用内的使用限额。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/1f3d3b45-44cc-4c02-ad09-5b78de2edb06.jpg?x-bce-process=image/format,f_auto\" /></p><p>Gemini 3 模型选择器提供三种选项：</p><ul class=\" list-paddingleft-2\"><li><p>Fast：响应迅速 —— 基于 Gemini 3 Flash 模型</p></li><li><p>Thinking：专攻复杂问题求解 —— 基于 Gemini 3 Flash 模型</p></li><li><p>Pro：针对高阶数学运算与代码编写深度思考 —— 基于 Gemini 3 Pro 模型</p></li></ul><p>IT之家注意到，去年 12 月该系列模型首发时，若用户订阅 AI Pro，Thinking 与 Pro 共享每日 100 次提示词调用限额；若订阅 AI Ultra，则共享每日 500 次调用限额。</p><p>也就是，此前推理类模型的调用次数均从同一共享资源池中扣除。</p><p>为响应用户反馈（许多用户希望在选择模型处理日常任务时，能获得更明确的限制规则与更透明的使用方式），谷歌推出“模型独立限额机制”。Thinking 模型（针对复杂问题提供高效求解优化）的使用次数，将不再占用 Pro 模型（针对高阶数学与代码编写优化）的限额。</p><p>调整后，AI Pro 用户每日可调用 Thinking 模型 300 次，Pro 模型调用限额则维持每日 100 次不变；</p><p>与此同时，AI Ultra 用户每日可调用 Thinking 模型 1500 次，Pro 模型调用限额依旧保持每日 500 次。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/82fdcbee-7c16-4f4d-97fc-75d85d536a46.png?x-bce-process=image/format,f_auto\" /></p><p>这一调整同样适用于免费用户，不过目前谷歌对免费用户开放的 Thinking 与 Pro 服务均标注为“基础访问权限”（区别于极速版模型的“通用访问权限”）。</p><p>如今，无论是处理复杂难题还是编写代码，都可以自由切换模型，且不同模型的使用限额相互独立、互不影响。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "理想 L6 累计交付突破 36 万辆，产品经理透露该车成为 2025 年中大型 SUV 销量冠军",
+    "link": "https://www.ithome.com/0/913/571.htm",
+    "date": "2026-01-15 18:08",
+    "summary": "<p>IT之家 1 月 15 日消息，理想汽车产品经理 @若愚_Allen 今日宣布，<strong>理想 L6 累计交付刚刚突破 36 万辆</strong>，他表示理想 L6 也是 2025 年中大型 SUV 的销量冠军。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/959988ec-9a39-4b4c-aa0a-777a83763c7e.jpg?x-bce-process=image/format,f_auto\" /></p><p><span>据IT之家了解，<a href=\"https://www.ithome.com/0/762/756.htm\" target=\"_blank\">理想 L6 于 2024 年 4 月 18 日上市</a>，定位家庭豪华五座 SUV，提供 Pro 和 Max 两个配置车型，售价分别为 24.98 万、27.98 万。</span>在 2025 上海车展发布会上，理想 L6 智能焕新版车型正式发布，官方指导价 24.98 万元起，新增了全新配色，在辅助驾驶配置上迎来升级，还有理想同学焕新。</p><p><span>该车全系配备 1.5T 增程器 + 前后双电机，系统最大功率 300 千瓦，峰值扭矩 529 牛米，零百加速 5.4 秒，极速 180km/h（电子限速）。</span>在 2025 年 4 月 8 日，理想 L6 累计交付突破 24 万辆，连续 10 个月增程销量第一名、连续 11 个月中大型 SUV 销量第一名。</p><p><span>2025 年 4 月 26 日，理想汽车宣布 L6 累计交付突破 25 万辆。</span>作为对比，理想 L7 在 2023 年 3 月开启交付，到 2025 年 5 月 10 日累计交付突破 30 万辆，历时 26 个月。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2024/4/961091ce-dcb5-431b-8967-97cfcba332e2.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p>《<a href=\"https://www.ithome.com/0/762/756.htm\" target=\"_blank\">24.98 万-27.98 万元：“家族最小”车型理想 L6 发布，定位家庭五座豪华 SUV</a>》</p></li></ul>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "东风日产 N6 大紫大红内饰色上新：选装价 7000 元，限时免费送",
+    "link": "https://www.ithome.com/0/913/562.htm",
+    "date": "2026-01-15 17:59",
+    "summary": "<p>IT之家 1 月 15 日消息，东风日产今日宣布 N6 大紫大红内饰色上新，选装价 7000 元，限时免费送。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/6e6dd742-881f-4344-b41d-14490572c6df.png?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，东风日产 N6 于去年 12 月上市，共推出 5 款不同配置，售价区间为 9.99 万-12.99 万元，<strong>上市限时权益价 9.19 万-12.19 万元</strong>。</p><ul class=\" list-paddingleft-2\"><li><p>180Air：9.99 万元，限时权益价 9.19 万元</p></li><li><p>180Pro：10.99 万元，限时权益价 10.19 万元</p></li><li><p>180Max：11.49 万元，限时权益价 10.69 万元</p></li><li><p>180Max+：12.19 万元，限时权益价 11.39 万元</p></li><li><p>170Max+ 旗舰：12.99 万元，限时权益价 12.19 万元</p></li></ul><p>车身尺寸方面，日产 N6 的长宽高分别为 4831 毫米、1885 毫米和 1494 毫米，<strong>轴距 2815 毫米</strong>，提供 17 英寸和 18 英寸两种轮辋选择，轮胎规格分别为 225/55 R17 和 225/50 R18。</p><p>内饰方面，日产 N6 提供黑色和米色配色方案。车内采用悬浮式全液晶仪表与大尺寸中控屏的组合，搭配双辐式方向盘和怀挡式换挡机构。此外，方向盘左后侧还设有扩展接口，可用于安装手机支架。</p><p style=\"text-align: center;\"><img class=\"lazy no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2025/11/859f0814-1776-488f-8aa0-d9f832d1df0e.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" title=\"东风日产 N6 中型插混轿车上市，限时权益价 9.19 万-12.19 万元\" /></p><p>配置上，日产 N6 提供前排手机无线充电、前排座椅电动调节、<strong>通风、加热、按摩功能</strong>、双温区自动空调、后排空调出风口、电动天窗和氛围灯等。</p><p>动力系统方面，日产 N6 搭载 1.5 升插电混动系统，配备型号为 NR15 的 1.5 升自然吸气发动机，最大功率 75 千瓦，电机最大功率 155 千瓦。车辆配备由瑞浦兰钧能源股份有限公司提供的磷酸铁锂电池，电池容量为 21.1 千瓦时，<strong>CLTC 工况下纯电续航里程可达 180 公里</strong>。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "115 网盘停止发放每月免费赠送的“允许他人免登录下载流量”权益",
+    "link": "https://www.ithome.com/0/913/561.htm",
+    "date": "2026-01-15 17:55",
+    "summary": "<p>IT之家 1 月 15 日消息，115 网盘官方今日发布通知，将对“<strong>免登录下载流量</strong>”的相关权益进行如下调整：</p><blockquote><p>自 2026 年 1 月 15 日（周四）起，<strong>系统将停止发放每月免费赠送的“允许他人免登录下载流量”权益</strong>。在此之前已购买的流量权益继续有效，不受此次调整影响，后续如有相关需要，可随时按需购买。</p><p>我们会持续优化服务体验，始终为你提供稳定可靠的存储与分享支持，再次感谢你的理解与陪伴。</p></blockquote><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/a9477068-35ff-4d33-a969-2f7979ee2a6c.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: justify;\">IT之家查询获悉，<strong>115 网盘免登录下载流量包（1G）售价 2 元</strong>。这是接收者在文件分享页无需登录，直接下载文件的流量。流量包采用使用抵扣的方式进行计费，消耗多少抵扣多少，流量包长期有效。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/47fa9ba2-1da3-4536-893c-c83623f4ad9b.jpg?x-bce-process=image/format,f_auto\" /></p>"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "致那些因人工智能而解雇技术撰稿人的公司",
+    "link": "https://passo.uno/letter-those-who-fired-tech-writers-ai/",
+    "date": "2026-01-15 21:17",
+    "summary": "A letter to those who fired tech writers because of AI"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "照片展现中国风电与太阳能建设令人惊叹的规模",
+    "link": "https://e360.yale.edu/digest/china-renewable-photo-essay",
+    "date": "2026-01-15 20:40",
+    "summary": "Photos Capture the Breathtaking Scale of China''s Wind and Solar Buildout"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "树莓派新款AI扩展板新增8GB内存，支持本地大型语言模型",
+    "link": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/",
+    "date": "2026-01-15 20:40",
+    "summary": "Raspberry Pi''s New AI Hat Adds 8GB of RAM for Local LLMs"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "Show HN: Webctl – 基于命令行界面（CLI）而非管理控制台（MCP）的代理浏览器自动化工具",
+    "link": "https://github.com/cosinusalpha/webctl",
+    "date": "2026-01-15 20:40",
+    "summary": "Webctl – Browser automation for agents based on CLI instead of MCP"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "Handy – 免费开源语音转文字应用",
+    "link": "https://github.com/cjpais/Handy",
+    "date": "2026-01-15 20:02",
+    "summary": "Handy – Free open source speech-to-text app"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "气泡膜：一种灵活的方式，防止代理访问您的.env文件",
+    "link": "https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/",
+    "date": "2026-01-15 20:02",
+    "summary": "Bubblewrap: A nimble way to prevent agents from accessing your .env files"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "已开始务农",
+    "link": "https://dylan.gr/1768295794",
+    "date": "2026-01-15 19:27",
+    "summary": "Have Taken Up Farming"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "Ask HN: 今天你发现了什么或探索了什么？",
+    "link": "https://news.ycombinator.com/item?id=46619464",
+    "date": "2026-01-15 19:27",
+    "summary": "What did you find out or explore today?"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "编译器开发",
+    "link": "https://craftinginterpreters.com/",
+    "date": "2026-01-15 18:16",
+    "summary": "Crafting Interpreters"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "Ask HN: Archive.today 的奇怪行为？",
+    "link": "https://news.ycombinator.com/item?id=46624740",
+    "date": "2026-01-15 17:07",
+    "summary": "Weird archive.today behavior?"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "太阳位置计算器",
+    "link": "https://drajmarsh.bitbucket.io/earthsun.html",
+    "date": "2026-01-15 16:32",
+    "summary": "Sun Position Calculator"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "Ask HN: 你们在本地如何开展RAG工作？",
+    "link": "https://news.ycombinator.com/item?id=46616529",
+    "date": "2026-01-15 16:32",
+    "summary": "How are you doing RAG locally?"
   }
 ]
