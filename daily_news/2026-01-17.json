@@ -1,0 +1,282 @@
+[
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "ChatGPT Translate - 使用ChatGPT翻译",
+    "link": "https://chatgpt.com/translate/",
+    "date": "2026-01-17 06:55",
+    "summary": "Translate with ChatGPT"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "Dynamic Content by beehiiv - 现在您可以为每位读者量身定制专属的电子通讯",
+    "link": "https://www.beehiiv.com/",
+    "date": "2026-01-17 02:50",
+    "summary": "Now you can tailor a single newsletter for every reader"
+  },
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "Stracti - 无需编写代码即可构建AI游戏机器人",
+    "link": "https://stracti.com/",
+    "date": "2026-01-17 01:37",
+    "summary": "Build AI game bots with no code required"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "微软承认 1 月 Win11 更新导致经典版 Outlook 卡顿 / 卡死等",
+    "link": "https://www.ithome.com/0/914/004.htm",
+    "date": "2026-01-17 09:13",
+    "summary": "<p>IT之家 1 月 17 日消息，科技媒体 bleepingcomputer 昨日（1 月 16 日）发布博文，报道称微软承认 Windows 11 的 1 月安全更新（KB5074109）存在漏洞，<strong>导致使用 POP 协议的经典版 Outlook 桌面客户端出现假死、无法退出及无法重启等问题。</strong></p><p>IT之家注：POP 全称为 Post Office Protocol，是一种古老但常用的电子邮件接收方式。就像用户去邮局把信件取回家一样，使用 POP 协议会将邮件从服务器下载到你的电脑上，通常服务器上就不保留备份了（除非特殊设置）。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/2d4a4e82-b322-43a3-9820-b4d2ef2d3e9d.jpg?x-bce-process=image/format,f_auto\" /></p><p>虽然 POP 协议在普及度上不如 IMAP 或 Exchange，但仍被大量家庭用户和小型企业广泛用于将邮件从服务器下载到本地设备。</p><p>技术细节显示，故障源头指向了编号为 KB5074109 的安全更新，主要波及 Windows 11 25H2 和 24H2 版本。受影响用户发现，Outlook 进程无法正确终止，直接导致软件陷入“假死”循环。</p><p>微软回应表示：“这是一个新出现的问题，我们尚未掌握所有症状，但会随着调查深入更新相关信息。”微软的 Outlook 和 Windows 团队目前已介入调查，但官方尚未提供永久修复补丁的具体发布时间，也未给出官方推荐的无损解决方案。</p><p>在官方补丁发布前，受影响用户可通过卸载 KB5074109 更新来恢复 Outlook 的正常使用。用户需进入“设置”应用，依次点击“Windows 更新”&gt;“更新历史记录”&gt;“卸载更新”，找到并卸载“Security Update for Microsoft Windows (KB5074109)”。</p><p><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p>《<a href=\"https://www.ithome.com/0/913/006.htm\" target=\"_blank\">有用户反馈微软 Win10/Win11 经典版 Outlook 存在签名失效 BUG</a>》</p></li><li><p>《<a href=\"https://www.ithome.com/0/912/673.htm\" target=\"_blank\">慎更 Win10/Win11 新版微软 Outlook 1.2025.1209.500，恐导致多邮箱管理瘫痪</a>》</p></li><li><p>《<a href=\"https://www.ithome.com/0/911/393.htm\" target=\"_blank\">微软承认 Win10/Win11 经典版 Outlook v2511 存在 BUG，导致无法打开加密邮件</a>》</p></li><li><p>《<a href=\"https://www.ithome.com/0/904/808.htm\" target=\"_blank\">Win11 Outlook 点半天打不开？微软新 API 专查 WebView2 网页应用“卡壳”原因</a>》</p></li></ul>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "地球上看不见的水：“超离子水”微观结构首次被观测",
+    "link": "https://www.ithome.com/0/914/001.htm",
+    "date": "2026-01-17 09:03",
+    "summary": "<p>IT之家 1 月 17 日消息，科技媒体 Golem 昨日（1 月 16 日）发布博文，报道称科学家利用超快 X 射线衍射技术，<strong>成功观测到一种全新的“超离子水”结构。</strong></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/1f2f87f5-1a5a-4448-bb34-acc5a42d5ba5.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>超离子水的微观结构示意图，其中氧原子形成刚性晶格，而氢离子几乎可以在其中自由移动。这种极端状态通常只存在于大型行星的内部，而此次实验是利用强激光进行的。（图源：Greg Stewart / SLAC 国家加速器实验室）</figcaption><p>来自德国罗斯托克大学、法国 CNRS 综合理工学院及赫姆霍兹德累斯顿-罗森多夫中心的研究团队，利用超快 X 射线衍射技术，首次清晰观测到一种前所未见的水的形态。</p><p>这种被称为“超离子水”的物质展现出独特的微观构造：氧原子形成固定的晶格骨架，而氢原子核（质子）则像液体一样在骨架间自由穿梭，这种奇特的“固液混合”态赋予了水极高的导电性能。</p><p>这一发现为行星科学解开了一个长期谜题。天王星和海王星这两颗“冰巨星”拥有极不寻常的磁场，结构错综复杂，甚至拥有四个磁极，且磁场强度波动剧烈，部分区域远超地球磁场。</p><p>研究团队推测，其原因正是因为这两颗行星内部深处充满了这种高导电的超离子水。鉴于天王星和海王星的主要成分是水，科学家认为，这种在地球上罕见的超离子水，很可能才是太阳系中水最普遍的存在形式。</p><p>要让水进入这种奇异状态，条件极为苛刻。实验数据显示，只有在约 2500 开尔文（2200℃）的高温和超过 150 吉帕（GPa）的压力下才会发生相变。</p><p>150 吉帕相当于地球大气压的 150 万倍，这种压力在冰巨星内部司空见惯，但在实验室中却极难实现。研究人员通过快速连续的冲击压缩，成功在实验室瞬间制造了高达 180 吉帕的极端环境。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/4d9ff357-b408-4e03-81eb-6f39d519e0f5.png?x-bce-process=image/format,f_auto\" /></p><figcaption>实验装置示意图，图源：论文</figcaption><p>维持这种极端状态的时间极短，仅能持续数皮秒（万亿分之一秒）。为了捕捉这一瞬间的结构，团队使用了与其持续时间相当的超快 X 射线激光脉冲进行探测。</p><p>观测结果令人惊讶：在高压下，氧原子的晶格并非完美排列，而是呈现出面心立方结构与六方堆积的混合形态，内部存在大量堆垛层错。这表明即便在如此惊人的压力下，水分子晶格仍未达到理论上最紧密的堆积状态。</p><p><span class=\"referenceTitle\">IT之家附上参考地址</span></p><ul class=\"custom_reference list-paddingleft-1\"><li class=\"list-undefined list-reference-paddingleft\"><p><a href=\"https://www.uni-rostock.de/universitaet/kommunikation-und-aktuelles/medieninformationen/detailansicht/n/gemeinsame-pressemitteilung-der-universitaet-rostock-cnrs-ecole-polytechnique-und-des-helmholtz-zentrums-dresden-rossendorf-schluessel-zur-erforschung-grosser-planeten-forscherteam-weist-neuartige-form-von-wasser-nach-261779/\" target=\"_blank\">Gemeinsame Pressemitteilung der Universität Rostock, CNRS-École Polytechnique und des Helmholtz-Zentrums Dresden-Rossendorf: Schlüssel zur Erforschung großer Planeten: Forscherteam weist neuartige Form von Wasser nach</a></p></li><li class=\"list-undefined list-reference-paddingleft\"><p><a href=\"https://www.nature.com/articles/s41467-025-67063-2\" target=\"_blank\">Observation of a mixed close-packed structure in superionic water</a></p></li></ul>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "Steam 面向开发者提出新规：应说明游戏中哪些玩家可见的内容使用 AI 生成",
+    "link": "https://www.ithome.com/0/913/999.htm",
+    "date": "2026-01-17 08:54",
+    "summary": "<p>IT之家 1 月 17 日消息，据外媒 NotebookCheck 今日报道，Valve 对 Steam 的 AI 披露机制进行了调整，进一步明确哪些人工智能使用情况需要向玩家公开说明。</p><p>根据更新后的要求，Steam 不再关心开发团队在后台使用的效率型 AI 工具（IT之家注：辅助编程或自动化开发软件等）。Valve 强调，披露重点应放在玩家<strong>实际能够接触到的 AI 生成内容上</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/ac657614-625e-46c7-82f1-d10a0a4fc351.png?x-bce-process=image/format,f_auto\" /></p><p>新的披露规则主要涵盖两类情形。第一类是生成式 AI 参与制作并随游戏发布的内容，包括<strong>美术、音效、剧情、本地化文本、商店页面介绍以及营销素材</strong>。凡涉及此类使用，开发者必须在商店页面“关于本游戏”栏目中说明 AI 的具体用途，并可根据情况进行更新。</p><p>第二类是游戏在运行过程中<strong>动态生成 AI 内容的情况</strong>，例如在游玩时<strong>实时生成图像、音频或文本</strong>。由于该类内容无法在上线前全面审核，Valve 要求开发者在设计阶段<strong>就配套完善的安全与控制措施</strong>。</p><p>Valve 同时明确，确保不当或违法的 AI 生成内容不被玩家接触，是开发者的直接责任。Steam 将通过 Overlay 提供问题举报渠道，若开发者未能有效管理相关系统，Valve 有权将从平台移除游戏。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "微软发布 Win11 Beta 26220.7653 预览版：原生支持 WebP 格式壁纸，重构账户设置等",
+    "link": "https://www.ithome.com/0/913/998.htm",
+    "date": "2026-01-17 08:48",
+    "summary": "<p>IT之家 1 月 17 日消息，微软今天（1 月 17 日）发布博文，邀请 Beta 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的 KB5074157 更新，用户安装后版本号升至 Build 26220.7653。</p><h2>一、优化和调整（逐步推广）</h2><h3>1.1、账户设置</h3><p>微软基于 WinUI 框架，重构了“设置 &gt; 账户”中的“添加账户”或“更改账户类型”操作窗口，新设计不仅在视觉上更符合 Windows 11 的现代美学，还完美适配了系统深色模式，消除了此前旧版界面在风格上的割裂感。IT之家附上截图如下：</p><p style=\"text-align: center;\"><img alt=\"Old 'Add account' dialog user experience for work or school users.\" class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/006dd2e6-2db0-4b60-beec-09e6e22ad686.png?x-bce-process=image/format,f_auto\" /></p><figcaption>旧版“添加账户”对话框用户体验，适用于工作或学校用户。</figcaption><p style=\"text-align: center;\"><img alt=\"New 'Add account' dialog user experience for work or school users.\" class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/2f27c8a6-353c-4782-979b-6df34d774093.png?x-bce-process=image/format,f_auto\" /></p><figcaption>为工作或学校用户提供全新的“添加账户”对话框用户体验。</figcaption><p>需要注意的是，部分弹窗选项仅在设备配置了域加入的工作或学校账户时才会显示。</p><p style=\"text-align: center;\"><img alt=\"Old 'Change account type' dialog user experience for other users present on the device.\" class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/f81bb3cc-fc39-4418-80a0-066ad3699a7e.png?x-bce-process=image/format,f_auto\" /></p><figcaption>旧版“更改账户类型”对话框用户体验，适用于设备上的其他用户。</figcaption><p style=\"text-align: center;\"><img alt=\"New 'Change account type' dialog user experience for other users present on the device.\" class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/d3f1cce3-b126-454c-83df-7dd9732ca052.png?x-bce-process=image/format,f_auto\" /></p><figcaption>为设备上的其他用户提供全新的“更改账户类型”对话框用户体验。</figcaption><h3>1.2、Click to Do</h3><ul class=\"medium-size list-paddingleft-2\"><li><p>微软优化 Click to Do 中的 Copilot 提示词推荐，如今能实现“即时加载”，大幅减少了用户的等待时间（注：该优化暂不向欧洲经济区和中国的用户开放）。</p></li></ul><h3>1.3、桌面程序</h3><ul class=\"medium-size list-paddingleft-2\"><li><p>用户现在可以直接在“设置 &gt; 个性化 &gt; 桌面背景”中，<strong>选取 .webp 格式的图片作为壁纸，无需再进行繁琐的格式转换。</strong></p></li></ul><h2>二、修复（逐步推广）</h2><h3>2.1、任务栏和系统托盘</h3><ul class=\"medium-size list-paddingleft-2\"><li><p>修复了最新版本中的一个问题，即当任务栏设置为自动隐藏后，它可能会先于与屏幕底部交互而触发，从而阻止该区域内的应用程序的使用。</p></li><li><p>修复了最近出现的一个问题，该问题导致有时点击“开始”菜单、“通知中心”和“快速设置”后无响应，但使用键盘快捷键仍然可以打开它们。</p></li></ul><h3>2.2、开始菜单</h3><ul class=\"medium-size list-paddingleft-2\"><li><p>修复了打开开始菜单后可能出现的内存泄漏问题，该问题可能会随着时间的推移导致性能问题。</p></li><li><p>修复了阿拉伯语和希伯来语用户遇到的问题，即当任务栏图标未居中后，开始菜单会在屏幕的错误一侧打开。</p></li><li><p>修复了在“开始”菜单中打开已固定应用程序文件夹并尝试用触摸平移后，会关闭开始菜单的问题。</p></li></ul><h3>2.3、蓝牙</h3><ul class=\"medium-size list-paddingleft-2\"><li><p>修复了在最新版本中，部分 Insider 用户即使设备支持蓝牙功能，也无法显示蓝牙设备电池电量的问题。</p></li></ul><h3>2.4、PC 版 Xbox 全屏体验</h3><ul class=\"medium-size list-paddingleft-2\"><li><p>此版本修复了使用 FSE 时一些应用和游戏出现的意外行为。微软正在继续验证各种场景，因此目前已知问题仍处于激活状态。</p></li></ul><h3>2.5、登录和锁定屏幕</h3><ul class=\"medium-size list-paddingleft-2\"><li><p>修复了登录屏幕上密码图标可能显示为空白的问题。</p></li></ul><h3>2.6、设置</h3><ul class=\"medium-size list-paddingleft-2\"><li><p>修复了在最近两个版本中与音频设备交互时设置崩溃的问题。</p></li><li><p>修复了“设置”&gt;“蓝牙和设备”&gt;“键盘”中的键盘字符重复延迟与后端设置不一致的问题。</p></li></ul><h3>2.7、其它</h3><ul class=\"medium-size list-paddingleft-2\"><li><p>修复了使用高显示缩放比例时 msinfo32 中文本被截断的一些问题。</p></li><li><p>修复了影响部分 Insider 用户的问题，即点击 .appinstaller 文件安装 MSIX 包时会意外失败，并出现无效参数错误。</p></li><li><p>修复了当显示器设置为 125% 时，记事本在使用某些字体时无法在文本中显示下划线的根本问题。</p></li><li><p>修复了一个潜在问题，该问题可能导致某些应用程序设置为启动项后，首次登录电脑后 <span class=\"link-text-start-with-http\">explorer.exe</span> 进程卡死，这可能导致任务栏不显示。</p></li></ul>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "启境汽车详解合作模式：华为提供全栈智能解决方案，正确标识为“华为乾崑 | 启境”",
+    "link": "https://www.ithome.com/0/913/997.htm",
+    "date": "2026-01-17 08:35",
+    "summary": "<p>IT之家 1 月 17 日消息，由广汽集团与华为乾崑联合打造的高端智能新能源汽车品牌“启境”，今日进一步对外阐释了其与华为旗下的智能汽车解决方案品牌“华为乾崑”之间的具体合作模式。</p><p>根据启境汽车发布的官方信息，该品牌的合作模式并非简单的供应关系，而是深度融合。在研发与生产层面，该品牌引入了华为的 IPD（集成产品开发）流程与 IPMS（集成产品营销服务）流程。这意味着双方的合作将贯穿从产品最初定义、研发测试、质量验证到最终营销与服务的全链条环节。</p><p>在核心技术支撑方面，华为乾崑将依托其在智能汽车领域积累的软硬件能力，为启境全系产品提供覆盖智能驾驶、智能座舱、智能车控以及智能车云服务等在内的全栈智能解决方案。这一合作模式旨在将华为在 ICT（信息与通信技术）领域的技术优势，系统性注入汽车产品的定义与开发过程。</p><p>此外，针对品牌联合标识的使用规范，启境官方也作出了明确说明 —— 正确的表述方式为“华为乾崑 | 启境”，并倡导各界在传播中遵守这一规范，以准确反映双方的合作关系与品牌定位。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/4ed3bd2c-2abd-4afd-8366-2be66a9e057c.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家附原文如下：</p><blockquote><p>关于华为乾崑｜启境相关问题的答网友问</p><p>Q1：启境与华为乾崑是怎样的合作模式？</p><p>启境是由广汽集团与华为乾崑联合打造的高端智能新能源汽车品牌，引入华为 IPD (集成产品开发) 和 IPMS（集成产品营销服务）流程，贯穿产品定义、研发与测试、质量验证、营销与服务等环节。华为乾崑依托智能汽车领域的核心技术积累 —— 包括辅助驾驶、智能座舱、智能车控及智能车云服务等，为启境全系产品提供全栈智能解决方案。</p><p>Q2：“华为乾崑 | 启境”的正确使用规范？</p><p>联合标识的正确使用方式为华为乾崑 | 启境，我们倡导各界在传播时遵守相关规范。</p></blockquote><p><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p>《<a href=\"https://www.ithome.com/0/913/632.htm\" target=\"_blank\">启境汽车声明：将“华为”与“启境”进行捆绑命名等易引起误解的表述，应严格予以禁止</a>》</p></li><li><p>《<a href=\"https://www.ithome.com/0/912/382.htm\" target=\"_blank\">启境首台猎装轿跑搭载华为乾崑 L3 级有条件自动驾驶硬件架构，今年二季度亮相</a>》</p></li><li><p>《<a href=\"https://www.ithome.com/0/911/640.htm\" target=\"_blank\">领先一代：华为 × 广汽启境汽车全新猎装轿跑官宣，6 月上市</a>》</p></li><li><p>《<a href=\"https://www.ithome.com/0/910/872.htm\" target=\"_blank\">华为广汽合作启境首款车型开启全国大规模路测，预计 2026 年中正式上市</a>》</p></li></ul>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "4130 万篇论文洞察：AI 让科学家发文量暴涨 3 倍，却让科学路越走越窄",
+    "link": "https://www.ithome.com/0/913/996.htm",
+    "date": "2026-01-17 08:26",
+    "summary": "<p>IT之家 1 月 17 日消息，芝加哥大学社会学家詹姆斯 · 埃文斯（James Evans）团队于 2026 年 1 月 14 日在《Nature》发表重磅研究，<strong>揭示了人工智能在科学界的“双刃剑”效应。</strong></p><p>该团队深入分析了 4130 万篇研究论文，量化评估了人工智能工具对科学发现的双重影响。结果显示，AI 虽然极大地扩展了科学家个人的研究能力，却意外地收缩了科学探索的集体边界，导致科研重心过度集中，潜在的创新领域遭到冷落。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/a2cefcce-ea3c-45e3-8375-0b97ed899d3c.png?x-bce-process=image/format,f_auto\" /></p><p>数据表明，拥抱 AI 的科学家在个人产出上获得了压倒性优势。与不使用 AI 的同行相比，<strong>AI 辅助的研究人员发表论文的数量是其 3.02 倍</strong>，获得的引用次数更是高达 4.85 倍。</p><p>此外，AI 的加持还加速了职业晋升路径，让这些科学家平均提前 1.4 年成长为各自领域的领军人物。AI 工具在处理数据和生成假设方面的惊人效率，显然已成为个人学术竞争力的核心倍增器。</p><p>然而，个人层面的繁荣并未转化为科学界的百花齐放。研究发现，随着 AI 的普及，科学研究的整体议题数量反而缩减了 4.63%，科学家之间的学术互动也下降了 22%。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/4e69a817-cfe8-4540-af33-e2e37a5bd206.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>AI 和非 AI 论文的知识范围</figcaption><p>埃文斯将这种现象称为“孤独的人群”（Lonely Crowds）：热门话题虽然吸引了大量关注，但引用同一作品的论文之间却缺乏实质性互动。科学家们倾向于利用 AI 在已知问题上通过趋同的方法寻找解决方案，而非通过协作去开辟全新的未知领域。</p><p>造成这一现象的根本原因在于 AI 的“数据趋光性”。科学家们正大规模向拥有丰富数据的领域迁移，因为在这些领域，AI 工具能基于易于评估的基准快速产出成果。</p><p>这种趋势导致了“方法论单一化”（Methodological Monocultures），科学界正面临过早收敛于既定范式的风险。大量缺乏数据但可能蕴含重大突破的领域因此变得无人问津，科学探索的多样性正遭到前所未有的侵蚀。</p><figcaption></figcaption><p><span class=\"referenceTitle\">IT之家附上参考地址</span></p><ul class=\"custom_reference list-paddingleft-1\"><li class=\"list-undefined list-reference-paddingleft\"><p><a href=\"https://www.nature.com/articles/d41586-025-04092-3\" target=\"_blank\">Artificial intelligence tools expand scientists’ impact but contract science’s focus</a></p></li></ul><p><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p>《<a href=\"https://www.ithome.com/0/906/795.htm\" target=\"_blank\">研究显示：用 AI 的科研人员论文产出量暴增，但质量隐忧浮现</a>》</p></li></ul>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "被美国法院裁定在搜索领域非法垄断后，谷歌将提出上诉",
+    "link": "https://www.ithome.com/0/913/995.htm",
+    "date": "2026-01-17 08:11",
+    "summary": "<p>IT之家 1 月 17 日消息，北京时间今天早间，据彭博社报道，谷歌正式对一项反垄断裁决提起上诉。该裁决认定，谷歌在<strong>搜索和搜索广告领域实施非法垄断</strong>。此举预计将推迟监管机构要求谷歌调整商业模式的相关措施。</p><p>当地时间周五，谷歌向华盛顿联邦法院提交上诉文件，并申请在上诉期间暂缓执行原裁决。案件预计将由哥伦比亚特区联邦巡回法院审理。根据美国法院系统数据，该法院通常需要约一年时间对上诉案件作出裁定。</p><p>这起反垄断案件最早于 2020 年提出，并在 2023 年秋季完成庭审。</p><p>美国联邦地区法官阿米特 · 梅塔在 2024 年 8 月裁定，谷歌通过与苹果、三星等手机厂商达成<strong>排他性协议</strong>，将自身<strong>搜索引擎</strong>设为默认选项，从而<strong>非法控制搜索市场</strong>。梅塔指出，相关协议涉及谷歌每年超过 200 亿美元（IT之家注：现汇率约合 1396.87 亿元人民币）的支付，实质上封锁了竞争对手进入关键分发渠道。</p><p>在 2025 年春季的补充审理中，梅塔否决了美国司法部要求出售 Chrome 浏览器的请求。梅塔同时要求，谷歌未来仍可为默认搜索和 AI 应用支付费用，但相关合同必须按年重新竞标，以增强市场竞争。</p><p>资本市场对这一结果持乐观态度。自裁决公布以来，谷歌股价累计上涨 56%，投资者普遍认为，谷歌在 AI 领域的竞争优势正在进一步巩固。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "告别面瘫：EMO 机器人 AI 自学掌握对口型，可精准模拟人类表情",
+    "link": "https://www.ithome.com/0/913/994.htm",
+    "date": "2026-01-17 08:07",
+    "summary": "<p>IT之家 1 月 17 日消息，科技媒体 New Atlas 今天（1 月 17 日）发布博文，报道称哥伦比亚大学创意机器实验室（Creative Machines Lab）研发名为 EMO 的机器人面部系统，<strong>解决仿人机器人“恐怖谷”效应中的关键一环：唇形与语音的完美同步。</strong></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/6a39d693-7638-443e-9f17-a6b7ece42dd0.png?x-bce-process=image/format,f_auto\" /></p><figcaption>图源：哥伦比亚大学创意机器实验室（Creative Machines Lab）</figcaption><p>不同于传统预编程的机器人，EMO 具备自我学习能力，能够通过观察人类行为来优化自身的面部表达，让其交互体验更接近《西部世界》中的科幻设定。</p><p>EMO 并未采用刚性外壳，而是覆盖了一层柔软的硅胶皮肤，质感接近真实人类。在这层皮肤之下，研究团队精密部署了 26 个微型电机（致动器）。</p><p>这些电机通过不同组合的协同运作，能够精细牵引皮肤，从而呈现出微妙的面部表情并控制唇形变化。这种硬件架构为 EMO 提供了极高的自由度，<strong>让其能够模拟出从微笑到惊讶等多种复杂神态。</strong></p><p>为了让 EMO 掌握控制面部的技巧，研究团队引入了“视觉-动作”（Vision-to-Action, VLA）语言模型。训练初期，团队将 EMO 置于镜前，让其随机进行数千次面部运动。</p><p>EMO 通过摄像头观察镜中的自己，分析电机指令与最终面部表情之间的因果关系。这一过程类似于人类婴儿通过模仿和观察自我来学习控制肌肉，使机器人建立了内部的本体感官模型。</p><p style=\"text-align: center;\"> </p><p>建立基础运动模型后，EMO 进入了进阶训练阶段。该机器人观看了数小时的人类说话和唱歌的 YouTube 视频，系统通过分析视频中的音频特征与对应的口型变化，映射听觉信号与视觉信号。</p><p>结合此前建立的 VLA 模型，EMO 最终实现了在发出合成语音的同时，实时生成高度吻合的唇部动作，甚至能在发声前几毫秒预判并调整口型。</p><p>尽管 EMO 目前在处理“B”和“W”等闭唇音时仍存在细微瑕疵，但其核心架构已展现出巨大的潜力。研究人员指出，随着训练数据的增加，这些问题将逐步得到解决。未来，团队计划将 EMO 与 ChatGPT 或 Gemini 等先进的对话式 AI 整合。</p><p><span class=\"referenceTitle\">IT之家附上参考地址</span></p><ul class=\"custom_reference list-paddingleft-1\"><li class=\"list-undefined list-reference-paddingleft\"><p><a href=\"https://www.engineering.columbia.edu/about/news/robot-learns-lip-sync\" target=\"_blank\">A Robot Learns to Lip Sync</a></p></li><li class=\"list-undefined list-reference-paddingleft\"><p><a href=\"https://www.science.org/doi/10.1126/scirobotics.adx3017\" target=\"_blank\">Learning realistic lip motions for humanoid face robots</a></p></li><li class=\"list-undefined list-reference-paddingleft\"><p><a href=\"https://newatlas.com/robotics/lip-syncing-robot/\" target=\"_blank\">Lip-syncing robot watches your face to speak like you</a></p></li></ul>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "科技昨夜今晨 0117：曝四家厂商下调全年手机出货预期；比亚迪海洋 8 系预告图公布；英伟达大幅下调数据中心铜使用量需求...",
+    "link": "https://www.ithome.com/0/913/993.htm",
+    "date": "2026-01-17 08:01",
+    "summary": "<p>“科技昨夜今晨”时间，大家好，现在是 2026 年 1 月 17 日星期六，今天的重要科技资讯有：</p><h2>1、存储涨价重压下，曝小米、OPPO、vivo、传音纷纷下调 2026 全年手机出货预期</h2><p>受上游供应链存储涨价影响，多家手机厂商近日下调全年整机订单数量，小米、OPPO 下调超 20%，vivo 下调近 15%，传音下调至 7000 万台以下，各家下调机型主要都侧重在中低端和海外产品。&gt;&gt; <a href=\"https://www.ithome.com/0/913/900.htm\" target=\"_blank\">查看详情</a></p><h2>2、消息称苹果首款折叠屏手机 iPhone Fold 首发 A20 Pro 芯片，基于 2nm 工艺制造</h2><p>分析师称苹果首款折叠屏 iPhone Fold 将于今年 9 月发布，首发搭载基于台积电 2nm 工艺的 A20 Pro 芯片，性能与能效均有显著提升，并采用新的封装技术。&gt;&gt; <a href=\"https://www.ithome.com/0/913/955.htm\" target=\"_blank\">查看详情</a></p><h2>3、汽车行业网络乱象专项整治行动曝光第三批典型案例，“万能的大熊”“Blood 旌旗”等被点名</h2><p>近期，国家网信办会同工业和信息化部等部门聚焦挑动群体对立、炒作负面话题、开展不规范测评等突出问题，持续深入开展汽车行业网络乱象专项整治，依法依约处置一批违法违规账号。&gt;&gt; <a href=\"https://www.ithome.com/0/913/762.htm\" target=\"_blank\">查看详情</a></p><h2>4、英伟达报告搞错单位？200 吨错写成 50 万吨，悄悄大幅下调数据中心铜使用量需求</h2><p>Thunder Said Energy 认为可能是英伟达的单位换算出错了，实际上应该为 50 万磅铜。IT之家查询英伟达博客发现，这一数据目前已修正为 200 吨。&gt;&gt; <a href=\"https://www.ithome.com/0/913/790.htm\" target=\"_blank\">查看详情</a></p><h2>5、工信部明确报废新能源汽车时应当带有动力电池，否则认定车辆缺失（不适用于换电车型）</h2><p>工业和信息化部节能与综合利用司司长王鹏表示，2025 年，我国新能源汽车废旧动力电池综合利用量超过 40 万吨，同比增长 32.9%，骨干企业锂、钴、镍等金属回收率处于国际先进水平。&gt;&gt; <a href=\"https://www.ithome.com/0/913/792.htm\" target=\"_blank\">查看详情</a></p><h2>6、罗永浩长文回应“西贝关闭大量门店”：锤子科技集中被黑四年，没有企业仅因“被黑”就倒闭的</h2><p>“锤子科技做了五年，集中被黑就有足足四年。锤子科技是被我做倒闭的，后期上千名同事的团队被裁、被转让，都是我的原因，跟被黑没什么关系。我这辈子也没有见过一个企业没犯别的错误，仅仅是因为被黑，就能倒闭的。”&gt;&gt; <a href=\"https://www.ithome.com/0/913/845.htm\" target=\"_blank\">查看详情</a></p><h2>7、消费者携 2018 款 MacBook Pro 前往苹果 Apple Store 换电池，“意外”换回 M4 Max 顶配机型</h2><p>一位用户的 2018 款 MacBook Pro 因电池问题送修，苹果店因维修失误，最终赔偿给他一台顶配的 16 英寸 M4 Max MacBook Pro。类似“因祸得福”的案例在 Reddit 上并非首次出现。&gt;&gt; <a href=\"https://www.ithome.com/0/913/663.htm\" target=\"_blank\">查看详情</a></p><h2>8、行业首个：鸿蒙电视大屏操作系统 FunOS 发布，预计下半年商用</h2><p>FunOS 可以搭载在电视、投影、音箱等鸿蒙终端，面向家庭、教育、娱乐等场景规模化应用。&gt;&gt; <a href=\"https://www.ithome.com/0/913/789.htm\" target=\"_blank\">查看详情</a></p><h2>9、罗马仕被曝正亏本清理库存充电宝：27000mAh 型号售价 45 元</h2><p>罗马仕因产品安全风险陷入多重困境，现正通过渠道商亏本清理库存充电宝，涉及基础款与快充款。知情人士称产品为 3C 认证取消前生产，仍保留有效标识。公司此前已启动“重生计划”力求恢复。&gt;&gt; <a href=\"https://www.ithome.com/0/913/747.htm\" target=\"_blank\">查看详情</a></p><h2>10、长城汽车总裁穆峰称“打死不做增程”：增程是对技术的偷工减料，对出行本质的妥协</h2><p>长城汽车总裁穆峰在归元平台发布会上明确表示“打死不做增程”，他认为增程技术因发动机无法直驱，在中高速场景下能量传递链路过长，效率比直驱至少降低 13%，是对技术的偷工减料和对出行本质的妥协。&gt;&gt; <a href=\"https://www.ithome.com/0/913/944.htm\" target=\"_blank\">查看详情</a></p><h2>11、华为智能门锁 X1 金玉满堂上架：玉感外观、镀金铭牌，14999 元</h2><p>华为智能门锁 X1 金玉满堂上架，定价 14999 元，主打“玉感外观、镀金铭牌”，设计灵感源于古代宫殿斗拱。支持人脸、掌静脉、指纹等多种开锁方式，内置 10000mAh 电池。还为双开门场景提供 6000 元装饰锁。&gt;&gt; <a href=\"https://www.ithome.com/0/913/803.htm\" target=\"_blank\">查看详情</a></p><h2>12、马斯克网红前女友起诉 xAI：指控 Grok 生成脱衣照且拒绝删除</h2><p>马斯克前女友阿什莉 · 圣克莱尔起诉 xAI，指控其聊天机器人 Grok 未经许可生成并传播她的色情露骨图像，构成骚扰。她曾要求删除但未获处理，反遭 X 平台取消变现资格。xAI 已宣布禁用该功能。&gt;&gt; <a href=\"https://www.ithome.com/0/913/654.htm\" target=\"_blank\">查看详情</a></p><h2>13、比亚迪海洋 8 系双旗舰预告图公布：轿车海豹 08、SUV 海狮 08</h2><p>1 月 16 日上午，比亚迪汽车官宣了海洋 8 系双旗舰车型 —— 轿车海豹 08、SUV 海狮 08，并同步放出两款新车的预告图。从形态来看，海豹 08 预计是一款中大型轿跑，海狮 08 则是一款风格颇为硬朗的中大型 SUV。&gt;&gt; <a href=\"https://www.ithome.com/0/913/687.htm\" target=\"_blank\">查看详情</a></p><h2>14、李国庆谈“迅雷再起诉前 CEO 陈磊”：最恨内部贪腐和办公室恋情</h2><p>时隔超五年，迅雷公司及其子公司网心科技，以“损害公司利益责任纠纷”为由，对前 CEO 陈磊及其核心团队提起民事诉讼，追索金额高达 2 亿元。目前该案已被深圳相关法院受理立案。&gt;&gt; <a href=\"https://www.ithome.com/0/913/869.htm\" target=\"_blank\">查看详情</a></p><h2>15、医保药品比价小程序已全国上线：一键查询附近药店实时价格，服务全民可及</h2><p>国家医保局宣布，医保药品比价小程序已在全国 31 个省（区、市）及新疆生产建设兵团上线。参保人可通过微信、支付宝或国家医保服务平台 App，查询附近定点药店的药品实时价格、库存，并支持价格、距离排序及导航。部分地区还新增了拍照识药、线上购药配送等功能。&gt;&gt; <a href=\"https://www.ithome.com/0/913/752.htm\" target=\"_blank\">查看详情</a></p><p>今天就先聊到这里，科技昨夜今晨，咱们明天见。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "苹果预告 2026 超级碗中场秀：Bad Bunny 领衔，定档 2 月 8 日",
+    "link": "https://www.ithome.com/0/913/992.htm",
+    "date": "2026-01-17 07:57",
+    "summary": "<p>IT之家 1 月 17 日消息，科技媒体 9to5Mac 昨日（1 月 16 日）发布博文，报道称苹果发布第 60 届超级碗（Super Bowl LX）中场秀的完整预告片，<strong>确认 Bad Bunny 将于 2026 年 2 月 8 日登台领衔演出。</strong></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/36b5bff9-5302-478d-81ad-8a1bbc61d5fb.png?x-bce-process=image/format,f_auto\" /></p><p>IT之家查询公开资料，Bad Bunny 本名贝尼托 · 安东尼奥 · 马丁尼兹 · 奥卡西奥（Benito Antonio Martínez Ocasio），1994 年 3 月 10 日生于波多黎各维加巴哈，波多黎各歌手、演员、职业摔跤运动员。</p><p style=\"text-align: center;\"> </p><p>在今日发布的预告片中，Bad Bunny 伴随着其热门单曲《BAILE INoLVIDABLE》起舞，画面中穿插了不同国籍、风格和文化背景的人群，凸显了多元包容的视觉主题。</p><p>对于 Bad Bunny 而言，这将是他职业生涯的重要里程碑。虽然他曾在 2020 年夏奇拉（Shakira）与詹妮弗 · 洛佩兹（Jennifer Lopez）的中场秀中作为嘉宾短暂亮相，但此次是他首次以独立主唱（Headliner）的身份掌控全场。同时，这也标志着他从百事可乐（Pepsi）赞助时代的配角，正式转变为 Apple Music 赞助时代的主角。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "iPhone 17 等用户反馈苹果灰度测试 iOS 26.3 版 App Store：移除广告蓝色背景",
+    "link": "https://www.ithome.com/0/913/991.htm",
+    "date": "2026-01-17 07:50",
+    "summary": "<p>IT之家 1 月 17 日消息，科技媒体 9to5Mac 昨日（1 月 16 日）发布博文，报道称在 iOS 26.3 系统中，苹果正测试全新的 App Store 搜索广告设计，<strong>核心变化在于移除了付费推广结果原本特有的蓝色背景。</strong></p><p>部分升级至 iOS 26.3 的 iPhone 17 等用户反馈，App Store 搜索结果中的赞助内容（Sponsored Results）发生了显著视觉变化：苹果移除以往用于区分付费广告与自然搜索结果的浅蓝色背景。这一调整让付费广告在视觉上与普通应用列表几乎融为一体。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/bbfbd1de-6e45-42e7-9502-a5ba20aca13d.png?x-bce-process=image/format,f_auto\" /></p><p>在移除了标志性的蓝色背景后，用户区分自然搜索结果与推广广告的唯一依据，<strong>仅剩下应用图标旁那个不起眼的灰色“Ad”（广告）标签。</strong>这意味着用户在快速浏览列表时，极易忽略这一微小标识。</p><p>IT之家援引博文介绍，该媒体强调目前并非所有 iOS 26.3 用户都能看到这一变化，<strong>表明苹果正处于 A/B 测试（灰度测试）阶段，尚未决定是否向所有用户正式推广该设计。</strong>该媒体已就此变化联系苹果寻求置评，询问该设计未来是否会全面铺开。</p><p>这一设计调整并非孤立事件，很可能与苹果在 2025 年 12 月发布的声明存在关联。公司当时宣布，App Store 的搜索结果将很快不再局限于单条赞助内容，而是会包含多个广告位。移除蓝色背景可能是为了让多条广告在列表中排列得更加紧凑和整洁，实现广告内容与自然内容的“无缝融合”，避免因大面积色块导致界面割裂。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "红牛 2026 F1 赛季启动：苹果站 C 位，发布会成 iPhone 17、Vision Pro 秀场",
+    "link": "https://www.ithome.com/0/913/990.htm",
+    "date": "2026-01-17 07:41",
+    "summary": "<p>IT之家 1 月 17 日消息，科技媒体 Appleinsider 昨日（1 月 16 日）发布博文，红牛车队（Oracle Red Bull Racing）携手 Visa Cash App RB 车队，<strong>联合举办了 2026 赛季 F1 发布会，苹果硬件在活动中占据了核心位置，成为全场焦点。</strong></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/17bc3d02-085e-4d86-a49e-9dbdd799bcaa.jpg?x-bce-process=image/format,f_auto\" /></p><p>与以往仅在广告时段露面不同，苹果此次直接介入了发布会的核心流程，其产品在媒体制作和技术演示中的存在感令观众难以忽视。</p><p>直播过程中，屏幕上赫然出现的“Shot on iPhone（iPhone 拍摄）”标签引发了广泛关注。这一标识并未出现在独立的商业广告或预录宣传片中，而是直接嵌入了发布会的主直播画面里。</p><p>苹果此前虽长期使用该口号进行营销，但通常会与现场赛事转播严格区分。此次“越界”行为表明，iPhone 的影像能力已获得专业认可，并开始承担起 F1 车队官方直播流制作设备的重任，打破了消费级设备与专业广电设备之间的壁垒。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/e87fab1a-e8b1-4465-be78-e5001b2bd9e5.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家援引博文介绍，在介绍红牛福特动力总成技术的关键环节，演讲者直接佩戴苹果 Vision Pro 头显登台，并将其作为演示流程的一部分。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/e545794e-39ed-4b1d-bd4a-753db82991f8.jpg?x-bce-process=image/format,f_auto\" /></p><p>红牛车队显然意在通过此举，向外界展示 Vision Pro 在工程可视化和未来技术研发中的实际应用价值，将其定位为一款严肃的生产力工具。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "OpenAI 全面上线“廉价版”ChatGPT Go 订阅方案：每月 8 美元，将包含广告",
+    "link": "https://www.ithome.com/0/913/989.htm",
+    "date": "2026-01-17 07:33",
+    "summary": "<p>IT之家 1 月 17 日消息，OpenAI 的低价订阅方案 ChatGPT Go 现已正式推向美国及全球市场。该方案最早于去年 8 月在印度上线，随后覆盖 170 个国家，并在北京时间今天凌晨宣布面向全球范围开放。</p><p>OpenAI 通过公告宣布，ChatGPT Go 在已上线的地区拥有较高接受度，用户已将该服务用于<strong>写作、学习、图像生成和问题解决</strong>等高频日常场景。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/bda38ece-d7a2-471d-a130-11fce234eac4.jpg?x-bce-process=image/format,f_auto\" /></p><p>ChatGPT Go 的定价为每月 8 美元（IT之家注：美区，现汇率约合 55.8 元人民币），功能配置高于免费版，低于每月 20 美元（现汇率约合 139.6 元人民币）的 Plus 订阅档。相比免费用户，Go 订阅可获得<strong>更多消息额度、文件上传权限和图像</strong>生成功能。</p><p>OpenAI 表示，该订阅档主要面向希望更频繁使用<strong>最新快速模型 GPT-5.2 Instant</strong> 的用户。目前，免费用户在<strong>每 5 小时内只能发送 10 条 GPT-5.2 消息</strong>，随后系统会自动切换至简化版本模型；Plus 用户则可在<strong>每 3 小时内发送 160 条消息</strong>。公告提到，Go 订阅的额度<strong>约为免费版的 10 倍</strong>，但具体消息上限和时间区间尚未对外披露。</p><p>在文件上传和图像生成方面，OpenAI 同样未公布 ChatGPT Go 的具体限制，且未公开任何订阅档的精确数值，仅以“有限”或符号标注区分权限层级。</p><p>在模型能力上，ChatGPT Go 的上下文窗口和记忆能力也将高于免费版，具体规格仍然仍待确认。目前，免费用户在非推理请求中的上下文窗口为 16K，Plus 订阅为 32K，而在推理任务中，两者均可使用 196K 上下文窗口。</p><p>此外，OpenAI 确认，未来将在美国市场<strong>为 ChatGPT Go 引入广告</strong>，而 Plus 及更高档位的订阅方案将继续保持无广告模式。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "8 年间 Apple Store 多次违规，苹果在美国新泽西州被罚 15 万美元",
+    "link": "https://www.ithome.com/0/913/988.htm",
+    "date": "2026-01-17 07:23",
+    "summary": "<p>IT之家 1 月 17 日消息，科技媒体 Appleinsider 昨日（1 月 16 日）发布博文，报道称苹果公司与美国新泽西州达成和解，<strong>同意支付 15 万美元（IT之家注：现汇率约合 104.7 万元人民币）罚款，并承诺整改其门店的价格展示方式。</strong></p><p>IT之家援引博文介绍，此次处罚源于苹果违反了其于 2017 年与该州签署的一项“同意令”，<strong>同意遵守该州的明码标价法，承诺会确保店内商品价格清晰可见。</strong></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/c591a754-a883-460d-8b1e-ff65a5021ecd.jpg?x-bce-process=image/format,f_auto\" /></p><p>新泽西州总检察长办公室表示，在过去 8 年时间里，苹果公司屡次未能通过检查，在 2025 年针对州内 11 家 Apple Store 的突击复查结果显示，所有门店均存在违规行为。</p><p>调查显示，展示桌上的大量商品，尤其是充电线、保护壳和音频设备等配件，<strong>周围完全没有实体价格标签。</strong></p><p>此外，部分门店甚至未在入口或收银台等显眼位置张贴退款政策，这直接违反了美国《消费者欺诈法》。这种做法迫使消费者必须主动解锁设备屏幕、扫描二维码或寻找店员咨询才能得知价格，增加了比价难度。</p><p>该媒体认为此次冲突的核心，在于苹果推崇的“极简主义”零售美学与传统消费者保护法之间的矛盾。苹果倾向于保持展示桌面的整洁，<strong>利用屏幕弹窗、iPad 互动或 APP 来展示价格，而非使用传统的纸质价签。</strong></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/c4c72440-3e62-401b-8f21-fe6631886b05.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>以上图源：苹果</figcaption><p>然而，美国新泽西州法律明确规定，价格必须“标注在商品上或其附近”。监管机构认为，苹果过度依赖数字化交互的定价方式剥夺了消费者的知情权，<strong>2017 年的协议本就旨在限制这种做法，要求即便使用电子显示，也必须确保价格“一目了然”。</strong></p><p>根据最新的和解协议，苹果必须调整其新泽西州门店的陈列逻辑。新规明确要求：<strong>苹果不得在未标明总售价的情况下销售商品。</strong></p><p>价格信息必须在用户进行“有限交互”（如轻触屏幕）后立即显示，或者直接以物理方式展示在商品旁，回归到更直观的标价模式。同时，退款政策必须在顾客视线范围内（如入口、收银台或商品本身）清晰张贴，不得隐藏。</p><p>虽然 15 万美元对市值万亿的苹果而言微不足道，但这却是新泽西州依据《商品定价法》达成的史上最大一笔和解金额。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "美国加州致函马斯克 xAI，要求其阻止 Grok 生成未成年色情深度伪造图像",
+    "link": "https://www.ithome.com/0/913/987.htm",
+    "date": "2026-01-17 07:12",
+    "summary": "<p>IT之家 1 月 17 日消息，今天凌晨，据《商业内幕》报道，美国加州总检察长罗布 · 邦塔正式向 xAI 发出要求：阻止聊天机器人 Grok 生成涉及儿童的不良深度伪造图像。</p><p>在 Grok 被持续指控可生成未经同意的色情相关不良内容之后，邦塔办公室向 xAI 发出一份“终止”函，要求后者立即整改。</p><p>邦塔在信中明确要求，xAI 必须防止 Grok 生成<strong>任何未经当事人请求的不良图像</strong>，或涉及未成年人的相关内容。信函指出，如继续允许此类内容生成或传播，将构成违反加州多项法律，包括深度伪造色情内容、儿童性虐待影像、非法录制以及不正当商业行为相关法规。</p><p>xAI 被要求在 1 月 20 日下午 5 点前完成整改。</p><p>此前，X 平台曾于本周表示，已对 Grok 功能进行限制。X 的安全团队称，平台已通过技术手段禁止 Grok 对穿着比基尼等暴露服装的真实人物图像进行编辑，该措施<strong>对所有用户都适用</strong>。</p><p>但报道指出，X 应用和 Grok 应用仍可生成不良图像。Grok 因可在用户请求下“脱衣”处理真实人物图像、并生成未经同意的不良深度伪造内容，正遭遇多国政府的反弹与法律追责。</p><p>在发出停止函前，邦塔已公开宣布调查 xAI 在网上生成并发布未经同意的露骨性内容。</p><p>另一起案件中，网红及政治策略顾问阿什莉 · 圣克莱尔已对 xAI 提起诉讼，指控 Grok 使用她未成年时期的照片，在未经同意的情况下生成性露骨深度伪造图像。</p><p>英国首相基尔 · 斯塔默曾在下议院发言称，Grok 生成的相关图像“令人作呕、令人羞耻”。印度尼西亚、马来西亚和菲律宾也已宣布封锁 Grok ，据IT之家了解，目前尚无解禁迹象。</p><p>截至发稿，加州总检察长办公室未回应媒体置评请求。<strong>xAI 则通过自动回复称：“传统媒体在撒谎。”</strong></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "消息称英伟达超越苹果，成为台积电最大客户",
+    "link": "https://www.ithome.com/0/913/986.htm",
+    "date": "2026-01-17 07:11",
+    "summary": "<p>IT之家 1 月 17 日消息，半导体记者蒂姆 · 库尔潘（Tim Culpan）于 1 月 15 日发布博文，报道称伴随着英伟达在 AI 领域的强势崛起，<strong>苹果在台积电的“头号客户”地位已岌岌可危。</strong></p><p>报告指出台积电首席执行官魏哲家于 2025 年 8 月造访苹果总部时，给库克带来了两大冲击：一是必须接受多年来最大幅度的涨价，二是苹果不再享有产能优先权。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/df2fcacb-f4a4-423f-8d44-9e251522ac71.png?x-bce-process=image/format,f_auto\" /></p><p>随着 AI 芯片需求井喷，英伟达和 AMD 的 GPU 占据了大量晶圆面积，苹果芯片已无法确保存得一席之地。</p><p>供应链消息指出，在台积电 2025 年的部分季度甚至全年营收贡献上，英伟达可能已经超过苹果；即便在 2025 年没有超越，这一权力更迭在 2026 年几乎板上钉钉。</p><p>财报数据显示，台积电 2025 年营收 1220 亿美元，同比增长 36%，第四季度毛利率更是达到惊人的 62.3%。相比之下，英伟达营收预计飙升 62%，而苹果产品营收仅增长 3.6%。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/7b95b6b7-e13e-4bd4-aac6-3f3c9a4364ca.png?x-bce-process=image/format,f_auto\" /></p><p>智能手机增长停滞（仅 11%），而包含 AI 芯片的高性能计算（HPC）板块则激增 48%。台积电预测，未来五年 AI 板块的平均年增长率将超过 55%，远超公司整体增速。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/99a35e16-607c-46e4-86b3-17963a31c8dc.png?x-bce-process=image/format,f_auto\" /></p><p>台积电的技术路线图也正向 AI 倾斜。虽然苹果是当前 2 纳米（N2）节点的主要买家，但即将推出的 A16 节点及其搭载的“超级电轨”（Super Power Rail）技术，被魏哲家明确定义为“最适合复杂信号路由的高性能计算”。这意味着，最先进的制程工艺将优先满足英伟达等 AI 芯片厂商的需求，而非首选移动设备。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/f17a96de-0f75-4e1e-8984-9de3a5982d66.png?x-bce-process=image/format,f_auto\" /></p><p>面对需求，台积电宣布 2026 年资本支出将攀升至 520 亿至 560 亿美元（IT之家注：现汇率约合 3629.92 亿至 3909.14 亿元人民币）的历史新高。尽管有分析师批评扩产速度不够快，但魏哲家保持谨慎。</p><p>与谷歌或英伟达等高毛利、轻资产的客户不同，台积电承担着巨大的折旧风险（占营收成本 45%）。一旦 AI 泡沫破裂，只有台积电会背负昂贵的闲置工厂。因此，即便英伟达目前势头强劲，拥有广泛产品线和抗风险能力的苹果，在未来十年内仍是台积电不可或缺的稳定基石。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "史上最佳显示效果：消息称苹果 M6 MacBook Pro 的 OLED 屏幕本月开始量产",
+    "link": "https://www.ithome.com/0/913/985.htm",
+    "date": "2026-01-17 06:59",
+    "summary": "<p>IT之家 1 月 17 日消息，消息源 yeux1122 昨日（1 月 16 日）发布博文，爆料称三星显示（Samsung Display）为苹果的 MacBook Pro，<strong>将于 1 月 26 日启动 8.6 代 OLED 面板量产，早于业界预估的 2026 年第 2 季度。</strong></p><p>爆料人指出，这批高规格屏幕明确是为苹果旗下的 M6 MacBook Pro 量身定制的，并表示“<strong>将展现有史以来所有 OLED 笔记本电脑中最好的显示效果”。</strong></p><p>这一进展与此前关于“苹果已与三星签署独家显示屏供应协议”的报道相吻合，表明苹果正在加速推进其高端笔记本电脑的屏幕升级计划。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/d2ea0151-0311-44a5-9efc-8e6fbb7d7ea9.jpg?x-bce-process=image/format,f_auto\" /></p><p>此次投产的 OLED 屏幕将为 MacBook Pro 带来显著的画质提升。正如 M5 iPad Pro 所展示的那样，OLED 技术能呈现出更丰富的色彩和纯粹的黑色，这将成为吸引老用户升级的关键动力。</p><p>更引人关注的是，这批屏幕有望采用 On-Cell Touch AMOLED（OCTA）技术。结合三星显示此前发布的笔记本触控 OLED 方案，再次引发了外界对于苹果将推出“触控版 MacBook Pro”的猜测。IT之家附上苹果此前触控 MacBook 专利图如下：</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/eaaa397e-5fca-4f04-8e35-26a8f884140f.jpg?x-bce-process=image/format,f_auto\" /></p><p>尽管量产消息令人振奋，但这并不意味着消费者能在短期内见到实机。针对即将于 2026 年 1 月 28 日发布的 Apple Creator Studio 及可能随之亮相的新 Mac，这批刚进入量产阶段的屏幕显然赶不上组装进度。</p>"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "开发者主导的测试：为何实践中失败而理论上成功",
+    "link": "https://dl.acm.org/doi/10.1145/3780063.3780066",
+    "date": "2026-01-17 08:33",
+    "summary": "Dev-owned testing: Why it fails in practice and succeeds in theory"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "污秽无处不在，只要你睁眼细看",
+    "link": "https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/",
+    "date": "2026-01-17 07:28",
+    "summary": "Slop is everywhere for those with eyes to see"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "Read_once()、Write_once()，但不适用于Rust",
+    "link": "https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/",
+    "date": "2026-01-17 07:28",
+    "summary": "Read_once(), Write_once(), but Not for Rust"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "LWN目前正遭受有史以来最严重的爬虫攻击",
+    "link": "https://social.kernel.org/notice/B2JlhcxNTfI8oDVoyO",
+    "date": "2026-01-17 06:55",
+    "summary": "LWN is currently under the heaviest scraper attack seen yet"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "东德热气球逃亡事件",
+    "link": "https://en.wikipedia.org/wiki/East_Germany_balloon_escape",
+    "date": "2026-01-17 06:55",
+    "summary": "East Germany balloon escape"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "戴尔UltraSharp 52英寸雷电集线器显示器",
+    "link": "https://www.dell.com/en-us/shop/dell-ultrasharp-52-thunderbolt-hub-monitor-u5226kw/apd/210-bthw/monitors-monitor-accessories",
+    "date": "2026-01-17 05:45",
+    "summary": "Dell UltraSharp 52 Thunderbolt Hub Monitor"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "我们推广广告及扩大ChatGPT使用范围的策略",
+    "link": "https://openai.com/index/our-approach-to-advertising-and-expanding-access/",
+    "date": "2026-01-17 05:11",
+    "summary": "Our approach to advertising and expanding access to ChatGPT"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "旧金山将为年收入不超过23万美元的家庭提供免费托儿服务",
+    "link": "https://www.theguardian.com/us-news/2026/jan/15/san-francisco-childcare-families",
+    "date": "2026-01-17 04:35",
+    "summary": "San Francisco to offer free childcare to people making up to 230k"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "为何DuckDB是我的数据处理首选",
+    "link": "https://www.robinlinacre.com/recommend_duckdb/",
+    "date": "2026-01-17 04:00",
+    "summary": "Why DuckDB is my first choice for data processing"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "闭嘴",
+    "link": "https://github.com/Pankajtanwarbanna/stfu",
+    "date": "2026-01-17 03:25",
+    "summary": "STFU"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "Cursor的最新\"浏览器实验\"暗示成功却缺乏证据",
+    "link": "https://embedding-shapes.github.io/cursor-implied-success-without-evidence/",
+    "date": "2026-01-17 03:25",
+    "summary": "Cursor''s latest \"browser experiment\" implied success without evidence"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "加拿大将中国电动汽车的关税从100%削减至6%",
+    "link": "https://electrek.co/2026/01/16/canada-breaks-with-us-slashes-100-tariffs-chinese-evs/",
+    "date": "2026-01-17 02:14",
+    "summary": "Canada slashes 100% tariffs on Chinese EVs to 6%"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "6天有效期证书和IP地址证书现已全面开放申请",
+    "link": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability",
+    "date": "2026-01-17 02:14",
+    "summary": "6-Day and IP Address Certificates Are Generally Available"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "米开朗基罗的处女作，创作于他仅12或13岁时",
+    "link": "https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html",
+    "date": "2026-01-17 00:59",
+    "summary": "Michelangelo''s First Painting, Created When He Was Only 12 or 13 Years Old"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "美国本可以像日本那样拥有4美元的午餐碗，但受限于分区法规",
+    "link": "https://abio.substack.com/p/america-could-have-4-lunch-bowls",
+    "date": "2026-01-17 00:22",
+    "summary": "America could have 4 lunch bowls like Japan but for zoning laws"
+  }
+]
