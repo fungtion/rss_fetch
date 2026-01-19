@@ -1,0 +1,386 @@
+[
+  {
+    "source": "Product Hunt 热门",
+    "category": "Product Hunt 热门",
+    "title": "Cloudchipr - 云成本可观测性、管理与自动化平台",
+    "link": "https://cloudchipr.com/",
+    "date": "2026-01-19 02:22",
+    "summary": "Cloud costs observability,management and automation platform"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "欧洲 Euro NCAP 去年测试了百余台新车，电动汽车整体表现已超油车",
+    "link": "https://www.ithome.com/0/914/337.htm",
+    "date": "2026-01-19 09:21",
+    "summary": "<p>IT之家 1 月 19 日消息，当地时间 1 月 16 日，据外媒 insideevs 报道，Euro NCAP 去年的测试结果显示，电动汽车在整体安全表现上<strong>已经超过燃油车</strong>，反映出车企在推进电动化的同时，并未放松对安全性能的投入。</p><p>Euro NCAP 作为欧洲最权威的碰撞安全评测机构，去年共评估了 100 多款新车，测试覆盖<strong>乘员防护、行人和弱势道路使用者保护，以及主动安全系统</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/c087e888-5af2-4d93-bfbf-4cbccca4a661.png?x-bce-process=image/format,f_auto\" /></p><p>IT之家从报道中获悉，在五星评级已成为主流的当下，单项百分比得分正成为区分安全水平的关键。</p><p>在所有参评车型中，奔驰 CLA 脱颖而出，成为<strong>年度最佳综合表现</strong>车型，同时拿下<strong>最佳小型家庭用车</strong>称号。成人乘员保护得分达到 94%，弱势道路使用者保护达到 93%，主要得益于<strong>主动式引擎盖设计以及更成熟的自动紧急制动系统</strong>。</p><p>Euro NCAP 秘书长米歇尔 · 范 · 拉廷根指出，奔驰在安全领域的长期投入，使 CLA 获奖顺理成章。他同时强调，特斯拉紧随其后，而 <strong>firefly 萤火虫、零跑汽车</strong>等新玩家的出现，正在推动全球安全标准持续提升。</p><p>在大型家庭用车类别中，改款后的特斯拉 Model 3 表现稳定，尤其在儿童乘员保护方面进步明显。该车型在 Euro NCAP 测试中取得<strong>成人乘员保护 90%、儿童乘员保护 93%、行人保护 82%、电子安全辅助系统 87%</strong> 的成绩，成为去年最安全的大型家庭轿车。</p><p>特斯拉 Model Y 同样获得高度评价。Euro NCAP 将其视为小型 SUV 的标杆车型，<strong>成人乘员保护 91%，儿童乘员保护 93%，弱势道路使用者保护 86%，电子安全辅助系统 92%</strong>，并被评为年度最安全小型 SUV。</p><p>城市用车类别中，纯电 Mini Cooper E 凭借扎实的车身结构表现获得“最安全城市用车”称号。该车型<strong>成人乘员保护得分为 89%，儿童乘员保护 87%，行人保护 77%，安全辅助系统 79%</strong>，整体成绩超过同平台燃油版车型。</p><p>大型 SUV 方面，smart #5 成为年度新亮点。这款去年在欧洲上市的纯电 SUV 在测试中取得<strong>成人乘员保护 88%、儿童乘员保护 93%、弱势道路使用者保护 84%、安全辅助系统 92%</strong> 的成绩，展现出成熟的安全能力。</p><p>行政级车型中，极星 3 成为去年通过 Euro NCAP 测试的最安全车型。作为极星目前尺寸最大的 SUV，极星 3 在<strong>成人乘员保护方面获得 90%，儿童乘员保护 93%，行人保护 79%，驾驶辅助系统 83%</strong>。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "华为云空间“全新临时备份”功能下线，云端数据可转存至会员云存储空间",
+    "link": "https://www.ithome.com/0/914/336.htm",
+    "date": "2026-01-19 09:18",
+    "summary": "<p>IT之家 1 月 19 日消息，华为宣布华为云空间中的“全新临时备份”今天正式下线，后续将无法继续新增临时备份，用户此前使用临时备份功能备份的数据（未超过 60 天）仍将保存在云端，用户可查看恢复临时备份记录或转存至会员空间，若未转存将在存储最多 60 天后被删除。</p><p style=\"text-align: left;\">IT之家注：临时备份是“全新云空间”提供的一项新服务，支持在部分 HarmonyOS 4.X 及以下版本的设备中体验，不支持在 HarmonyOS <span class=\"link-text-start-with-http\">5.X</span> 及以上版本中体验。</p><p style=\"text-align: left;\">“临时空间”指华为云空间为临时备份提供的免费空间，不占用已购买或已领取的云存储空间。</p><p>在换机、重大系统升级等场景，华为用户可以使用临时备份将设备数据备份到云空间免费提供的临时空间中，备份数据的保存有时效限制，临时备份没有大小限制。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2025/12/76009ff4-fac4-4857-a720-5c99ea2936dd.png?x-bce-process=image/format,f_auto\" /></p><p>在临时备份到期前 7 天、3 天、1 天，华为云空间均会通过通知栏提醒用户及时恢复数据。若用户在数据保存期限内未及时进行数据恢复，到期后数据将会被自动清理，已清理的数据无法找回。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2025/12/e91ab2f0-5afe-45c1-8377-47d10136e5d8.png?x-bce-process=image/format,f_auto\" /></p><p><span class=\"referenceTitle\">参考资料：</span></p><ul class=\"custom_reference list-paddingleft-1\"><li class=\"list-undefined list-reference-paddingleft\"><p>《<a href=\"https://consumer.huawei.com/cn/support/content/zh-cn16079126/\" target=\"_blank\">华为云空间临时备份功能下线公告 | 华为官网</a>》</p></li><li class=\"list-undefined list-reference-paddingleft\"><p>《<a href=\"https://consumer.huawei.com/cn/support/content/zh-cn16017714/\" target=\"_blank\">“全新云空间”临时备份介绍 | 华为官网</a>》</p></li><li class=\"list-undefined list-reference-paddingleft\"><p>《<a href=\"https://consumer.huawei.com/cn/support/content/zh-cn16009327/\" target=\"_blank\">云空间功能简介 | 华为官网</a>》</p></li></ul>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "EPOMAKER 推出 TH99 PRO 三模机械键盘：旋钮 + 屏幕，10000mAh 电池",
+    "link": "https://www.ithome.com/0/914/335.htm",
+    "date": "2026-01-19 09:18",
+    "summary": "<p>IT之家 1 月 19 日消息，EPOMAKER 上周五上线了 TH99 PRO 三模机械键盘。这一键盘采用 95% \"1800\" 配列，数字键区的 \"0\" 键占据 2 个键位（IT之家注：即所谓 \"2U0\" 设计），右上角配备音量旋钮和 1.06\" TFT LCD 可自定义屏幕。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i4/2217655232513/O1CN01wfEIls1UR0Qo55xtR_!!2217655232513.png\" /></p><p>TH99 PRO 拥有 ABS 晒纹外壳和 <strong>270° 环绕氛围灯带</strong>，提供双段脚撑，前高 20mm、后高 34mm；内部则采用 Gasket 固定结构，拥有 1.2mm 开槽下灯位热插拔 PCB 和 PC 开槽定位板，搭配五层填充。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i3/2217655232513/O1CN01c8ykhl1UR0QnKf6DV_!!2217655232513.png\" /></p><p>其可选云玉轴或海盐静音轴，配套<strong>原厂高度 PBT 材质双色注塑工艺键帽</strong>。该型号支持有线 USB-C、无线 2.4GHz、无线 BT 5.0 三模连接，内置 10000mAh 电池，关灯使用无线续航 3~4 周。</p><p style=\"text-align: center;\"><img src=\"https://img.alicdn.com/imgextra/i1/2217655232513/O1CN01hGSG731UR0QoAnmfU_!!2217655232513.png\" /></p><p>EPOMAKER 在 TH99 PRO 上提供了蓝白 / 粉 / 黑 3 种配色方案，每种颜色都是<strong>云玉轴款 456 元</strong>、<strong>海盐静音轴款 465 元</strong>。</p><dir><a contenteditable=\"false\" href=\"https://uland.taobao.com/coupon/edetail?traceId=215045fc17687855565764344e0abd&amp;srItem=1&amp;e=r1PozjXUiBqlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLcLrjAQ7w7zUK78%2FrPHSrUK5cik65ebci0n0eOTB%2FEYVsgGJVybCb1qGOZcbmoXrEwbDbcI3yPSAR9msLEk0PStVqM6BWlz38gOY59tXZTpT3Sk9FXv0XEc3jUmvwKnWNFZoLWxC%2F4CKYwek19h0d0NQV3tBpdKHodxJgRmH6PTUPrRT%2FGlevSZmVjHONMCdNntrq5zLIupurBNRUyvxLOJHZNWG%2BNfA0E5q558qYFtmz4VHp0EpMJQ9sdXhMOStt%2FjgbVxS2%2BVGaxTQULkICJwIau621gO82&amp;union_lens=lensId:TAPI@1768785556@2121bc3b_0e94_19bd3d5b4b9_431a@01\" target=\"_blank\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img.alicdn.com/bao/uploaded/i4/2217655232513/O1CN01N9n7Ae1UR0QoQCBqq_!!4611686018427381761-2-item_pic.png\" /></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">天猫</span><span class=\"card-name\"> EPOMAKER TH99 PRO 键盘</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">券后 456 元起</span><span class=\"card-btn-deep\">领 150 元券</span></span></span></span></a></dir>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "曾饰演陈真、“火云邪神”的功夫影星梁小龙于 1 月 14 日不幸逝世",
+    "link": "https://www.ithome.com/0/914/333.htm",
+    "date": "2026-01-19 09:09",
+    "summary": "<p>IT之家 1 月 19 日消息，据星岛头条、香港 01 消息，著名功夫影星、曾凭借《大侠霍元甲》《陈真》红遍华人世界、并在周星驰电影《功夫》中饰演“火云邪神”而深入人心的梁小龙，<strong>于 1 月 14 日不幸逝世，享年 77 岁</strong>。消息已获友人证实，目前其家人正低调处理后事，暂定于 1 月 26 日在深圳龙岗举行出殡仪式。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" contenteditable=\"false\" href=\"https://weibo.com/6115560351/QnH4xy4CW?refer_flag=1001030103_\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/00e1b37b-b329-4cc1-8d65-60d7cfbf0987.jpg?x-bce-process=image/format,f_auto\" /></a></p><p>IT之家注意到，梁小龙的账号 1 月 18 日发文：“我到很远很远的地方拍电影去了。”请原谅我不辞而别，就当我到很远的地方拍电影去了，本想保密的，所以关门弟子像往常一样发视频，我喜欢有点神秘感，你们替我好好活着，爱一直在，记住我爱你们 —— 梁小龙，2026 年 1 月 14 日。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/12c66231-733f-4de1-8d22-05a93eaf7e8b.jpg?x-bce-process=image/format,f_auto\" /></p><p>20 世纪 70 年代香港演艺圈有“香港四小龙”之称，是对四位著名武打演员 —— 李小龙、成龙、狄龙、梁小龙的合称，代表了当时功夫片的巅峰。</p><p>成龙 1 月 18 日在社交媒体表示：</p><blockquote><p>刚刚回到北京，惊闻梁小龙先生离世的消息，一时之间不敢也不愿相信…… 在我的记忆里，他一直是那个精通多种传统武术，每一种都能打出自己风格的功夫高手，他将自己毕生所学运用到影视作品中，是一位非常优秀的动作指导，同时作为演员，他塑造了那么多经典角色，被观众深深喜爱，也让我们这些同行佩服不已。梁兄，北京下雪了，天很阴，怀念您…</p></blockquote><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/1a525bdc-162b-4963-af4e-6a4764b44725.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: justify;\">周星驰也在一条限时动态中晒出梁小龙的照片，表示“<strong>永远怀念梁小龙先生</strong>”。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/958055f1-dfbd-499c-a5e9-e34d1579d1f2.png?x-bce-process=image/format,f_auto\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "“用短跑速度跑马拉松”，新一代小米 SU7 Max 24 小时耐力挑战成绩 4264km",
+    "link": "https://www.ithome.com/0/914/332.htm",
+    "date": "2026-01-19 09:07",
+    "summary": "<p>IT之家 1 月 19 日消息，今天上午，小米汽车官微宣布：新一代 SU7 Max 取得 <strong>4264km</strong> 的 24 小时耐力挑战成绩，号称“用短跑速度跑马拉松”。</p><p>据介绍，车辆将通过连续跑 24 小时（含充电时间），挑战所能达到的<strong>最大行驶里程</strong>。这样的极限场景测试，旨在给用户带来更强性能、更长续航、更可靠的用车体验。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/893e4b6d-e73d-404e-ab7e-0c8f0a8534f9.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/608408e0-bc91-47fa-b7f6-64ccd2fb25fc.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/4920d734-566b-4413-b77c-f26c5d2cd3dd.jpg?x-bce-process=image/format,f_auto\" /></p><p>小米创办人、董事长兼 CEO 雷军曾透露，新一代小米 SU7 正努力赶进度，<strong>部分小米之家可能在春节前展出</strong>。新一代小米 SU7 已于 1 月 7 日开启小订，预售价 22.99 万-30.99 万元，预计 2026 年 4 月上市。目前，<a href=\"https://www.ithome.com/0/913/417.htm\" target=\"_blank\">新一代 SU7 已到最后阶段，将会在发布前提前安排展车到店</a>。</p><p>据IT之家了解，新一代 SU7 全系搭载小米 V6s Plus 超级电机，最高转速提升至 22000rpm，CLTC 综合效率提升 1.5%，标准版 / Pro 版功率提升 15kW，Max 版功率提升 13kW。在相同的电量下，续航里程可以提升十余公里。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "消息称台积电今年再在岛内投资建设 4 座先进封装设施",
+    "link": "https://www.ithome.com/0/914/331.htm",
+    "date": "2026-01-19 08:59",
+    "summary": "<p>IT之家 1 月 19 日消息，台媒《自由时报》本月 17 日报道称，<strong>台积电今年将再在岛内投资建设 4 座先进封装设施</strong>以回应 AI 芯片客户的需求。这 4 座新厂将是嘉义科学园区先进封装二期的两座和南部科学园区三期的两座，相关决定有望在本周官宣。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/6d3bc628-fe28-4953-8439-7c9b747b19aa.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，台积电在上周的季度法人说明会上曾表示，<strong>先进封装在 2025 年已为企业贡献一成营收</strong>，同时未来增速将超过企业平均水平。在支出端，先进封装与掩膜制造和其它将占到台积电今年整体资本开销的 10~20%。</p><p>考虑到台积电的新一波前端先进制程产能将在 2027~2029 年大面积上线，此时追加后端先进封装产能有利于<strong>前后端产能协调同步</strong>。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "能量奇点洪荒 70 再次突破，成功实现 335 秒稳态长脉冲等离子体运行",
+    "link": "https://www.ithome.com/0/914/330.htm",
+    "date": "2026-01-19 08:55",
+    "summary": "<p>IT之家 1 月 19 日消息，据能量奇点官方分享，洪荒 70 高温超导托卡马克取得新突破，<strong>在第 5609 次实验中成功实现了 335 秒稳态长脉冲等离子体运行</strong>，长脉冲运行能力再上新台阶。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/70dc37ea-404d-4733-bb0d-048f424dd28b.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家从能量奇点官网获悉，洪荒 70 由能量奇点设计、研发和建造，具有自主知识产权，<strong>国产化率超过 96%</strong>。洪荒 70 高温超导托卡马克的中心场强 0.6 特斯拉，等离子体大半径 0.75 米，其磁体系统由 26 个高温超导磁体构成。</p><p>洪荒 70 长脉冲运行实验自 2025 年 11 月启动，<strong>在 2026 年 1 月 6 日的第 5319 次实验中实现了 120 秒稳态长脉冲等离子体运行</strong>。随后，能量奇点改进了装置的壁处理方式，进一步降低等离子体杂质，使得运行脉冲长度稳步提升，并迅速突破 300 秒。</p><p>脉冲长度突破百秒以后，热管理方面的挑战急剧增加，一些极长周期等离子体物理过程也可能给实验带来不确定性。能量奇点表示将在后续实验中不断提升装置的硬件能力，优化基于 AI 的等离子体控制算法，以期获得更好的实验结果。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "消息称飞书将推出首款硬件，与安克协作打造“AI 录音豆”",
+    "link": "https://www.ithome.com/0/914/329.htm",
+    "date": "2026-01-19 08:52",
+    "summary": "<p>IT之家 1 月 19 日消息，据“智能涌现”报道，飞书将与安克创新联合发布一款名为“AI 录音豆”的智能录音硬件，这是飞书旗下首款硬件产品。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/fcc34025-f552-4916-9f46-f774fdc6a7cd.jpg?x-bce-process=image/format,f_auto\" /></p><p>据介绍，该产品重量仅 10 克，外观呈豆状，机身搭载双 MEMS 麦克风阵列，整机配合充电舱重量约 48 克。产品支持蓝牙与 Wi-Fi 两种传输模式，主打无感佩戴和随时录音。</p><p>定位方面，该产品在飞书内部属于探索性项目，飞书产品团队负责软件部分研发工作，产品本身强调“无感佩戴”和“全天候随身”，用户可将其夹在衣领、口袋边缘，或通过磁吸配件固定在手机背面，让用户在日常会议、客户拜访、甚至通勤路上都能随时开启录音，而不必专门掏出手机打开 App。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "动画电影《赵子龙》概念先导片发布，计划 2027 年暑期档上映",
+    "link": "https://www.ithome.com/0/914/328.htm",
+    "date": "2026-01-19 08:49",
+    "summary": "<p>IT之家 1 月 19 日消息，动画电影《赵子龙》于 1 月 16 日在成都举行了开机仪式，目前电影概念先导片已发布，<strong>计划 2027 年暑期档上映</strong>。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" contenteditable=\"false\" href=\"https://weibo.com/2055576275/QnnzrthLU\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/66891fb1-087e-4738-9bad-2afa8876d786.jpg?x-bce-process=image/format,f_auto\" /></a></p><p>据介绍，影片《赵子龙》由四川万千影画影视文化传媒有限公司、说一出品影视传媒（四川）有限公司倾力打造，成都首创先融文化科技公司联合制作。</p><p>IT之家查询获悉，影片于 2025 年 8 月立项，将以赵云成长故事为主线，<strong>围绕“忠义”“坚守”“成长”三大主题展开</strong>，致力于塑造一位有温度、有筋骨的三国英雄形象。在开机仪式现场，90 版《三国演义》赵子龙扮演者张山现身致辞，并演唱相关歌曲。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" contenteditable=\"false\" href=\"https://weibo.com/1909250714/Qnv1kDm0D\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/96bef02d-b982-4cfc-82d9-4687effd1f97.jpg?x-bce-process=image/format,f_auto\" /></a></p><p><a href=\"https://api.zuihuimai.com/m/activity/cinema?fixtitle=%E7%94%B5%E5%BD%B1%E7%A5%A8&amp;showclose=1\" target=\"_blank\"><img class=\"lazy\" src=\"https://img.ithome.com/newsuploadfiles/2025/5/bd9a6ff4-1fca-48b2-af81-1eb93b115012.jpg?x-bce-process=image/format,f_auto\" title=\"《哪吒之魔童闹海》超过《复联 4》，成为中国影史工作日单日票房冠军\" /></a></p><p>IT 之家小伙伴记得用<a href=\"https://api.zuihuimai.com/m/activity/cinema?fixtitle=%E7%94%B5%E5%BD%B1%E7%A5%A8&amp;showclose=1\" target=\"_blank\" title=\"最会买\">最会买购买电影票</a>，享受折扣价的同时还可以获得返利，预计每张票可以节省 5~15 元！</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "奇瑞风云 T9L 大五座 SUV 盲订 24 小时订单突破 6000+，春节后上市",
+    "link": "https://www.ithome.com/0/914/326.htm",
+    "date": "2026-01-19 08:34",
+    "summary": "<p>IT之家 1 月 19 日消息，奇瑞汽车执行副总裁李学用今日宣布，奇瑞风云 T9L 大五座 SUV 开启盲订后，<strong>24 个小时订单已突破 6000 台</strong>。</p><p style=\"text-align: center;\"><a class=\"ithome_super_player\" contenteditable=\"false\" href=\"https://weibo.com/2551989497/QnNjNESkO\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/74f28f64-30ad-4f75-9885-d183f80e9148.jpg?x-bce-process=image/format,f_auto\" /></a></p><p>IT之家此前报道，<a href=\"https://www.ithome.com/0/914/145.htm\" target=\"_blank\">新车于 1 月 17 日开启盲订</a>，<strong>将在春节后上市</strong>，其尺寸为 4870×1930×1710mm、轴距 2920mm，拥有 1037mm 二排腿部空间，同级唯一前排双零重力座椅。此外，该车还配备流萤氛围灯、抚琴立式高音、23 扬伯牙之音等。</p><p>该车搭载鲲鹏 AI 超能电混 CDM6.0，实现馈电油耗 3.9L、四驱零百加速 5 秒级、CLTC 纯电续航 230km。该车搭载 1.5T 鲲鹏超混发动机，峰值功率 115kW，峰值扭矩 220N·m；DHT260 无级超级电混，峰值功率 260kW，峰值扭矩 330N·m。此外，该车还搭载犀牛方刀混动专用电池，电芯能量密度 180Wh/kg。</p><p>智能化方面，<strong>该车搭载猎鹰 700 高阶驾驶辅助系统</strong>，拥有 560TOPS 算力，支持任务魔方个性化用车需求定制，搭载 3nm 的 8678 座舱芯片。</p><p style=\"text-align: center;\"><img class=\"nowebp\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/a825cd4e-2478-4c73-88d5-383092875eb6.jpg\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "支付宝“2026 年马年集福”活动 1 月 27 日开始，早鸟可参与抢稀有福卡活动",
+    "link": "https://www.ithome.com/0/914/325.htm",
+    "date": "2026-01-19 08:34",
+    "summary": "<p>IT之家 1 月 19 日消息，支付宝宣布“2026 年马年集福”活动将于 1 月 27 日开始，届时用户在支付宝 App 搜索“集福啦”即可参与抢稀有福卡活动。官方表示，用户若抢到万能稀有卡，在正式集福开启后，可兑换任意 IP 主题稀有福卡。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/0ea8dcac-8dc3-49ad-93a0-c46507db60b9.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/b497999f-1e29-4d5f-b745-5ea38273a10c.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，今年是支付宝集福活动举办的第 11 年，除延续爱国福、富强福、友善福、和谐福、敬业福等传统五福外，预计还将上线全新福卡及玩法。</p><p>公开信息显示，支付宝在 2024 年将“集五福”全面升级为“五福节”，并新增五福年货节、过年天天乐等活动，覆盖整个春节周期。</p><p>到了 2025 年，福卡玩法再度升级，福卡由 1 套扩展至 29 套，在传统五福之外，新增 28 套不同主题福卡；开奖次数也由 1 次提升至 5 次，每集齐一套即可立即开奖，无需等待除夕。</p><p>支付宝公布的数据显示，集福活动 10 年来累计吸引超 10 亿用户参与，2025 年，有近 6 亿人参与集福，28 套全新福卡在亲朋好友之间传递 1.3 亿次，在直播间网友间交换 5.2 亿次。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "Optimus 机器人将会强到让人忘记特斯拉曾生产汽车？马斯克称“很可能”",
+    "link": "https://www.ithome.com/0/914/324.htm",
+    "date": "2026-01-19 08:30",
+    "summary": "<p>IT之家 1 月 19 日消息，在全球汽车销量持续下滑、自动驾驶辅助软件又面临重重监管障碍的背景下，特斯拉 CEO 埃隆 · 马斯克正急切地寻求为公司“再造一次未来”。</p><p>当地时间 1 月 18 日，据外媒 Futurism 报道，马斯克近期将重心放在了特斯拉的人形机器人 Optimus 上。他宣称，这一项目将使特斯拉转型为一家<strong>估值高达 25 万亿美元</strong>（IT之家注：现汇率约合 174.49 万亿元人民币）<strong>的机器人公司</strong>，并坚称 Optimus 将贡献公司当前已被认为“高度溢价”的市值中的绝大部分。</p><p>当前的马斯克正把这一说法推向一个近乎极端的新高度：在回应创业者兼投资人杰森 · 卡拉卡尼斯于近期一场峰会上发表的言论时，马斯克给出了意味深长的表态。</p><p>卡拉卡尼斯当时称，“<strong>没有人会记得特斯拉曾经造过汽车</strong>”，人们“只会记住”这家公司<strong>制造了 10 亿台 Optimus 机器人</strong>。对此，马斯克回应说：“<strong>很可能是真的</strong>。”</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/17677b06-5302-4a20-8840-b2f0f8cca673.jpg?x-bce-process=image/format,f_auto\" /></p><p>报道指出，而在现实层面，特斯拉的人形机器人项目仍有大量问题需要解决。按照马斯克高达 1 万亿美元的薪酬方案要求，特斯拉必须<strong>部署 100 万台 Optimus 机器人</strong>，马斯克先前承诺这一目标最早可在 2030 年实现。</p><p>然而，现实进展远不及预期。特斯拉在搭建生产线过程中遭遇了多项技术瓶颈，据报道，公司未能完成其此前设定的目标 —— 即在去年<strong>生产 5000 台 Optimus 机器人</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/11/6f00548f-e2a7-4b0f-ac52-fb9162fbf10f.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p>官方释出的演示同样未能令人信服：有视频显示，一台机器人甚至难以在通畅的办公走廊中稳定行走。同时，特斯拉目前仍高度依赖远程人工操作，意味着在无需人类操控的完全自主运行方面，距离成熟仍相当遥远。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "崔东树：2025 年 1-12 月汽车出口 832 万台，同比增长 30%",
+    "link": "https://www.ithome.com/0/914/323.htm",
+    "date": "2026-01-19 08:21",
+    "summary": "<p>IT之家 1 月 19 日消息，乘联分会崔东树在其公众号公布了乘用车市场 2025 年 1-12 月份进出口数据。<strong>2025 年 1-12 月汽车出口 832 万台，同比增长 30%</strong>，出口额 1424 亿美元（IT之家注：现汇率约合 9950.39 亿元人民币），增 21%。2025 年 12 月汽车出口 99 万台，同比增长 73%。汽车出口实现超预期增长，新车表现超强。</p><p>崔东树表示，汽车出口近几年从出口方面表现极其优秀，从 2021 年的 345 亿美元上升到 2024 年的 1174 亿美元（现汇率约合 8203.48 亿元人民币），形成了爆发增长态势，而且在 2025 年依旧保持月度小幅的增长特征。4 季度汽车出口暴增，全年达到 1424 亿美元（现汇率约合 9950.39 亿元人民币），汽车出口创汇巨大。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/b511e903-bef8-4e61-869a-066c4d5481bb.jpg?x-bce-process=image/format,f_auto\" /></p><p>在汽车零部件方面，崔东树提到汽车零部件与汽车整车是完全两套需求体系，面对完全不同的市场，因此增速差异大。中国汽车零部件出口是美国为主要市场，同时相应市场很早就实现超高的出口额，3-8 月的出口零部件保持在 80 亿美元（现汇率约合 559.01 亿元人民币）以上的水平，12 月仍处于历史高位。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "富士 X-Pro 4 相机发布传闻再起，外媒驳斥称“没有证据”",
+    "link": "https://www.ithome.com/0/914/322.htm",
+    "date": "2026-01-19 08:09",
+    "summary": "<p>IT之家 1 月 19 日消息，富士在 2019 年 10 月推出了 X-Pro 3 旁轴风格光电混合取景 APSC 相机，如今已停产，该机当时定位 X 系统旗舰产品，从性能来说，目前 X-Pro 3 已大幅落后富士 X 系统其他产品线。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2024/12/78560a9b-9eff-4bc7-9db2-d8cf873b6512.jpg?x-bce-process=image/format,f_auto\" /></p><figcaption>▲ 富士 X-Pro 3（左）</figcaption><p>而近期，有用户发现第三方经销商在 XCamera 在网站中上架了 X-Pro 4 相机页面，再一次掀起了“X-Pro 4 相机即将发布传言”。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/208c947f-143b-4ab8-9a1e-b976379a54bd.png?x-bce-process=image/format,f_auto\" /></p><p>对此，外媒 fujirumors 挖掘数据发现相应页面<strong>实际上在 2024 年 9 月便已上线</strong>，认为 X-Pro 4 相机即将发布的传言毫无根据。同时，截至IT之家发稿，XCamera 已下架了这一“X-Pro 4 相机”页面。</p><p>IT之家注意到，自 2023 年起就有大量传言称富士 X-Pro4 相机“即将在下一年发布”，然而过了一年又一年，直到 2026 年的今天，这款传说中的机型仍未面世，如今富士 X-E5 和 GFX100RF 在一定程度上已取代 X-Pro 的定位。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "伦敦市长警告：若放任 AI 失控发展，就业环境恐被大规模摧毁",
+    "link": "https://www.ithome.com/0/914/321.htm",
+    "date": "2026-01-19 08:05",
+    "summary": "<p>IT之家 1 月 19 日消息，当地时间 1 月 16 日，据 BBC 报道，伦敦市长萨迪克 · 汗警告称，如果缺乏有效约束，AI 可能演变成对就业造成系统性破坏的力量，甚至成为“大规模摧毁岗位的武器”。</p><p>他在曼申宫年度演讲中指出，AI 正在<strong>深刻重塑伦敦的劳动力市场</strong>，金融、专业服务和创意产业等支柱行业首当其冲，伦敦因此站在全球变革的最前沿。</p><p>萨迪克 · 汗强调，AI 既可能推动公共服务升级，并在<strong>癌症治疗和应对气候变化</strong>等领域发挥关键作用，也可能在被滥用时，引发<strong>失业激增、不平等扩大以及财富与权力高度集中</strong>的严重后果。</p><p style=\"text-align: center;\"><img class=\"not-source\" src=\"https://img.ithome.com/newsuploadfiles/2025/5/064cca50-2baa-40ab-bbcb-39b4e830a8a2.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto\" /></p><p>他警告，社会不能在毫无察觉的情况下，被动滑向一个大家不想要的未来。摆在面前的选择只有两个：要么<strong>主动驾驭 AI</strong>，把它转化为推动积极转型和创造的工具；要么<strong>放任其发展</strong>，最终承受其对就业结构的毁灭性冲击。</p><p>IT之家从报道中获悉，伦敦市政厅的调查显示，56% 的在职人员预计，AI 将在一年内直接影响自己的工作。萨迪克 · 汗认为，如果不及时干预，<strong>岗位消失的速度可能会超过新岗位产生的速度</strong>，尤其是入门级岗位，年轻人可能因此失去进入职场的第一道阶梯。</p><p>为此，他宣布成立跨部门专家工作组，对 AI 带来的就业影响进行评估，并制定支持市民应对变化的方案；相关结论预计将在今年夏天公布。同时，伦敦市政府还将为所有市民提供<strong>免费的 AI 培训</strong>。</p><p>英国政府方面表示，也正在推进大规模技能培训计划，未来几年将覆盖 750 万名劳动者，并于 4 月推出面向企业的 AI 和数字技能短期课程。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "三星 Galaxy S26 Ultra 手机 SIM 卡托曝光，提供黑白紫蓝四种配色",
+    "link": "https://www.ithome.com/0/914/320.htm",
+    "date": "2026-01-19 07:56",
+    "summary": "<p>IT之家 1 月 19 日消息，消息源 @i冰宇宙 在 X 平台发布了 Galaxy S26 Ultra 系列手机 SIM 卡托的图片，<strong>从图片中可以看到系列机型将提供黑色、白色、蓝色、紫色四种颜色，不过没有此前网传的橙色配色</strong>。对此，外媒 SamMobile 认为三星可能不会将橙色作为这款设备的主打颜色，只会在官网限量发售。</p><p style=\"text-align: center;\"><img class=\"not-source\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/e2585032-8496-449b-95fa-03c2da48769a.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"not-source\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/ae8174be-b83e-49a0-8437-a32bfd8ebf93.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"not-source\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/b2a52cd6-5064-4d08-9a65-9b77d30005fe.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"not-source\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/959f6609-3d43-4d32-b13e-703749a87ea1.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"not-source\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/1360025b-2bbb-4bc4-b9c5-cb6276c464a8.png?x-bce-process=image/format,f_auto\" /></p><p>IT之家注意到，三星预计将在 2 月 25 日的 Unpacked 发布会上推出 Galaxy S26 系列，该系列新品将于今年 3 月 11 日上市。</p><p>此前爆料显示 S26 Ultra 手机顶配版提供 16GB RAM 内存 +1TB 存储空间组合。主摄依然维持 2 亿像素规格，但光圈由前代的 f/1.7 扩大至 f/1.4，此外 5000 万像素长焦镜头光圈亦从 f/3.4 提升至 f/2.9；手机搭载 5000mAh 电池，支持 60W 快充。</p><p style=\"text-align: center;\"><img class=\"not-source\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/bf80f01e-195f-44c6-adc1-30f5e0fabb18.png?x-bce-process=image/format,f_auto\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "日本最大核电站机组重启可能推迟",
+    "link": "https://www.ithome.com/0/914/319.htm",
+    "date": "2026-01-19 07:53",
+    "summary": "<p>IT之家 1 月 19 日消息，据新华社报道，日本最大核电站柏崎刈（读音：yì）羽核电站 6 号机组反应堆在日前进行的控制棒抽出试验中发生防抽出功能故障，<strong>本次故障有可能导致 6 号机组重启推迟</strong>。</p><p>东京电力公司 17 日发布新闻公报，称当天进行了柏崎刈羽核电站 6 号机组反应堆控制棒抽出试验。通常情况下，在一根控制棒被抽出的状态下，再抽出其他控制棒时，防抽出功能就会启动，警报会响起。</p><p><strong>而在当天的试验中，警报并未响起</strong>。东京电力公司因此中止了抽出试验，并将调查本次故障的原因。</p><p>IT之家注：反应堆控制棒一般由强中子吸收材料制成，把控制棒插入堆芯，控制棒能吸收大量中子，核裂变反应就得到抑制。如果把控制棒抽出一点，反应堆就开始运转，迅速大量抽出控制棒有很高的风险。</p><p>柏崎刈羽核电站位于日本西北部新潟（读音：xì）县，<strong>其总装机容量约 821.2 万千瓦</strong>，是日本最大的核电站。自 2011 年福岛第一核电站发生严重核泄漏事故后，日本政府下令关闭了境内所有核电站，柏崎刈羽核电站自 2012 年 3 月起关闭。</p><p>当地时间 2025 年 12 月 24 日，日本东京电力公司社长小早川智明称，<a href=\"https://www.ithome.com/0/906/900.htm\" target=\"_blank\">将于今年 1 月 20 日重启柏崎刈羽核电站 6 号机组反应堆</a>。这将是 2011 年“3・11”东日本大地震引发福岛第一核电站事故后，东京电力公司旗下首个重启的核电机组。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2025/12/5b955ddc-c892-4523-b1f6-ba9f4f330fe2.png?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "马斯克：特斯拉超算 Dojo 3 开发即将重启",
+    "link": "https://www.ithome.com/0/914/318.htm",
+    "date": "2026-01-19 07:52",
+    "summary": "<p>IT之家 1 月 19 日消息，今天早间，马斯克在 X 平台发文宣布，随着 AI5 芯片设计完成，特斯拉将<strong>重启超级计算机项目 Dojo 3 的开发工作</strong>。</p><p>同时，马斯克在这则帖子中发出了“招聘启事”，要求“有兴趣参与研发世界上产量最高芯片”的应征者在邮件中<strong>用 3 个要点介绍自己解决过的最棘手的技术难题</strong>。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/c2da5e26-bacc-4e11-a200-838e8df04f2e.jpg?x-bce-process=image/format,f_auto\" /></p><p>2025 年 8 月曾有消息称，特斯拉已全面叫停 Dojo 超级计算机项目，其负责人也将离职。这一决定意味着特斯拉正式放弃<strong>开发自动驾驶所需自研芯片</strong>的计划。知情人士透露，马斯克亲自下令关闭该项目。</p><p>当时，马斯克回复网友评论称，特斯拉分散资源并同时开发两种截然不同的 AI 芯片设计是<strong>没有意义</strong>的。特斯拉的 AI5、AI6 及后续芯片在推理方面将表现出色，至少在训练方面相当不错，所有努力<strong>都将集中在这些芯片上面</strong>。</p><p style=\"text-align: center;\"><img alt=\"初代 Dojo\" src=\"https://img.ithome.com/newsuploadfiles/2024/9/1559cad0-41ab-47f6-9dd2-86b87b532c93.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" /></p><p><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p>《<a href=\"https://www.ithome.com/0/873/918.htm\" target=\"_blank\">马斯克回应特斯拉 Dojo 超算团队解散：分散资源同时开发两种不同 AI 芯片并无意义</a>》</p></li><li><p>《<a href=\"https://www.ithome.com/0/873/833.htm\" target=\"_blank\">消息称特斯拉全面叫停 Dojo 超算项目，马斯克曾称其为“实现完全自动驾驶的关键”</a>》</p></li></ul>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "Linux 6.19-rc6 内核发布，修复苹果 M1/M2 系列 Mac 设备 USB-C 端口控制器问题",
+    "link": "https://www.ithome.com/0/914/317.htm",
+    "date": "2026-01-19 07:47",
+    "summary": "<p>IT之家 1 月 19 日消息，据 phoronix 报道，即将于今天晚间发布的 Linux 6.19-rc6 内核版本修复了苹果 M1 Pro / M1 Max / M1 Ultra 以及 M2 / M2 Pro / M2 Max / Ultra 机型 USB-C 端口控制器无法正确识别 USB 2.0 和 USB <span class=\"link-text-start-with-http\">3.x</span> 设备的情况。</p><p>据介绍，此前 USB-C 端口控制器会触发多余的中断，导致 USB 角色反复切换到当前已处于激活状态的角色，从而引发异常。为此，Linux 6.19-rc6 内核现在会在 dwc3-apple 已处于目标状态时忽略这些 USB 角色切换，确保 USB-C 端口控制器与 dwc3-apple 始终保持一致状态，其行为也与 <span class=\"link-text-start-with-http\">core.c</span> 中的 __dwc3_set_mode () 保持一致。</p><p>此外，Linux 6.19-rc6 还引入了“在 DWC3 初始化之前提前设置 USB2 PHY 的工作模式”特性，主要用于解决在开机前或启动过程中已插入 USB2 设备时偶发的识别问题。</p><p>具体来说，在 Linux 启动前，USB2 PHY 通常运行在设备模式下，而在某些情况下，设备模式与之间的切换并不能可靠生效。为解决这一罕见问题，Linux 6.19-rc6 内核现在会在更早阶段完成 USB2 PHY 角色配置。需要注意的是，USB3 PHY 并不存在同样的问题，反而必须在 dwc3 启动后才能正确设置其角色。</p><p>除了上述对于苹果产品的 USB 修复外，Linux 6.19-rc6 还加入了对 PICAXE AXE027 编程线缆的 FTDI SIO 驱动支持、提升 Elgato 4K X 的兼容性，同时修复了以及一些小型 Bug，IT之家附更新日志地址（<a href=\"https://lore.kernel.org/lkml/aWz4Eyh6898JjAzB@kroah.com/T/#u\" target=\"_blank\"><span class=\"link-text-start-with-http\">https://lore.kernel.org/lkml/aWz4Eyh6898JjAzB</span>@<span class=\"link-text-start-with-http\">kroah.com/T/#u</span></a>）。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "停产至今已有 5 年，三菱暗示经典 SUV 帕杰罗今年“正式复活”",
+    "link": "https://www.ithome.com/0/914/316.htm",
+    "date": "2026-01-19 07:40",
+    "summary": "<p>IT之家 1 月 19 日消息，今天早间，据外媒 Carscoops 报道，在今年的东京改装车展期间，三菱汽车社长加藤隆雄确认，三菱计划在 2026 年推出一款<strong>全新的全尺寸硬派越野 SUV</strong>。</p><p>结合近期官方预告内容与此前谍照高度一致的细节表现，该媒体分析称，这一新车极有可能意味着<strong>帕杰罗的正式复活</strong>。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/32d1bbc4-72e1-4175-8ff3-2a2f90d481d7.png?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/28a9a9d1-70cf-4ad6-bc07-467299d5526f.png?x-bce-process=image/format,f_auto\" /></p><p>据IT之家了解，帕杰罗于 2021 年停产，长达 40 年、跨越 4 个不同时代的产品生涯正式画下句点。三菱与日产、雷诺同属联盟体系，此前的消息称，三菱或将采用与日产途乐共享平台的方案。不过据日本媒体 BestCar 披露，新一代帕杰罗将由三菱独立开发，并采用专属工程方案。</p><p>底盘结构方面，新车预计基于三菱 Triton 皮卡平台打造，柴油版本将搭载<strong> 2.4 升双涡轮四缸发动机</strong>，最大功率 201 马力，峰值扭矩 470 牛 · 米。</p><p>在电气化趋势下，帕杰罗有望推出插混版本。欧蓝德的插混系统提供了一个成熟的技术基础，其由 2.4 升四缸汽油发动机、两台电机和锂离子电池组成，<strong>综合输出 248 马力，峰值扭矩 450 牛 · 米</strong>。</p><p>价格层面，结合日本市场惯例，该车售价预计处于 550 万至 750 万日元（IT之家注：现汇率约合 24.3 万至 33.1 万元人民币）区间。</p><p>不过，日本本土售价通常低于欧美市场，同级车型在海外的最终价格仍存在较大不确定性。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "国内首条跨省城际铁路启动不载客试运行",
+    "link": "https://www.ithome.com/0/914/315.htm",
+    "date": "2026-01-19 07:34",
+    "summary": "<p>IT之家 1 月 19 日消息，据中国中铁分享，国内首条跨省城际铁路 —— 宁马城际铁路近日全线开启“不载客试运行”。<strong>项目全线长约 54.23 公里</strong>，共设站 16 座（南京段、马鞍山段各 8 座）。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/713b4c01-2f17-40ab-b36d-2bebb4eb107d.jpg?x-bce-process=image/format,f_auto\" /></p><p>据介绍，宁马城际铁路线自南京地铁 7 号线西善桥站起始，终至马鞍山市太白站，连接江苏省南京市的板桥新城、滨江新城，以及马鞍山市的花山区、雨山区与当涂县。线路标识色选用胭脂色，列车车身以红飘带为设计灵感，融合南京云锦龙袍的龙纹与马鞍山采石矶山脉元素，蕴含宁马一衣带水近邻关系。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/be4fd064-d70f-4a1c-8542-f70a3e2d83b5.jpg?x-bce-process=image/format,f_auto\" /></p><p>宁马城际铁路是国内首条跨省的城际铁路工程，是《长江三角洲地区交通运输更高质量一体化发展规划》中的“都市圈通勤交通网重点工程”，<strong>建成后将使马鞍山主城区与南京中心城区的通勤时间缩短至 30 分钟</strong>。</p><p>IT之家注：不载客试运行是城市轨道开通运营前的一项综合性“大考”，也是住建部、交通运输部规定的开通试运营的基本条件之一。试运行期间，将通过模拟真实运营环境，考核运行的各项技术参数、各设备系统功能可靠性、安全性、准确性。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "科技昨夜今晨 0119：2026 年春运火车票今日开售；B站百大 UP 主名单揭晓；英伟达黄仁勋谈 AI 对职场影响...",
+    "link": "https://www.ithome.com/0/914/314.htm",
+    "date": "2026-01-19 07:30",
+    "summary": "<p>“科技昨夜今晨”时间，大家好，现在是 2026 年 1 月 19 日星期一，今天的重要科技资讯有：</p><h2>1、<span class=\"hot-topic\">荣耀 Magic8 Pro</span> Air 手机线下展出，影像、显示等核心参数公开</h2><p>荣耀 Magic8 Pro Air 及荣耀联名设计系列新品发布会将于 1 月 19 日 19 时 30 分举办。目前 Magic8 Pro Air 已在线下门店展出，并公布了影像、显示等核心参数。&gt;&gt; <a href=\"https://www.ithome.com/0/914/285.htm\" target=\"_blank\">查看详情</a></p><h2>2、英伟达黄仁勋谈 AI 对职场影响：只替你干杂活，岗位核心还得靠人</h2><p>英伟达 CEO 黄仁勋在播客中分享了对 AI 与就业的见解：AI 自动化的是工作中的具体任务，而非岗位的核心价值。他以放射科为例，尽管 AI 已能读取影像，但放射科医生人数和收入却创下新高，因为其核心价值在于诊断与治疗决策。这一逻辑同样适用于律师、软件工程师等职业。&gt;&gt; <a href=\"https://www.ithome.com/0/914/295.htm\" target=\"_blank\">查看详情</a></p><h2>3、曝 R 星暖心回应绝症粉丝愿望，或安排提前体验《GTA6》</h2><p>一位身患绝症的《GTA》铁粉可能无法等到游戏正式发售。其家人向 R 星求助，希望能安排提前体验《GTA6》。R 星已与求助者取得联系并带来“非常好的消息”。&gt;&gt; <a href=\"https://www.ithome.com/0/914/253.htm\" target=\"_blank\">查看详情</a></p><h2>4、消息称华为 Mate 80 单品激活 150 万，逆袭成年底国产旗舰第一</h2><p>博主 @数码闲聊站 1 月 17 日发文透露，华为 Mate 80 单品激活 150W，逆袭成年底国产旗舰第一。博主还在评论区补充信息，称系列销量第一是<span class=\"hot-topic\">小米 17</span> 系列，单品销量第一是 Mate 80。&gt;&gt; <a href=\"https://www.ithome.com/0/914/157.htm\" target=\"_blank\">查看详情</a></p><h2>5、中国铁路 12306 宣布升级：在发车 4 小时前，误购车票可在 30 分钟内免费退票</h2><p>中国铁路 12306 平台宣布，自 1 月 19 日起，推出旅客误购限时免费退票服务。购买 2 月 2 日及以后车票的旅客，若在支付成功 30 分钟内且开车前 4 小时以上发现误购，可线上自助免费退票。此举旨在进一步提升购票体验。&gt;&gt; <a href=\"https://www.ithome.com/0/914/165.htm\" target=\"_blank\">查看详情</a></p><h2>6、B站 2025 百大 UP 主名单公布</h2><p>B站 2025 年度百大 UP 主名单 1 月 18 日公布，并于 1 月 18 日晚 18:00 举行主盛典。评选基于专业性、影响力、创新性三大维度，旨在表彰年度最具代表性的内容创作者。&gt;&gt; <a href=\"https://www.ithome.com/0/914/252.htm\" target=\"_blank\">查看详情</a></p><h2>7、吴京、袁和平电影《镖人：风起大漠》定档大年初一，李连杰时隔 15 年重返武打片</h2><p>电影《镖人：风起大漠》定档大年初一！由 81 岁袁和平执导，吴京主演兼制片，李连杰时隔 14 年重返武侠片，谢霆锋、于适、陈丽君等群星加盟。改编自豆瓣高分国漫，讲述镖客刀马护送知世郎的西域冒险。&gt;&gt; <a href=\"https://www.ithome.com/0/914/181.htm\" target=\"_blank\">查看详情</a></p><h2>8、荣耀 Magic8 Pro Air 新机官宣支持 eSIM，搭配实体 SIM 卡可实现四卡双待</h2><p>荣耀终端股份有限公司旗舰手机产品经理李坤发文，对即将发布的 Magic8 Pro Air 进行了预热，新机确认支持 eSIM，搭配实体 SIM 卡可实现四卡双待。&gt;&gt; <a href=\"https://www.ithome.com/0/914/160.htm\" target=\"_blank\">查看详情</a></p><h2>9、公安部网安局：“小女孩 50 元淘到名酒”视频系摆拍，涉事男子被行政处罚</h2><p>近日，一段“小女孩 50 元淘到名酒”的视频引发关注。经公安部网安局调查，该视频为网民周某为博取关注、吸引流量而编造、摆拍的虚假内容，扰乱了网络空间秩序，公安机关已依法对周某予以行政处罚。&gt;&gt; <a href=\"https://www.ithome.com/0/914/231.htm\" target=\"_blank\">查看详情</a></p><h2>10、警方揭秘新投资理财诈骗案：男子轻信“与某国开战”并向俄罗斯购买坦克，一个月被骗 42 万元</h2><p>湖南郴州警方通报一起网络交友诱导投资理财诈骗案。男子轻信网友“准备与某国开战需向俄罗斯购买坦克”的谎言，在一个多月内分七次转账 42 万元，最终发现平台无法提现才报警。&gt;&gt; <a href=\"https://www.ithome.com/0/914/164.htm\" target=\"_blank\">查看详情</a></p><h2>11、航旅纵横民航官方直销平台实现中国境内所有航空公司入驻</h2><p>1 月 16 日，航旅纵横民航官方直销平台上线奥凯航空机票，实现境内所有航空公司入驻。其去年 7 月上线该功能，号称“民航版 12306”。&gt;&gt; <a href=\"https://www.ithome.com/0/914/289.htm\" target=\"_blank\">查看详情</a></p><h2>12、消息称 vivo X300s 系列手机搭载 7K 大电池、2 亿主摄，对标友商 Max 机型</h2><p>据博主 @智慧皮卡丘 爆料，vivo X300s 或搭载 7K 大电池、2 亿像素主摄，防抖等方面也有升级，对标友商 Max 机型。有网友询问 3 月中能否发布，博主点赞回应。&gt;&gt; <a href=\"https://www.ithome.com/0/914/277.htm\" target=\"_blank\">查看详情</a></p><h2>13、2026 年春运火车票 1 月 19 日开售，预计发送旅客 5.39 亿人次</h2><p>2026 年春运火车票 1 月 19 日开售！春运从 2 月 2 日至 3 月 13 日，预计发送旅客 5.39 亿人次。官方提醒：唯一官方售票平台是铁路 12306 网站及 App，无任何第三方合作及额外收费。尽早规划，善用候补！&gt;&gt; <a href=\"https://www.ithome.com/0/914/223.htm\" target=\"_blank\">查看详情</a></p><p>今天就先聊到这里，科技昨夜今晨，咱们明天见。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "Steam 喜加一：原价 58 元游戏《智能工厂大亨》免费领",
+    "link": "https://www.ithome.com/0/914/313.htm",
+    "date": "2026-01-19 07:21",
+    "summary": "<p style=\"text-align: start;\">IT之家 1 月 19 日消息，开发商 Turquoise Revival Games 宣布旗下游戏《智能工厂大亨（Smart Factory Tycoon ）》在 Steam 平台迎来“喜加一”免费领取活动，<strong>游戏在国区定价为 58 元，玩家可以在北京时间 1 月 21 日凌晨 2 点前免费领取游戏</strong>，IT之家附游戏商品页（<a href=\"https://store.steampowered.com/app/1755300/_Smart_Factory_Tycoon/\" target=\"_blank\"><span class=\"link-text-start-with-http\">https://store.steampowered.com/app/1755300/_Smart_Factory_Tycoon/</span></a>）。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/a2866cee-5a43-43ac-b3e1-7b9ae4440635.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: start;\">据介绍，本作于 2022 年 3 月 27 日发售，玩家需要从零开始经营一家工厂，通过向机器人下达指令，实现生产流程的自动化，完成各类订单，并逐步对工厂进行升级和扩建。</p><p style=\"text-align: start;\">实际上，本作的核心概念受到 Mirage Game Studios 于 2019 年推出、口碑相当出色的工厂经营模拟游戏《Little Big Workshop》的启发。不过，《Smart Factory Tycoon》在推出后并未引发太大反响，在 Steam 平台上仅收获了百余条评价，整体口碑呈现出褒贬不一的状态。</p><h3>游戏图赏：</h3><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/a103fa36-dd67-4222-97f8-9f84d367abe7.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/34968668-9a6f-4f15-827d-171e7c3d1ae6.jpg?x-bce-process=image/format,f_auto\" /></p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/4c89183d-e9d2-4bb3-85e1-4c7f4e58492b.jpg?x-bce-process=image/format,f_auto\" /></p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "含《孤岛惊魂 3》经典版，育碧暗示三款《孤岛惊魂》游戏将获 60FPS 更新",
+    "link": "https://www.ithome.com/0/914/312.htm",
+    "date": "2026-01-19 07:19",
+    "summary": "<p>IT之家 1 月 19 日消息，育碧经典游戏《孤岛惊魂 3》正在迎来一次面向现役主机平台的体验升级，官方确认，《孤岛惊魂 3》经典版将加入 60FPS 支持。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/6875a480-5666-405d-bdeb-ab13f63bd8ff.jpg?x-bce-process=image/format,f_auto\" /></p><p>索尼 1 月 18 日发布的预告片向玩家展示了更新后的游戏画面，玩家将能够以更流畅的视觉体验重返标志性的热带岛屿。同时，《孤岛惊魂 3》经典版目前已包含在育碧的 Ubisoft+ Classics 订阅服务中，并作为 PlayStation Plus Premium 和 PlayStation Plus Extra 会员权益的一部分提供。据IT之家了解，更新补丁将于 1 月 21 日正式推出。</p><p style=\"text-align: center;\"> </p><p>《孤岛惊魂》开发团队也已通过社交平台暗示，60FPS 更新<strong>并不局限于《孤岛惊魂 3》经典版</strong>，还将覆盖<strong>《孤岛惊魂 3：血龙》经典版以及《孤岛惊魂：原始杀戮》</strong>。</p><p>《孤岛惊魂 3》原版于 2012 年发售，而《孤岛惊魂 3》经典版则在 2018 年推出。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "“开源 Windows”ReactOS 终实现异步 TCP 连接支持，网络应用迎来大幅性能提升",
+    "link": "https://www.ithome.com/0/914/311.htm",
+    "date": "2026-01-19 07:12",
+    "summary": "<p>IT之家 1 月 19 日消息，“开源 Windows”ReactOS 今天宣布，随着最新代码合入，系统终于实现了对异步 TCP 连接的支持。</p><p>ReactOS 开发者在 X 平台上表示，<strong>这项补丁历经 10 年，终于正式合入 ReactOS</strong>，早在 2016 年，ReactOS 就曾在 Jira 上提交过相关问题工单，指出套接字在非阻塞模式下的连接存在异常，长期未能得到彻底解决。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/668f5318-0235-4194-b47f-01204e35548c.jpg?x-bce-process=image/format,f_auto\" /></p><p>此后，相应代码经历了各种反复修改重构，直到当下，这套用于支持异步连接的代码才最终完成合并，包括浏览器、FTP 客户端以及各类下载工具等网络应用如今将获得“大幅性能提升”。</p><p style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/1/e0c38cb7-d6ef-48b2-9cf1-b2edde6b4e3c.jpg?x-bce-process=image/format,f_auto\" /></p><p>IT之家注：ReactOS 是一个较为知名的基于 Windows NT 架构设计原则的开源操作系统。ReactOS 项目的主要目标是提供一个与 Windows 环境二进制兼容的操作系统，能让 Windows 应用程序和驱动程序如同在 Windows 上一样运行。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "消息称微软将允许已购买数字版 Xbox 游戏、未订阅 XGP 的用户通过“看广告”方式免费云游玩",
+    "link": "https://www.ithome.com/0/914/310.htm",
+    "date": "2026-01-19 07:01",
+    "summary": "<p>IT之家 1 月 19 日消息，据外媒 Windows Central 报道，微软正在为 Xbox 云游戏引入“广告方案”，允许已购买数字版 Xbox 游戏，<strong>但并未订阅 Xbox Game Pass 的用户通过“看广告”方式免费玩云游戏</strong>。</p><p>外媒表示，这一策略背后，与当下硬件成本和云计算经济性密切相关。随着 AI 需求激增，DRAM、SSD 等传统游戏硬件所依赖的关键组件价格不断上涨，主机和整机设备的成本随之走高，PS5、Xbox Series X|S 以及任天堂 Switch 均受到影响。云游戏和英伟达 GeForce Now 等服务因此被视为硬件价格高企背景下的一种替代方案，但云服务本身同样需要高昂的运营成本。</p><p>在云计算领域，“闲置算力”是最昂贵的浪费。<strong>通过引入带有广告的 Xbox 云游戏服务，微软可以在用户低负载时段提高 Azure 服务器的利用率，同时在云与 AI 成为公司核心战略的背景下，为数据中心持续扩张提供更充分的商业理由</strong>。</p><p>在整个游戏行业环境并不乐观的当下，Xbox 在主机硬件市场的表现并不算亮眼。Xbox Series X|S 的销量未能大幅拉动市场，关税问题、Roblox、Fortnite 等“随处可玩”的免费 PC / 手机游戏崛起，以及 TikTok 等其他娱乐形式的分流，都在持续挤压传统主机厂商的空间。过去半年，受 DRAM 价格上涨等因素影响，任天堂股价下跌约 30%，索尼 PlayStation 的硬件销售今年同样出现下滑。</p><p>不过，与主机市场形成对比的是，PC 游戏和 Steam 平台仍在持续增长。核心玩家群体正在向 PC 集中，年轻用户随着消费能力提升，更倾向于追随主播、使用模组工具、参与 Steam 促销，并享受更开放的生态。这一趋势也促使微软持续加码 PC 端布局，通过 Xbox Game Pass、Xbox PC 商店以及与 OEM 合作的 PC 形态 Xbox 设备来寻找新增量。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "苹果督促用户更新 iPhone 至 iOS 26.2，以修复遭黑客利用的 WebKit 安全漏洞",
+    "link": "https://www.ithome.com/0/914/309.htm",
+    "date": "2026-01-19 06:51",
+    "summary": "<p>IT之家 1 月 19 日消息，苹果在官网发布公告，敦促 iPhone / iPad 用户尽快更新系统至最新版本，旧版本系统中存在“极其复杂”的 WebKit 安全漏洞，尚未安装最新更新的用户将面临严重安全风险。</p><p>具体来说，相应漏洞为 CVE-2025-43529 和 CVE-2025-14174，由谷歌威胁分析小组（Google Threat Analysis Group）发现，并已遭黑客利用。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2025/12/114e424f-ccd0-4e62-be3b-bc4d5fa286c2.jpg?x-bce-process=image/format,f_auto\" /></p><p>据苹果描述，WebKit 安全漏洞可被攻击者利用，通过诱导用户访问恶意网页，从而在设备上执行任意代码，接管手机的部分功能，不过苹果并未披露黑客攻击的具体目标及受影响设备的数量。</p><p>苹果表示，相关安全补丁已在新款机型适用的 iOS 26.2 以及较旧机型适用的 iOS 18.7.3 中修复，新版本通过改进内存管理和验证机制，彻底阻断了恶意网页内容触发“任意代码执行”的风险。并建议用户在完成更新后重启设备，以降低短期内遭受攻击的风险。</p>"
+  },
+  {
+    "source": "IT之家",
+    "category": "IT之家",
+    "title": "轻量 JavaScript 框架 jQuery 推出 4.0 正式版，放弃支持微软 IE 10 浏览器",
+    "link": "https://www.ithome.com/0/914/308.htm",
+    "date": "2026-01-19 06:40",
+    "summary": "<p>IT之家 1 月 19 日消息，JQuery 是一款受到广泛赞誉的轻量 JavaScript 框架，目前官方推出了 JQuery 4.0 正式版本，号称是近 10 年来的首个重大版本更新，小伙伴可以<a href=\"https://blog.jquery.com/2026/01/17/jquery-4-0-0/\" target=\"_blank\" title=\"点此访问\">点此访问</a>项目地址。</p><p style=\"text-align: center;\"><img class=\"no-alt-img\" src=\"https://img.ithome.com/newsuploadfiles/2026/1/5221106f-33b4-49e0-b13f-0053018ce60b.jpg?x-bce-process=image/format,f_auto\" /></p><p>在兼容性方面，<strong>jQuery 4.0 正式放弃对 IE10 及更早版本的支持</strong>（官方同时预告 IE11 将在后续 jQuery 5.0 中逐步淘汰）。同时也停止支持 Edge Legacy、过旧的 iOS 与 Firefox 版本以及 Android Browser。如果用户仍需要使用这些老旧浏览器，应当继续使用 jQuery <span class=\"link-text-start-with-http\">3.x</span>。</p><p>安全能力方面，新版本引入 Trusted Types 支持，确保在启用 CSP（内容安全策略）的场景下安全处理 HTML 内容。同时，异步脚本加载机制更多改为使用 &lt;script&gt; 标签，减少因内联脚本带来的 CSP 报错问题。</p><p>在工程化升级上，jQuery 源码已从 AMD 架构迁移至 ES Modules，并采用 Rollup 打包，使其更好适配现代构建工具、开发流程以及原生模块化浏览器环境。</p><p>此外，jQuery 原型链上仅供内部使用的 push、sort、splice 等方法也被移除，需要时可用原生数组方法替代。事件系统方面，焦点相关事件顺序已统一遵循最新 W3C 规范，不再覆盖浏览器原生行为，这一调整属于破坏性改动，但让跨浏览器行为更加一致。</p><p>精简版（Slim）构建也迎来更新，进一步移除了 Deferred 和 Callbacks 模块，体积降至约 19.5KB（gzip）。在现代浏览器环境下，大多数场景可直接使用原生 Promise。如果需要兼容 IE11，则建议使用完整版本或额外引入 polyfill。</p><ul class=\" list-paddingleft-2\"><p>此外，IT之家注意到官方还删除了多项已弃用的 API，其中包含：</p><ul class=\" list-paddingleft-2\"><li><p><span class=\"link-text-start-with-http\">jQuery.cssNumber</span></p></li><li><p><span class=\"link-text-start-with-http\">jQuery.cssProps</span></p></li><li><p><span class=\"link-text-start-with-http\">jQuery.isArray</span></p></li><li><p><span class=\"link-text-start-with-http\">jQuery.parseJSON</span></p></li><li><p><span class=\"link-text-start-with-http\">jQuery.nodeName</span></p></li><li><p><span class=\"link-text-start-with-http\">jQuery.isFunction</span></p></li><li><p><span class=\"link-text-start-with-http\">jQuery.isWindow</span></p></li><li><p><span class=\"link-text-start-with-http\">jQuery.camelCase</span></p></li><li><p><span class=\"link-text-start-with-http\">jQuery.type</span></p></li><li><p><span class=\"link-text-start-with-http\">jQuery.now</span></p></li><li><p><span class=\"link-text-start-with-http\">jQuery.isNumeric</span></p></li><li><p><span class=\"link-text-start-with-http\">jQuery.trim</span></p></li><li><p><span class=\"link-text-start-with-http\">jQuery.fx.interval</span></p></li></ul></ul>"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "警方斥资数百万购入神秘电话追踪软件，却拒绝透露具体用途",
+    "link": "https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/",
+    "date": "2026-01-19 07:48",
+    "summary": "Police Invested Millions in Shadowy Phone-Tracking Software Won''t Say How Used"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "预测市场正引领一个新闻变成赌博的世界",
+    "link": "https://www.msn.com/en-us/money/markets/america-is-slow-walking-into-a-polymarket-disaster/ar-AA1Upfdb",
+    "date": "2026-01-19 07:17",
+    "summary": "Prediction markets are ushering in a world in which news becomes about gambling"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "Show HN: ChunkHound，一款优先处理本地代码的大型代码库理解工具",
+    "link": "https://github.com/chunkhound/chunkhound",
+    "date": "2026-01-19 07:17",
+    "summary": "ChunkHound, a local-first tool for understanding large codebases"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "Flux 2 Klein 纯C推理",
+    "link": "https://github.com/antirez/flux2.c",
+    "date": "2026-01-19 05:41",
+    "summary": "Flux 2 Klein pure C inference"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "软件工程师不能再忽视自己的软技能",
+    "link": "https://www.qu8n.com/posts/most-important-software-engineering-skill-2026",
+    "date": "2026-01-19 05:41",
+    "summary": "Software engineers can no longer neglect their soft skills"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "从零开始：训练3000万参数的拓扑变压器",
+    "link": "https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer",
+    "date": "2026-01-19 04:35",
+    "summary": "Starting from scratch: Training a 30M Topological Transformer"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "社交文件系统",
+    "link": "https://overreacted.io/a-social-filesystem/",
+    "date": "2026-01-19 04:35",
+    "summary": "A Social Filesystem"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "高斯溅射——AAP Rocky《直升机》音乐录影带",
+    "link": "https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting",
+    "date": "2026-01-19 04:02",
+    "summary": "Gaussian Splatting – AAP Rocky \"Helicopter\" music video"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "欧盟与南共市国家签署具有里程碑意义的自由贸易协定",
+    "link": "https://www.dw.com/en/eu-and-mercosur-countries-sign-landmark-free-trade-deal/a-75545794",
+    "date": "2026-01-19 04:02",
+    "summary": "EU and Mercosur countries sign landmark free trade deal"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "一款适用于Linux的免费开源rootkit",
+    "link": "https://lwn.net/SubscriberLink/1053099/19c2e8180aeb0438/",
+    "date": "2026-01-19 03:29",
+    "summary": "A free and open-source rootkit for Linux"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "丹麦、芬兰、法国、德国、荷兰、挪威、瑞典、英国的声明",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/statement-by-denmark-finland-france-germany-the-netherlands-norway-sweden-and-the-united-kingdom-2403016",
+    "date": "2026-01-19 02:56",
+    "summary": "Statement by Denmark, Finland, France, Germany, Netherlands, Norway, Sweden, UK"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "诺贝尔奖与获奖者密不可分",
+    "link": "https://www.nobelpeaceprize.org/press/press-releases/the-nobel-prize-and-the-laureate-are-inseparable",
+    "date": "2026-01-19 02:22",
+    "summary": "The Nobel Prize and the Laureate Are Inseparable"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "什么是Plan 9？",
+    "link": "https://fqa.9front.org/fqa0.html#0.1",
+    "date": "2026-01-19 02:22",
+    "summary": "What is Plan 9?"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "科学家如何利用Claude加速研究与发现",
+    "link": "https://www.anthropic.com/news/accelerating-scientific-research",
+    "date": "2026-01-19 02:22",
+    "summary": "How scientists are using Claude to accelerate research and discovery"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "不准携带刀具，仅限厨师刀",
+    "link": "https://kellykozakandjoshdonald.substack.com/p/no-knives-only-cook-knives",
+    "date": "2026-01-19 01:49",
+    "summary": "No knives, only cook knives"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "那件让我感到快乐的事",
+    "link": "https://www.stephenlewis.me/blog/the-thing-that-brought-me-joy/",
+    "date": "2026-01-19 01:49",
+    "summary": "The thing that brought me joy"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "丹麦、芬兰、法国、德国、荷兰、挪威、瑞典、英国的声明",
+    "link": "https://www.presidentti.fi/statement-by-denmark-finland-france-germany-the-netherlands-norway-sweden-and-the-united-kingdom-englanniksi/",
+    "date": "2026-01-19 01:16",
+    "summary": "Statement by Denmark, Finland, France, Germany, the Netherlands,Norway,Sweden,UK"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "\"你好\"一词六百年的起源",
+    "link": "https://www.bbc.com/culture/article/20260113-hello-hiya-aloha-what-our-greetings-reveal",
+    "date": "2026-01-19 00:43",
+    "summary": "The 600-year-old origins of the word ''hello''"
+  },
+  {
+    "source": "Hacker News 热门",
+    "category": "Hacker News 热门",
+    "title": "AGI中的A代表广告",
+    "link": "https://ossa-ma.github.io/blog/openads",
+    "date": "2026-01-19 00:09",
+    "summary": "The A in AGI Stands for Ads"
+  }
+]
